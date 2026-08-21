@@ -1,0 +1,15 @@
+{
+  "chain": "Noodle Box Australia",
+  "source_url": "https://noodlebox.com.au/menu",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Noodle Box menu, 2026 dietary/allergen PDF, and 2023 nutrition guide PDF were checked on 2026-07-07.",
+    "The current official menu lists vegetarian plant-based rows with kJ, including KFT (Korean Fried Coated Tofu) at 3335 kJ / 4799 kJ and multiple plant-based tofu or plant-based chicken boxes.",
+    "The February 2026 allergen PDF confirms PB KFT - Korean Fried Coated Tofu and other PB rows as vegetarian/plant-based, but does not publish calories or protein.",
+    "The older 2023 nutrition guide publishes calories and protein for generic boxes and protein add-ons. It cleanly lists Crispy Tofu at 130 kcal / 14 g protein and Organic Tofu at 80 kcal / 14 g protein, but it does not list the current KFT or current plant-based box rows.",
+    "Do not import current meals by mixing current menu kJ with 2023 generic box/add-on protein rows. That would be a high-maintenance estimate and could become low confidence as recipes and serving sizes changed after 2023.",
+    "Revisit if Noodle Box publishes a current nutrition guide with calories and protein for the current plant-based menu."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

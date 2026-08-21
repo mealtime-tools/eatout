@@ -1,0 +1,13 @@
+{
+  "chain": "Shift Eatery",
+  "source_url": "https://www.shifteatery.com.au/menu",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Shift Eatery menu was checked on 2026-07-07.",
+    "The official menu says everything is vegan and includes smoked tofu, vegan Thai beef salad, a poke bowl with smoked tofu and edamame, Big Bad Bowl 2.0 with falafel, and a Gimme Dat Protein smoothie.",
+    "The Squarespace menu publishes ingredients and dietary tags but no serving sizes, calories, kJ, protein, carbohydrate, or fat values.",
+    "Do not import without a macro source. The menu is a strong real-world option, but protein estimates would depend on house vegan meats, tofu portions, smoothie powder amounts, sauces, bread, rice, dressing, nuts, and falafel sizing."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

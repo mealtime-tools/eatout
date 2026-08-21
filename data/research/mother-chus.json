@@ -1,0 +1,13 @@
+{
+  "chain": "Mother Chu's Vegetarian Kitchen",
+  "source_url": "https://www.motherchusvegetarian.com.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official website and 2025 takeaway menu PDF were checked on 2026-07-07.",
+    "The 2025 menu contains many vegetarian protein candidates, including soya bean rolls, crispy tofu, tofu and tempeh dishes, edamame, soy nuggets, soy slices, and vegetarian curry.",
+    "No calories, kJ, protein, carbohydrate, or fat values were found on the official website or extracted from the takeaway menu PDF.",
+    "Do not import from generic tofu/tempeh Chinese restaurant estimates; sauces, nuts, oil, serving size, frying, rice/noodle pairings, and mock-meat ingredients make those estimates low confidence."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

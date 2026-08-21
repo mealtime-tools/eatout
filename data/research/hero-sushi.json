@@ -1,0 +1,17 @@
+{
+  "chain": "Hero Sushi Australia",
+  "source_url": "https://herosushi.com.au/nutrition-info/",
+  "confidence": "medium",
+  "notes": [
+    "Official Hero Sushi Australia nutrition and product pages were checked on 2026-07-05. The official nutrition table publishes energy in kJ and vegetarian badges for many items, but generally does not publish protein grams.",
+    "Calories are converted from official kJ values using 1 kcal = 4.184 kJ and rounded to one decimal.",
+    "Only items with official product-page protein grams are proposed. Vegetarian suitability for these two rows is inferred from item names and ingredients, not from a visible VEG badge on the product page.",
+    "Trap: the nutrition table marks some obviously non-vegetarian names with a VEG badge, including Garlic Soy Chicken Roll, so badges were not used blindly.",
+    "Trap: related-product quick views embedded in product pages can contain macro tables for a different product. Values here come from the main product description, not related-product popups.",
+    "Trap: official menu/listing kJ values sometimes differ between kiosk/menu and train-menu contexts. Treat each source URL as a specific menu product, not a universal Hero Sushi item.",
+    "Agedasi Tofu may use dashi or shared fryer/prep processes depending on store practice; confirm suitability before importing as a strict vegetarian item.",
+    "Plain Udon is listed with ingredient 'Udon plain' and explicit macros, but it is not visibly VEG-badged in the official pages checked.",
+    "Official VEG-badged sides/extras such as Edamame, Seaweed Salad, Seaweed Inari, Plain Inari, Vege Gyoza, Spring Roll, Mix Vege Tempura, and Baby Avocado/Cucumber were omitted because no official product-page protein grams were found for the named product."
+  ],
+  "canonical_source": "../sources/hero-sushi.json"
+}

@@ -1,0 +1,14 @@
+{
+  "chain": "Lord of the Fries Australia",
+  "source_url": "https://www.lordofthefries.com.au/menu/",
+  "confidence": "high",
+  "notes": [
+    "Official Lord of the Fries Australia menu pages publish per-serving nutrition for individual items, including Energy (Cal) and Protein (g).",
+    "Lord of the Fries describes the chain as vegan and vegetarian friendly, but these rows only mark vegetarian true; strict vegan suitability should still be checked against the current ingredients and allergen text for each item.",
+    "Official disclaimer: food may be manufactured in facilities that process non-vegan products, may contain traces of non-vegan material, and nutrition is indicative because products vary from state to state.",
+    "Serving sizes differ materially by item and variant. Do not merge big/premium burgers, HSP sizes, fry types, or munch boxes without explicit nutrition rows.",
+    "Some official side pages list kilojoules and protein but leave Energy (Cal) blank, such as Nuggets and Fried Chick'n; those items are intentionally omitted.",
+    "HSP nutrition rows on the official page appear internally unusual for carbohydrate/sugar/sodium column placement, so only the clearly named per-serving calories and protein are proposed here."
+  ],
+  "canonical_source": "../sources/lord-of-the-fries.json"
+}

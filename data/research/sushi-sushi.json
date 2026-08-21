@@ -1,0 +1,16 @@
+{
+  "chain": "Sushi Sushi Australia",
+  "source_url": "https://cdn.sanity.io/files/kwefa302/production/e5859ca999daff9d4b4241ccef90e9894c1055da.pdf",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "No importable vegetarian Sushi Sushi Australia meals are proposed because the current official allergen information PDF publishes kilojoules and serve size, but not protein grams.",
+    "The official allergen PDF is linked from https://www.sushisushi.com.au/our-menu and is dated 03 July 2026. It states products are made daily in store and product range may vary by store.",
+    "The official menu data marks vegetarian preference rows and displays kJ values, but the product schema used by the public site does not expose protein_g. Calories can be derived from official kJ with 1 kcal = 4.184 kJ, but protein cannot be sourced officially.",
+    "Official vegetarian-current examples with kJ only include White Rice Vegetarian hand roll at 548 kJ, Brown Rice Vegetarian at 670 kJ, White Rice Tofu & Cucumber at 631 kJ, Plain Inari at 354 kJ, Tamago Nigiri at 255 kJ, Seaweed Salad at 446 kJ, and Salted Edamame at 612 kJ.",
+    "Trap: the official PDF says no products are sold as allergen free or certified as vegetarian or vegan, and all menu items may contain or contact wheat, crustacea, mollusc, egg, milk, fish, soy, sesame, tree nuts, and sulphites.",
+    "Trap: older third-party macro pages list protein for some Sushi Sushi items, but several current official kJ values differ from those third-party calories. Do not mix those protein values into app data without a current official nutrition source.",
+    "Vegetarian sides and extras are intentionally omitted. Salted Edamame and Seaweed Salad have official kJ values, but no official protein grams were found."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

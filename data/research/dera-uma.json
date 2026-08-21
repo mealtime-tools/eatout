@@ -1,0 +1,13 @@
+{
+  "chain": "Dera Uma George Street",
+  "source_url": "https://www.instagram.com/derauma/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Dera Uma was checked on 2026-07-07 after it appeared in the nearby Japanese candidate list.",
+    "Search results and social posts show Japanese bowls, curry, dosirak-style sets, and katsu-style items, but no official nutrition page or public menu data with macros was found.",
+    "No calories, kJ, protein, carbohydrate, or fat values were found from an official Dera Uma source.",
+    "Do not import from social/delivery menu descriptions or generic donburi/curry estimates; portion sizes and sauces are too variable for a high-confidence estimate."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

@@ -1,0 +1,106 @@
+{
+  "reviewed_at": "2026-07-07T00:23:55.409Z",
+  "restaurant": "Soul Origin",
+  "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+  "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": false,
+  "base_items": [
+    {
+      "item_name": "Bocconcini Salad (Regular)",
+      "calories_kcal": 320.3,
+      "protein_g": 22.6,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; regular salad, 270 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 22.1,
+      "carbs_g": 6.9
+    },
+    {
+      "item_name": "Haloumi Salad (Regular)",
+      "calories_kcal": 525.8,
+      "protein_g": 22,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; regular salad, 315 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 30.9,
+      "carbs_g": 35.6
+    },
+    {
+      "item_name": "Pesto Veggie Baguette",
+      "calories_kcal": 590.3,
+      "protein_g": 19.7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; 320 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 23.2,
+      "carbs_g": 74.1
+    },
+    {
+      "item_name": "Haloumi & Veggie Brekkie Wrap",
+      "calories_kcal": 470.8,
+      "protein_g": 20.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; 213 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 27,
+      "carbs_g": 34.2
+    },
+    {
+      "item_name": "Falafel Salad (Regular)",
+      "calories_kcal": 616.6,
+      "protein_g": 16.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; regular salad, 390 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 27.9,
+      "carbs_g": 70.6
+    },
+    {
+      "item_name": "Falafel Wrap",
+      "calories_kcal": 480.4,
+      "protein_g": 15,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; 250 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 18.6,
+      "carbs_g": 61.2
+    },
+    {
+      "item_name": "Plant Based Schnitzel Wrap",
+      "calories_kcal": 490,
+      "protein_g": 13.4,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; 233 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 26.7,
+      "carbs_g": 45.6
+    },
+    {
+      "item_name": "Green Goddess Salad (Regular)",
+      "calories_kcal": 193.1,
+      "protein_g": 7.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Soul Origin April 2026 PDF; regular salad, 240 g serve.",
+      "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+      "fat_g": 9.9,
+      "carbs_g": 14.9
+    }
+  ],
+  "add_ons": []
+}

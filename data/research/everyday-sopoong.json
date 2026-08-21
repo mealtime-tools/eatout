@@ -1,0 +1,14 @@
+{
+  "chain": "Everyday SoPoong",
+  "source_url": "https://qrcode.qonus.com.au/sopoong/takeaway",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Nearby QonUS ordering page redirects to webv2.qonus.com.au and resolves to QonUS store code 210813sopoong.",
+    "Live QonUS product API checked on 2026-07-07 returned 85 products with nutrition fields present in the schema, but every kJ, calorie, protein, carbohydrate, and fat value was zero or null.",
+    "The menu has vegetarian-looking candidates such as Kimchi Pancake, Hot Stone Bibimbap, and Bibimbap Set, but QonUS does not mark vegetarian status reliably for this store and does not provide usable macros.",
+    "Several tofu-looking rows include seafood or pork in the product name, so tofu naming is not enough to treat the dish as vegetarian.",
+    "Do not import without another source for both calories and protein; estimating Korean pancakes, bibimbap, or tofu stew from generic dish data would be low confidence."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

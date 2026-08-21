@@ -1,0 +1,30 @@
+{
+  "reviewed_at": "2026-07-07T00:23:55.409Z",
+  "restaurant": "Hero Sushi",
+  "source_url": "https://herosushi.com.au/nutrition-info/",
+  "maps_url": "https://maps.google.com/?cid=5078362902055528705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": false,
+  "base_items": [
+    {
+      "item_name": "Plain Udon",
+      "calories_kcal": 147.9,
+      "protein_g": 4.1,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Hero Sushi product page; vegetarian status inferred from plain udon product naming.",
+      "source_url": "https://herosushi.com.au/product/plain-udon-3/"
+    },
+    {
+      "item_name": "Agedasi Tofu",
+      "calories_kcal": 162,
+      "protein_g": 7.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Hero Sushi product page; tofu item, but agedashi may involve dashi so verify if strict vegetarian.",
+      "source_url": "https://herosushi.com.au/product/agedasi-tofu/"
+    }
+  ],
+  "add_ons": []
+}

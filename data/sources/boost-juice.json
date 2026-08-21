@@ -1,0 +1,70 @@
+{
+  "reviewed_at": "2026-07-07T00:23:55.409Z",
+  "restaurant": "Boost Juice",
+  "source_url": "https://www.boostjuice.com.au/drinks/",
+  "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+  "allow_add_ons": false,
+  "base_items": [
+    {
+      "item_name": "Protein Supreme (Original)",
+      "calories_kcal": 502,
+      "protein_g": 29.1,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Boost Juice original nutrition row.",
+      "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/"
+    },
+    {
+      "item_name": "Protein Supreme (Medium)",
+      "calories_kcal": 340,
+      "protein_g": 20.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Boost Juice medium nutrition row.",
+      "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/"
+    },
+    {
+      "item_name": "Gym Junkie (Original)",
+      "calories_kcal": 390,
+      "protein_g": 20.5,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Boost Juice original nutrition row.",
+      "source_url": "https://www.boostjuice.com.au/drinks/gym-junkie/"
+    },
+    {
+      "item_name": "Choc Muscle Hustle (Original)",
+      "calories_kcal": 485,
+      "protein_g": 22.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Boost Juice original nutrition row.",
+      "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/"
+    },
+    {
+      "item_name": "Choc Muscle Hustle (Medium)",
+      "calories_kcal": 390,
+      "protein_g": 17.7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Boost Juice medium nutrition row.",
+      "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/"
+    },
+    {
+      "item_name": "Strawbrekkie (Original)",
+      "calories_kcal": 423,
+      "protein_g": 21.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Boost Juice original nutrition row.",
+      "source_url": "https://www.boostjuice.com.au/drinks/strawbrekkie/"
+    }
+  ],
+  "add_ons": []
+}

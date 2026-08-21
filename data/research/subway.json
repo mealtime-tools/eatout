@@ -1,0 +1,16 @@
+{
+  "chain": "Subway Australia",
+  "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
+  "confidence": "high",
+  "notes": [
+    "Official Subway Australia nutrition PDF linked from https://www.subway.com/en-au/menunutrition as Nutrition data table [PDF]; PDF title is AUSTRALIA NUTRITION INFORMATION, October 2025.",
+    "All calories and protein values are official per-serve values, not calculated from per-100g data. Subway says Footlong sub values are approximately double the Subway 6-Inch sub values.",
+    "Subway says nutrition is based on standard recipes and formulations, but values may vary by season, supplier, region, and small product assembly differences.",
+    "Vegetarian suitability is inferred from meat-free official item rows plus the official Product Ingredients Guide at https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-ingredient-summary.pdf. The Allergen Guide is at https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-allergens-summary.pdf.",
+    "Strict vegetarian trap: Subway warns restaurants use shared equipment and cannot guarantee items are free from contact with other menu items or allergens.",
+    "Dairy and egg trap: most higher-protein vegetarian options include cheese, garlic aioli, or egg. Veggie Delite with Avo is lower protein but simpler.",
+    "Naming trap: the live menu currently lists Falafel Delight in some places, while the official October 2025 nutrition table uses Smashed Falafel. Rows below use the nutrition-table names.",
+    "Selected-location or low-protein extras such as beetroot, avocado, vegetables, sauces, cookies, and smoothies are omitted from add_ons."
+  ],
+  "canonical_source": "../sources/subway.json"
+}

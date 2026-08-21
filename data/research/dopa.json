@@ -1,0 +1,14 @@
+{
+  "chain": "Dopa Donburi and Dessert",
+  "source_url": "https://dopa.com.au/menus/dopa-donburi-express/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Dopa homepage, restaurant menu, express menu, WordPress metadata, and linked Abacus ordering page were checked on 2026-07-07.",
+    "The official menus include vegetarian candidates such as Eggplant Don, Eggplant Don Meal Set, Eggplant Soba Salad, Eggplant Curry Don, mixed vegetable tempura roll, and a vegetable tempura kids meal.",
+    "The official menu pages publish ingredients and descriptions, but no serving sizes, calories, kJ, protein, carbohydrate, or fat values.",
+    "The linked Abacus ordering page is a client-rendered NomniOrdering page; visible bootstrap and bundle strings did not expose nutrition fields.",
+    "Do not import until a macro source is found; eggplant/tempura donburi estimates would be low confidence because rice quantity, frying oil, sauces, curry, dressing, and tempura portions vary by item."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

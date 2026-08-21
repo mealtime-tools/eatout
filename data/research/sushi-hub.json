@@ -1,0 +1,15 @@
+{
+  "chain": "Sushi Hub Australia",
+  "source_url": "https://www.sushihub.com.au/our-products/",
+  "confidence": "medium-high",
+  "notes": [
+    "Official Sushi Hub Australia Our Products page publishes protein, total fat, carbohydrate, and energy in kJ for each listed product; calories here are converted using 1 kcal = 4.184 kJ and rounded to one decimal.",
+    "Product cards repeat the nutrition layout without a table boundary; Grilled Tamagoyaki uses its own 6.9 g protein, 14.7 g fat, 19 g carbohydrate, and 983 kJ values rather than the adjacent Tempura Veggie row.",
+    "Serving weights are not published on the product page, so serving_size_g is omitted.",
+    "The Sushi Hub allergen PDF linked from the products page is dated July 2024 and warns that traces may transfer during processing, storage, or store preparation; do not treat these as allergen-free.",
+    "Vegetarian suitability is inferred from item names and product category naming on the official page, not from a dedicated vegetarian nutrition table.",
+    "Sushi Hub has several fish/seafood items with egg, tuna, crab, unagi, salmon, or prawn in the name; these are excluded even when they may look similar to vegetarian rolls.",
+    "Some vegetarian sushi is low protein. This proposal favours tofu, meat-free chicken, egg, edamame, and the vegetarian box where official macro values are explicit."
+  ],
+  "canonical_source": "../sources/sushi-hub.json"
+}

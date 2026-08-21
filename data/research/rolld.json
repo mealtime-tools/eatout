@@ -1,0 +1,16 @@
+{
+  "chain": "Roll'd Australia",
+  "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
+  "confidence": "high",
+  "notes": [
+    "Official Roll'd Australia nutrition page links to the March 2026 'Nitty Gritty' nutrition PDF and dietary/allergen guide; live product pages also publish per-item nutrition tables.",
+    "Calories are converted from official kJ per serve using 1 kcal = 4.184 kJ, rounded to one decimal.",
+    "Values below use the live Roll'd Australia product pages where available because some March 2026 PDF rows conflict with the live product pages for vegetarian bowls.",
+    "Vegetarian status is taken from the live product page dietary preferences and cross-checked against the official dietary/allergen guide where practical.",
+    "Nuoc Mam is a trap: Roll'd notes standard Nuoc Mam contains fish sauce. The vegetarian tofu bowl pages reviewed specify Veg Nuoc Mam on the side, while the allergen guide says some Bun, Com, and Goi tables are without dressing.",
+    "Tofu Banh Mi is vegetarian as listed, but the page says mayonnaise contains egg and should be removed for a vegan option.",
+    "Tofu Vietnamese Salad (Goi) is listed vegan/vegetarian on the product page, but its page also says it is served with crab crackers and the allergen guide says to remove crab crackers and Nuoc Mam to make Goi vegan/vegetarian.",
+    "No standalone tofu add-on was included because no official standalone tofu portion macro row was found."
+  ],
+  "canonical_source": "../sources/rolld.json"
+}

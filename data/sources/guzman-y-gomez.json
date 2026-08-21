@@ -1,0 +1,151 @@
+{
+  "reviewed_at": "2026-07-07T00:23:55.409Z",
+  "restaurant": "Guzman y Gomez",
+  "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+  "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": true,
+  "base_items": [
+    {
+      "item_name": "Mild Sautéed Vegetables with Guacamole Burrito",
+      "calories_kcal": 808,
+      "protein_g": 24,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG burrito row; 550 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 35.2,
+      "carbs_g": 96.7
+    },
+    {
+      "item_name": "Mild Sautéed Vegetables with Guacamole Bowl",
+      "calories_kcal": 694,
+      "protein_g": 19.5,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG bowl row; 525 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 32.2,
+      "carbs_g": 79.8
+    },
+    {
+      "item_name": "Mild Pulled Shiitake Mushroom Bowl",
+      "calories_kcal": 785,
+      "protein_g": 27.8,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG bowl row; 455 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 38.2,
+      "carbs_g": 77.9
+    },
+    {
+      "item_name": "Mild Cheese Quesadilla",
+      "calories_kcal": 386,
+      "protein_g": 16.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG quesadilla row; 110 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "fat_g": 20.6,
+      "carbs_g": 33.3
+    },
+    {
+      "item_name": "Mild Sautéed Vegetables with Guacamole Quesadilla Plus",
+      "calories_kcal": 618,
+      "protein_g": 31.7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG quesadilla plus row; 276 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "fat_g": 38.6,
+      "carbs_g": 35.1
+    },
+    {
+      "item_name": "Mild Sautéed Vegetables with Guacamole Soft Flour Taco",
+      "calories_kcal": 243,
+      "protein_g": 9.4,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG single soft flour taco row; 188 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "fat_g": 14.2,
+      "carbs_g": 17.1
+    }
+  ],
+  "add_ons": [
+    {
+      "item_name": "Guacamole",
+      "calories_kcal": 126,
+      "protein_g": 1.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG regular burrito, bowl and salad extra; 70 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "applies_to_tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 13.2,
+      "carbs_g": 0.5
+    },
+    {
+      "item_name": "Mild Pulled Shiitake Mushroom",
+      "calories_kcal": 270,
+      "protein_g": 11.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG regular burrito, bowl and salad extra; 100 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "applies_to_tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 21.2,
+      "carbs_g": 4.5
+    },
+    {
+      "item_name": "Mild Sautéed Vegetables",
+      "calories_kcal": 53,
+      "protein_g": 1.7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG regular burrito, bowl and salad extra; 100 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "applies_to_tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 2,
+      "carbs_g": 6
+    },
+    {
+      "item_name": "Seasoned Corn",
+      "calories_kcal": 72,
+      "protein_g": 1.9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG regular burrito, bowl and salad extra; 60 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "applies_to_tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 1.4,
+      "carbs_g": 11.9
+    },
+    {
+      "item_name": "Queso (Mild)",
+      "calories_kcal": 100,
+      "protein_g": 6.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official GYG regular burrito, bowl and salad extra; 80 g serve.",
+      "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+      "applies_to_tags": ["gyg-regular-burrito-bowl-salad"],
+      "fat_g": 7.6,
+      "carbs_g": 2
+    }
+  ]
+}

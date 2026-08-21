@@ -1,0 +1,62 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+# The distribution name is prefixed because `eatout` is taken on PyPI. The
+# import stays `eatout`.
+name = "mealtime-eatout"
+version = "0.1.0"
+description = "Cited vegetarian restaurant nutrition as ranked candidate records."
+readme = "README.md"
+requires-python = ">=3.13"
+license = "MIT"
+authors = [{ name = "owahltinez", email = "oscar@wahltinez.org" }]
+keywords = ["nutrition", "restaurant", "macros", "cli", "agent"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Utilities",
+]
+dependencies = ["click>=8.1", "click-agentcli>=0.1.0"]
+
+[project.urls]
+Homepage = "https://github.com/mealtime-tools/eatout"
+
+[dependency-groups]
+dev = ["pytest>=8.0", "ruff>=0.6"]
+
+
+[project.scripts]
+eatout = "eatout.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/eatout"]
+
+# The skill is authored at the repository root, where a human sees it, and
+# mapped into the package so `eatout skill install` finds it in a wheel too.
+# Data is listed file by file rather than by directory: an `exclude` does not
+# override a force-include, so a denylist could not keep the research notes
+# and discovery dumps out of a wheel. Only the artifact the CLI reads ships.
+[tool.hatch.build.targets.wheel.force-include]
+"SKILL.md" = "eatout/skills/eatout/SKILL.md"
+"data/meals.json" = "eatout/data/meals.json"
+
+# The sdist is a working checkout: the reviewed sources and the scripts that
+# rebuild the artifact from them, without the research notes that only a
+# reviewer reads.
+[tool.hatch.build.targets.sdist]
+only-include = ["src", "scripts", "data/meals.json", "data/sources", "SKILL.md", "README.md", "LICENSE"]
+
+[tool.pytest.ini_options]
+testpaths = ["src/eatout", "scripts"]
+python_files = ["*_test.py"]
+
+[tool.ruff]
+line-length = 79

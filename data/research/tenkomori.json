@@ -1,0 +1,14 @@
+{
+  "chain": "Tenkomori Ramen House",
+  "source_url": "https://tenkomori.com.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Tenkomori website, delivery listings, and vegan/vegetarian menu snippets were checked on 2026-07-07.",
+    "The official site lists ramen, rice bowls, curry, and toppings. Public delivery listings show a separate vegan/vegetarian ramen section with items such as Vegetarian Tenkomori Ramen, Vegan Black Garlic Ramen, Vegan Red Spicy Garlic Ramen, and Vegetable Tempura.",
+    "The official website exposes menu names and descriptions but no calories, kJ, protein, carbohydrate, or fat values.",
+    "No official nutrition PDF, public menu API with macros, or per-item macro table was found.",
+    "Do not import vegan ramen or vegetable tempura curry from generic estimates; ramen broth, noodles, oil, tempura, curry, toppings, and serving size vary too much for high confidence."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

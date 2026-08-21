@@ -1,0 +1,17 @@
+{
+  "chain": "Schnitz Australia",
+  "source_url": "https://schnitz.com.au/allergens/",
+  "confidence": "low",
+  "notes": [
+    "No high-confidence vegetarian Schnitz Australia meal rows were found with both calories and protein grams from an official Australian Schnitz nutrition source.",
+    "Official Schnitz allergen information confirms a Veggie Patty protein option and lists menu components such as Garden of Eden, Mediterranean Salad, Garden Salad, Rainbow Slaw, wraps, rolls, crumbs, chips, dips, and sauces, but it does not publish calories or protein grams.",
+    "The current Schnitz ordering app and official site expose kilojoule-style menu energy display, but the public surfaces checked did not expose protein grams for vegetarian builds.",
+    "Older/menu-PDF energy figures and Redcat ordering kilojoule displays are not enough for this app because the app requires calories and protein grams per item.",
+    "Third-party macro databases list Schnitz items such as Garden of Eden, Plain & Simple, and salads, but several rows appear to be chicken-schnitzel defaults or archived products; do not use those values for vegetarian or plant-based swaps.",
+    "Official allergen wording is a trap for strict vegetarian/vegan use: Seasoned Plant-Based Batter may contain or list egg, milk, crustaceans, and fish; shared preparation means allergen-free or strict vegan suitability is not guaranteed.",
+    "Schnitz's allergen page says special customer orders and alterations to standard menu items do not apply to the allergen sheet, which makes customized vegetarian swaps especially risky to model as fixed macro rows.",
+    "Plant-based schnitzel, veggie patty wraps, salads, bowls, and vegetarian add-ons are intentionally omitted until an official source publishes both calories and protein grams for the actual vegetarian serving size."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

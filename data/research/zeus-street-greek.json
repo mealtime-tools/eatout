@@ -1,0 +1,16 @@
+{
+  "chain": "Zeus Street Greek Australia",
+  "source_url": "https://zeusstreetgreek.com.au/menus/",
+  "confidence": "low",
+  "notes": [
+    "No official Australian Zeus Street Greek nutrition table with both calories and protein grams was found during this research pass.",
+    "The official Zeus menu pages identify vegetarian candidates, including Stavros Stavrou pita, Falaf pita, Halloumi Spartan Bowl, Falafel Spartan Bowl, Zeus Slaw, Green Bean Salad, Greek Salad, Pilaf Rice, Halloumi Chips, and some vegan loukoumades, but the official pages do not publish calories, kilojoules, or protein grams for those items.",
+    "The current official menu page says pitas can be made with low carb or gluten free pita bread and warns that allergen-free dishes cannot be guaranteed because of cross-contamination risk.",
+    "Ordering and menu mirror pages show energy values for some vegetarian candidates, for example Stavros Stavrou Pita at 2390 kJ (about 571 kcal), Delphi Mushroom at 1900 kJ (about 454 kcal), Halloumi Spartan at 2830 kJ (about 676 kcal), Zeus Slaw at 1430 kJ (about 342 kcal), Green Bean Salad at 1590 kJ (about 380 kcal), Greek Salad at 1040 kJ (about 249 kcal), Pilaf Rice at 899 kJ (about 215 kcal), and Halloumi Chips at 1490 kJ (about 356 kcal). These were not added as base_items or add_ons because protein grams were not available from an official nutrition source.",
+    "Do not import halloumi, falafel, tofu, mushroom, vegetable, salad, rice, chip, dip, or vegan loukoumades add-ons from this file unless Zeus publishes official macro data with protein grams.",
+    "No tofu item with official macro data was found. Older or third-party menu references may use plant-based chicken or pulled shiitake mushroom wording, but those variants were not treated as importable official macro rows.",
+    "Main trap: third-party calorie databases and delivery pages may contain Zeus-labelled calories or kilojoules, but they are not a complete official macro source and often omit protein grams, serving sizes, or variant details."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

@@ -1,0 +1,70 @@
+{
+  "reviewed_at": "2026-07-07T00:23:55.409Z",
+  "restaurant": "SpudBAR",
+  "source_url": "https://www.spudbar.com.au/catering-1",
+  "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": false,
+  "base_items": [
+    {
+      "item_name": "The Classic",
+      "calories_kcal": 876.2,
+      "protein_g": 22.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official SpudBAR catering menu; vegetarian bowl.",
+      "source_url": "https://www.spudbar.com.au/catering-1"
+    },
+    {
+      "item_name": "The Chilli Bean Burrito",
+      "calories_kcal": 876.2,
+      "protein_g": 29.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official SpudBAR catering menu; vegetarian bowl.",
+      "source_url": "https://www.spudbar.com.au/catering-1"
+    },
+    {
+      "item_name": "The Hawaiian",
+      "calories_kcal": 700,
+      "protein_g": 23.3,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official SpudBAR catering menu; vegetarian bowl.",
+      "source_url": "https://www.spudbar.com.au/catering-1"
+    },
+    {
+      "item_name": "The Nacho",
+      "calories_kcal": 769.4,
+      "protein_g": 30.6,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official SpudBAR catering menu; vegetarian bowl.",
+      "source_url": "https://www.spudbar.com.au/catering-1"
+    },
+    {
+      "item_name": "The Moroccan",
+      "calories_kcal": 487.1,
+      "protein_g": 18,
+      "vegetarian": true,
+      "vegan": true,
+      "confidence": "exact",
+      "notes": "Official SpudBAR catering menu; vegan bowl.",
+      "source_url": "https://www.spudbar.com.au/catering-1"
+    },
+    {
+      "item_name": "The Chilli Bean Power Bowl",
+      "calories_kcal": 426,
+      "protein_g": 26,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official SpudBAR catering menu; meat-free power bowl with cottage cheese.",
+      "source_url": "https://www.spudbar.com.au/catering-1"
+    }
+  ],
+  "add_ons": []
+}

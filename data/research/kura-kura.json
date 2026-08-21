@@ -1,0 +1,13 @@
+{
+  "chain": "Kura Kura Japanese Dining",
+  "source_url": "https://www.instagram.com/kura_kura_dining/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Kura Kura Japanese Dining was checked on 2026-07-07 after it appeared in the nearby Japanese candidate list.",
+    "Public search results and social posts mention general Japanese dining and some vegetarian protein options, but no official nutrition source with calories and protein was found.",
+    "No public menu API, nutrition PDF, or macro table was found during this pass.",
+    "Do not import from menu descriptions or generic estimates; vegetarian Japanese dining items vary too much by breading, sauce, rice, oil, and portion size."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

@@ -1,0 +1,14 @@
+{
+  "chain": "Oiden Bowl Bar",
+  "source_url": "https://oiden.com.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Oiden website and public menu PDF were checked on 2026-07-07.",
+    "The website describes Japanese rice bowls and links a public menu PDF plus a secondary CBD menu page.",
+    "The public PDF is image-based and did not yield searchable nutrition text with pdftotext. The public website exposes no calories, kJ, protein, carbohydrate, or fat values.",
+    "The secondary CBD menu path linked from the site returned 401 during this check, so it cannot be used as a public source.",
+    "Do not import until an exact macro source is found; donburi and curry estimates would be low confidence because rice portions, sauces, fried toppings, egg, and add-ons vary heavily."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

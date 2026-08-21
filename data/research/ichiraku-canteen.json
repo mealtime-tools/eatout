@@ -1,0 +1,13 @@
+{
+  "chain": "Ichiraku Canteen",
+  "source_url": "https://www.instagram.com/ichirakucanteen.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Ichiraku Canteen was checked on 2026-07-07 after it appeared in the nearby Japanese/Korean candidate list.",
+    "Public search results and delivery/social listings show Japanese canteen bowls and hot meals, but no official nutrition page or macro table was found.",
+    "No usable vegetarian high-protein candidates with calories and protein were found. Available public snippets skew heavily toward beef, chicken, pork, and eel bowls.",
+    "Do not import from generic Japanese bowl estimates; rice, sauce, egg, meat/fish, and topping portions would make those low confidence."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

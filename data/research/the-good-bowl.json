@@ -1,0 +1,14 @@
+{
+  "chain": "The Good Bowl",
+  "source_url": "https://www.thegoodbowl.com.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official The Good Bowl website and linked Square ordering surface were checked on 2026-07-07.",
+    "The official website describes poke bowls, salads, acai bowls, smoothies, grab-and-go options, and customisable meals.",
+    "The public Webflow site is marketing/menu-navigation content and does not publish calories, kJ, protein, carbohydrate, or fat values.",
+    "No public Square page macro fields were found during this pass.",
+    "Do not import from generic poke/acai/salad estimates; bases, sauces, fish/tofu/protein choices, toppings, smoothie ingredients, and serving sizes make estimates low confidence."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

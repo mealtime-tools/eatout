@@ -1,0 +1,12 @@
+{
+  "chain": "Vapiano Australia",
+  "source_url": "https://vapiano.com.au/menu-food",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "The Australian menu page confirms vegetarian options and the Pitt Street Sydney location is nearby, but no Australia-specific official nutrition table with calories and protein grams was found.",
+    "Official Vapiano nutrition PDFs exist on vapiano.com and include calories and protein, but the visible documents are not clearly current Australian nutrition sources. They appear tied to Vapiano UK/global menus and should not be imported for the Sydney app without confirmation that Australian recipes and serving sizes match.",
+    "Do not import Vapiano rows from FatSecret, Scribd, OpenTable, delivery apps, or the UK PDF unless a current Australian official macro source is found."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

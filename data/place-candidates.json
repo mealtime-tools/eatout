@@ -1,0 +1,1195 @@
+{
+  "generated_at": "2026-07-05T03:19:10.930Z",
+  "queries": [
+    "vegetarian restaurants Sydney CBD",
+    "healthy takeaway Sydney CBD",
+    "burger restaurants Sydney CBD",
+    "pizza restaurants Sydney CBD",
+    "salad bowls Sydney CBD",
+    "Mexican takeaway Sydney CBD",
+    "Indian vegetarian Sydney CBD",
+    "Crust Pizza Sydney CBD",
+    "Nando's Sydney CBD",
+    "Betty's Burgers Sydney CBD"
+  ],
+  "places": [
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "Baja Cantina (Glebe)",
+      "address": "43-45 Glebe Point Rd, Glebe NSW 2037, Australia",
+      "website_url": "http://www.baja-cantina-glebe.au/",
+      "google_maps_url": "https://maps.google.com/?cid=15888708250174818118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Bar Luca",
+      "address": "52 Phillip St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.barluca.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=12667837430649507928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "bar",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "Barrio Cellar",
+      "address": "58 Elizabeth St, Sydney NSW 2000, Australia",
+      "website_url": "https://barriocellar.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=16511950100377693767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Bellucci Cucina",
+      "address": "Upper Podium, 264/278 George St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.bellucci.com.au/?utm_source=gmb",
+      "google_maps_url": "https://maps.google.com/?cid=5337592231172750231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "pizza_restaurant",
+        "cocktail_bar",
+        "bar",
+        "event_venue",
+        "service",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Betty's Burgers",
+      "address": "8 Gateway Plaza, Tenancy 5/1 Macquarie Pl, Sydney NSW 2000, Australia",
+      "website_url": "https://www.bettysburgers.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=10249348358706057300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Betty's Burgers Sydney CBD",
+      "name": "Betty's Burgers",
+      "address": "International Convention Centre Sydney (ICC Sydney E04, 14 Darling Dr, Sydney NSW 2000, Australia",
+      "website_url": "http://bettysburgers.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Binge Kitchen - Cafe in Sydney",
+      "address": "4/31 Market St, Sydney NSW 2000, Australia",
+      "website_url": "https://bingekitchen.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=14390913744953374936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Burger Bros Sydney",
+      "address": "203 Oxford St, Darlinghurst NSW 2010, Australia",
+      "website_url": "",
+      "google_maps_url": "https://maps.google.com/?cid=6187789244990363788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "halal_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Burgers Anonymous",
+      "address": "80 Oxford St, Darlinghurst NSW 2010, Australia",
+      "website_url": "https://www.burgersanonymous.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=16635933142187204048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "Cali Press Westfield Sydney",
+      "address": "Westfield Sydney, Shop 500A Level 5/188 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "",
+      "google_maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "City Oltra",
+      "address": "Shop 11/1 Eddy Ave, Haymarket NSW 2000, Australia",
+      "website_url": "http://oltra.pizza/",
+      "google_maps_url": "https://maps.google.com/?cid=7763212258428020712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "COMMON SUPPLY.",
+      "address": "161 Clarence St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.commonsupply.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=6090566932473528943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "Crust Pizza Alexandria",
+      "address": "486 Botany Rd, Alexandria NSW 2015, Australia",
+      "website_url": "https://www.crust.com.au/stores/nsw/alexandria/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page&utm_term=plcid_14372949993346634680",
+      "google_maps_url": "https://maps.google.com/?cid=3519910866218773532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "fast_food_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "italian_restaurant",
+        "meal_takeaway",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "Crust Pizza Newtown",
+      "address": "409 King St, Newtown NSW 2042, Australia",
+      "website_url": "https://www.crust.com.au/?utm_content=Crust%20Pizza%20Newtown&utm_campaign=Google%20My%20Business&utm_medium=organic&utm_source=google&utm_term=plcid_838627660809986736",
+      "google_maps_url": "https://maps.google.com/?cid=12215828950749978115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "meal_takeaway",
+      "types": [
+        "pizza_delivery",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "Crust Pizza Pyrmont",
+      "address": "208 Harris St, Pyrmont NSW 2009, Australia",
+      "website_url": "https://www.crust.com.au/stores/nsw/pyrmont/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=Pyrmont",
+      "google_maps_url": "https://maps.google.com/?cid=16356315641836206976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "pizza_delivery",
+        "meal_delivery",
+        "food_delivery",
+        "italian_restaurant",
+        "meal_takeaway",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "Crust Pizza Rushcutters Bay",
+      "address": "131 Bayswater Rd, Rushcutters Bay NSW 2011, Australia",
+      "website_url": "https://www.crust.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=12979512207046002024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "Crust Pizza Surry Hills",
+      "address": "458 Cleveland St, Surry Hills NSW 2010, Australia",
+      "website_url": "https://www.crust.com.au/stores/nsw/surry-hills/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business&utm_content=Surry%20Hills&utm_term=plcid_6075059878076656855",
+      "google_maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "pizza_delivery",
+        "meal_delivery",
+        "food_delivery",
+        "italian_restaurant",
+        "meal_takeaway",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Da Michele Sydney",
+      "address": "50 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://damichele.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=13643962417613266978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "El Camino Cantina The Rocks, Sydney",
+      "address": "18 Argyle St, The Rocks NSW 2000, Australia",
+      "website_url": "https://hunterstreethospitality.com.au/venues/el-camino-cantina/the-rocks/",
+      "google_maps_url": "https://maps.google.com/?cid=18272951613667145016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "tex_mex_restaurant",
+      "types": [
+        "tex_mex_restaurant",
+        "taco_restaurant",
+        "mexican_restaurant",
+        "cocktail_bar",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "El Loco at Excelsior",
+      "address": "64 Foveaux St, Surry Hills NSW 2010, Australia",
+      "website_url": "https://merivale.com/venues/excelsior?&utm_source=googlemybusiness_venue&utm_medium=organic&utm_campaign=googlemybusiness_venue_organic_ellocoatexcelsior&utm_content=website",
+      "google_maps_url": "https://maps.google.com/?cid=7963063527309548596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "pub",
+        "liquor_store",
+        "restaurant",
+        "food",
+        "store",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Esteban",
+      "address": "1 Temperance Ln, Sydney NSW 2000, Australia",
+      "website_url": "https://www.estebanrestaurant.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=5290668328241334075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "FISHBOWL - The Galeries",
+      "address": "500 George St, Sydney NSW 2000, Australia",
+      "website_url": "",
+      "google_maps_url": "https://maps.google.com/?cid=13839833713449453027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "salad_shop",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "FISHBOWL - World Square",
+      "address": "World Square Shopping Centre, Shop 10.36/644 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://fishbowl.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "salad_shop",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Gojima (World Square)",
+      "address": "World Square Shopping Centre, 644 George St, Sydney NSW 2000, Australia",
+      "website_url": "http://gojima.com/",
+      "google_maps_url": "https://maps.google.com/?cid=453034987433143732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "restaurant",
+        "hamburger_restaurant",
+        "japanese_restaurant",
+        "american_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "Guzman y Gomez - ICC Darling Harbour",
+      "address": "14 Darling Dr, Sydney NSW 2000, Australia",
+      "website_url": "https://www.guzmanygomez.com.au/locations/icc-darling-harbour/",
+      "google_maps_url": "https://maps.google.com/?cid=10464750818050435763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "fast_food_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "Guzman y Gomez - Westfield Sydney",
+      "address": "Westfield Sydney Food Court, Shop 5008 Level 5/188 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.guzmanygomez.com.au/locations/westfield-sydney/",
+      "google_maps_url": "https://maps.google.com/?cid=18430075446098871859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "fast_food_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "Guzman y Gomez - World Square",
+      "address": "World Square Shopping Centre, Shop 10.31/680 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.guzmanygomez.com.au/locations/world-square/",
+      "google_maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "fast_food_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "La Farmacia Sydney",
+      "address": "81 Stanley St, Darlinghurst NSW 2010, Australia",
+      "website_url": "http://www.lafarmaciasydney.com/",
+      "google_maps_url": "https://maps.google.com/?cid=642990717607007653&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "taco_restaurant",
+        "cocktail_bar",
+        "event_venue",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "La Pizza Bella",
+      "address": "310 Crown St, Darlinghurst NSW 2010, Australia",
+      "website_url": "https://lapizzabella.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=3375006937389249570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Macchiato Wood Fire Pizza and Coffee Roasters",
+      "address": "Shop 2/338 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://macchiato.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=7197904193292043948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "catering_service",
+        "wine_bar",
+        "pizza_restaurant",
+        "cocktail_bar",
+        "coffee_roastery",
+        "salad_shop",
+        "food_delivery",
+        "wholesaler",
+        "food_store",
+        "store",
+        "bar",
+        "service",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "Madam Ji Indian Restaurant",
+      "address": "13 Burton St, Darlinghurst NSW 2010, Australia",
+      "website_url": "https://www.madamji.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=9239339803892044485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "meal_takeaway",
+        "cocktail_bar",
+        "bar",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Crust Pizza Sydney CBD",
+      "name": "Made in Italy Sydney CBD",
+      "address": "37 York Ln, Sydney NSW 2000, Australia",
+      "website_url": "https://madeinitaly.com.au/italian-restaurant-sydney",
+      "google_maps_url": "https://maps.google.com/?cid=8284084114046660070&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "pizza_delivery",
+        "meal_delivery",
+        "food_delivery",
+        "italian_restaurant",
+        "meal_takeaway",
+        "manufacturer",
+        "store",
+        "supplier",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "Malabar South Indian Restaurant",
+      "address": "1/274 Victoria St, Darlinghurst NSW 2010, Australia",
+      "website_url": "http://malabarcuisine.com.au/darlinghurst/",
+      "google_maps_url": "https://maps.google.com/?cid=17364058145369970619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "Masala Kitchen World Square",
+      "address": "Shop 10.68, World Square, Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://masalakitchen.com.au/world-square/",
+      "google_maps_url": "https://maps.google.com/?cid=10234060697920156410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Matteo Downtown",
+      "address": "20 Bond St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.matteosydney.com/downtown",
+      "google_maps_url": "https://maps.google.com/?cid=3891201919737670676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Maydanoz Restaurant Bar",
+      "address": "1/50 Carrington St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.maydanoz.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=14111681888605802240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "turkish_restaurant",
+      "types": [
+        "turkish_restaurant",
+        "vegetarian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Meat District Co.",
+      "address": "r3/11 Lime St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.meatdistrictco.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=14105451565244101591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "steak_house",
+      "types": [
+        "steak_house",
+        "halal_restaurant",
+        "hamburger_restaurant",
+        "barbecue_restaurant",
+        "event_venue",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "Mexican Burrito Cantina",
+      "address": "567 Crown St, Surry Hills NSW 2010, Australia",
+      "website_url": "http://www.mexicanburritocantina.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=17323564612149620850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "vegan_restaurant",
+        "meal_delivery",
+        "burrito_restaurant",
+        "vegetarian_restaurant",
+        "food_delivery",
+        "cocktail_bar",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "MEZA Bar and Grill",
+      "address": "Level 1/95/99 York St, Sydney NSW 2000, Australia",
+      "website_url": "https://clubyork.com.au/meza-bar-grill/",
+      "google_maps_url": "https://maps.google.com/?cid=17828893071654945824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "steak_house",
+        "mediterranean_restaurant",
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Mother Chu's Vegetarian Kitchen",
+      "address": "367 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.motherchusvegetarian.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=9538398008475275116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "vegan_restaurant",
+      "types": [
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "Namaste Restaurant - Sydney",
+      "address": "2a/307 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://namasterestro.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=13621847451796611544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Nando's Sydney CBD",
+      "name": "Nando's Clarence St",
+      "address": "Tenancy 0018/155 Clarence St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.nandos.com.au/restaurants/nsw/clarence-st-155?utm_source=google&utm_medium=organic&utm_campaign=gmb-website&utm_term=NANDOSCLARENCESTREET-05rest",
+      "google_maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "restaurant",
+        "chicken_restaurant",
+        "fusion_restaurant",
+        "fast_food_restaurant",
+        "family_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "North Indian Cuisine",
+      "address": "Lower Ground Food Court, Central St, Sydney NSW 2000, Australia",
+      "website_url": "",
+      "google_maps_url": "https://maps.google.com/?cid=10666975884728881299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "Oh! Dosa - The house of Smokey Butter Chicken",
+      "address": "36-64 George St, The Rocks NSW 2000, Australia",
+      "website_url": "https://instagram.com/oh_dosa?igshid=MzMyNGUyNmU2YQ==",
+      "google_maps_url": "https://maps.google.com/?cid=13767035847649528968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "meal_takeaway",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Peace Harmony",
+      "address": "29 King St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.peaceharmony.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=5615428317618566353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "vegan_restaurant",
+      "types": [
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Pinky Ji",
+      "address": "next to Barbershop, 89 York St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.pinkyji.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=797272683501158451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "restaurant",
+        "catering_service",
+        "cocktail_bar",
+        "fine_dining_restaurant",
+        "south_indian_restaurant",
+        "food_delivery",
+        "north_indian_restaurant",
+        "indian_restaurant",
+        "meal_takeaway",
+        "bar",
+        "service",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Pizza'Mare",
+      "address": "a'Mare Sydney, Level 1M/1 Barangaroo Ave, Barangaroo NSW 2000, Australia",
+      "website_url": "https://www.crownsydney.com.au/restaurants/pizzamare",
+      "google_maps_url": "https://maps.google.com/?cid=16127812758201601116&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Primi Italian",
+      "address": "168 Clarence St, Sydney NSW 2000, Australia",
+      "website_url": "https://primiitalian.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=5555606660935370013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "PST Australia - Pizza Studio Tamaki",
+      "address": "259 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.pst.pizza/",
+      "google_maps_url": "https://maps.google.com/?cid=8539053087412009220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Ragazzi",
+      "address": "Shop 3/2-12 Angel Pl, Sydney NSW 2000, Australia",
+      "website_url": "https://www.lovetillygroup.com/ragazzi-wine-pasta",
+      "google_maps_url": "https://maps.google.com/?cid=18107382305132987293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "wine_bar",
+        "food_store",
+        "store",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Roast Republic",
+      "address": "174 Clarence St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.roastrepublic.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=12607019318599598105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "steak_house",
+      "types": [
+        "steak_house",
+        "wine_bar",
+        "barbecue_restaurant",
+        "bar_and_grill",
+        "cocktail_bar",
+        "bar",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Sal's Authentic New York Pizza - York St",
+      "address": "Shop 2/57 York St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.salspizza.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=6045622677211667078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "salad bowls Sydney CBD",
+      "name": "Salad Days CBD",
+      "address": "129 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.saladdays.au/",
+      "google_maps_url": "https://maps.google.com/?cid=13960431313349269072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "salad_shop",
+      "types": [
+        "salad_shop",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "Samosorn Thai Sydney",
+      "address": "Central Plaza Food Court 5050 Pitt St, Myer, 436 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.instagram.com/samosornthai_sydney/",
+      "google_maps_url": "https://maps.google.com/?cid=122650371860093433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "asian_restaurant",
+      "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Saravanaa Bhavan Sydney CBD",
+      "address": "263 Clarence St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.saravanaabhavan.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=8379455193967037647&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "Season² - The Galeries",
+      "address": "Shop RG05/500 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.thegaleries.com/stores/season-2",
+      "google_maps_url": "https://maps.google.com/?cid=17312604393297226799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "juice_shop",
+      "types": ["juice_shop", "food", "point_of_interest", "establishment"]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "Slim's Quality Burger",
+      "address": "Level 5 Shop 509, Cnr. Pitt Street Mall &, Market St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.slimsqualityburger.com/",
+      "google_maps_url": "https://maps.google.com/?cid=16932107948247274401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "breakfast_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "Soul Origin",
+      "address": "Shop 25A/450 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.soulorigin.com.au/blogs/stores/sydney-central-plaza",
+      "google_maps_url": "https://maps.google.com/?cid=3287063173695171475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "salad_shop",
+        "breakfast_restaurant",
+        "food_store",
+        "manufacturer",
+        "supplier",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "burger restaurants Sydney CBD",
+      "name": "The Gidley",
+      "address": "Basement/161 King St, Sydney NSW 2000, Australia",
+      "website_url": "https://www.liquidandlarder.com.au/venues/the-gidley/",
+      "google_maps_url": "https://maps.google.com/?cid=8072901867749158458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "steak_house",
+      "types": [
+        "steak_house",
+        "lounge_bar",
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "The Grand Palace - Indian Restaurant in Sydney",
+      "address": "Basement/261 George St, Sydney NSW 2000, Australia",
+      "website_url": "https://thegrandpalace.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=14244287862063297669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "wine_bar",
+        "buffet_restaurant",
+        "vegetarian_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Indian vegetarian Sydney CBD",
+      "name": "The Spice Room",
+      "address": "The Quay Building, 2 Phillip St, Sydney NSW 2000, Australia",
+      "website_url": "https://thespiceroom.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=14242559514509524819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "indian_restaurant",
+      "types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "Top Juice Galeries",
+      "address": "The Galeries Lower Ground Floor, 500 George St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.topjuice.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=12678386774552868857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "juice_shop",
+      "types": [
+        "juice_shop",
+        "salad_shop",
+        "health_food_store",
+        "grocery_store",
+        "food_store",
+        "health",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Towzen Sydney",
+      "address": "346-348 Kent St, Sydney NSW 2000, Australia",
+      "website_url": "https://towzenramen.com/sydney/",
+      "google_maps_url": "https://maps.google.com/?cid=9888779104187187293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "vegan_restaurant",
+      "types": [
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "pizza restaurants Sydney CBD",
+      "name": "Vapiano Pitt Street",
+      "address": "129 Pitt St, Sydney NSW 2000, Australia",
+      "website_url": "https://vapiano.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=11440942879865087984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "pizza_restaurant",
+        "european_restaurant",
+        "meal_takeaway",
+        "food_store",
+        "store",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "Mexican takeaway Sydney CBD",
+      "name": "VECINO Gourmet Chicken & Tacos",
+      "address": "91 Glebe Point Rd, Glebe NSW 2037, Australia",
+      "website_url": "http://www.vecino.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=7450288516031146918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "asian_fusion_restaurant",
+        "fusion_restaurant",
+        "asian_restaurant",
+        "cocktail_bar",
+        "korean_restaurant",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "healthy takeaway Sydney CBD",
+      "name": "Wholegreen Bakery & Cafe Sydney City",
+      "address": "257 Clarence St, Sydney NSW 2000, Australia",
+      "website_url": "http://www.wholegreenbakery.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=8914807296012146335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "restaurant",
+      "types": [
+        "cake_shop",
+        "diner",
+        "brunch_restaurant",
+        "cafe",
+        "meal_takeaway",
+        "breakfast_restaurant",
+        "wholesaler",
+        "bakery",
+        "food_store",
+        "manufacturer",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "query": "vegetarian restaurants Sydney CBD",
+      "name": "Yulli's",
+      "address": "417 Crown St, Surry Hills NSW 2010, Australia",
+      "website_url": "http://yullis.com.au/",
+      "google_maps_url": "https://maps.google.com/?cid=7976884207413583752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "primary_type": "vegan_restaurant",
+      "types": [
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ]
+}

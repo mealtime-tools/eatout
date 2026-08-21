@@ -1,0 +1,13 @@
+{
+  "chain": "Fishwave Oxford",
+  "source_url": "https://fishwave-oxford-108511.square.site/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Square Online site was checked on 2026-07-07. The site exposes Square catalog/category metadata for poke, sides, and drinks.",
+    "The Square bootstrap data exposes merchant, category, and fulfillment metadata, but no nutrition fields for calories, kJ, protein, carbohydrate, or fat.",
+    "The public category page does not expose product macros, and the store was not accepting orders during the check.",
+    "Do not import from generic poke estimates. Fishwave could be revisited if a current Square product API response with per-item macros becomes available, but none was found in the public page data."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

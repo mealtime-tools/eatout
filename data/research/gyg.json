@@ -1,0 +1,13 @@
+{
+  "chain": "Guzman y Gomez",
+  "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
+  "confidence": "high",
+  "notes": [
+    "Official Australian GYG allergen, ingredient, and nutritional information PDF, created May 20, 2026 and linked from https://www.guzmanygomez.com.au/nutrition/.",
+    "Nutrition is based on standard products, average serving size, supplier information, product analysis, and government databases; GYG says values may vary by supplier, season, and product variation.",
+    "Rows below use mild/default menu items only. GYG lists spicy as an additive adjustment, not separate base rows; spicy adds calories and protein.",
+    "Vegetarian suitability is inferred from meat-free official item rows and ingredient/dietary tables. GYG warns any ingredient may be present because kitchens are open and fast-paced.",
+    "Serving sizes differ by format. Add-ons are regular burrito/bowl/salad extras only and should not be blindly applied to minis or brekkie items."
+  ],
+  "canonical_source": "../sources/guzman-y-gomez.json"
+}

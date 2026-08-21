@@ -1,0 +1,14 @@
+{
+  "chain": "FISHBOWL Australia",
+  "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+  "confidence": "high",
+  "notes": [
+    "Official FISHBOWL menu page links this Shopify-hosted PDF as the Nutritional Overview; PDF title says AS OF JUNE 26.",
+    "Complete bowl macros are for the default Brown Rice & Cabbage base unless noted by FISHBOWL.",
+    "No serving weights are published in the PDF, so serving_size_g is omitted.",
+    "FISHBOWL's menu/PDF labels some salmon items with V in page markup/search output; this proposal treats fish as not vegetarian and excludes salmon.",
+    "Menu says Tofu Boys can use lime tahini upon request for VG, but the PDF macro row does not distinguish the vegan dressing swap.",
+    "Extras with protein reported only as 'less than 1 g' were excluded to keep protein values numeric and high-confidence."
+  ],
+  "canonical_source": "../sources/fishbowl.json"
+}

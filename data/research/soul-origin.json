@@ -1,0 +1,14 @@
+{
+  "chain": "Soul Origin Australia",
+  "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
+  "confidence": "high",
+  "notes": [
+    "Official Soul Origin Product Nutritional Information & Allergens PDF, last updated 20/04/2026.",
+    "Calories are converted from official kJ per serve using 1 kcal = 4.184 kJ, rounded to one decimal.",
+    "Nutrition is for standard serving sizes and recipe specifications; Soul Origin says values may vary with custom orders or ingredient substitutions.",
+    "Vegetarian suitability is taken from the PDF allergen table where the Vegetarian column is marked present, cross-checked against live menu descriptions where available.",
+    "May-contain allergen flags and shared preparation areas are a trap for strict dietary requirements; Soul Origin says it cannot guarantee allergen-free products.",
+    "Dressings have official macro data, but they are omitted from add_ons because many are standard recipe components or low-protein condiments rather than useful vegetarian protein extras."
+  ],
+  "canonical_source": "../sources/soul-origin.json"
+}

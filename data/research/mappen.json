@@ -1,0 +1,14 @@
+{
+  "chain": "Mappen Sydney CBD",
+  "source_url": "https://mappen.com.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Mappen website and Sydney CBD menu PDF were checked on 2026-07-07.",
+    "The official site describes udon, soba, ramen, rice bowls, and toppings such as shredded vegetables and tempura, and links the Sydney CBD menu PDF.",
+    "No calories, kJ, protein, carbohydrate, or fat values were found on the official website or in extracted text from the CBD menu PDF.",
+    "Search results and social posts mention vegetarian/vegan specials, but no official macro source was found.",
+    "Do not import Mappen from generic udon/soba/ramen estimates; noodle size, soup, sauce, tempura oil, tofu/egg, and self-serve toppings make estimates low confidence."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

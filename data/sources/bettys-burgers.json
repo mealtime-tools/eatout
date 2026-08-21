@@ -1,0 +1,93 @@
+{
+  "reviewed_at": "2026-08-20T00:00:00.000Z",
+  "restaurant": "Betty's Burgers",
+  "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
+  "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": true,
+  "base_items": [
+    {
+      "item_name": "Betty's Classic Plant",
+      "calories_kcal": 556.6,
+      "protein_g": 25.87,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Betty's PDF, October 2024 nutrition table.",
+      "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
+      "tags": ["bettys-classic-plant"],
+      "fat_g": 33.52,
+      "carbs_g": 38.02
+    },
+    {
+      "item_name": "Betty's Classic Vegan",
+      "calories_kcal": 874.5,
+      "protein_g": 9.17,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Betty's PDF, October 2024 nutrition table.",
+      "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
+      "fat_g": 54.76,
+      "carbs_g": 86.68
+    },
+    {
+      "item_name": "Shroom Burger",
+      "calories_kcal": 656.1,
+      "protein_g": 19.7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Betty's PDF, October 2024 nutrition table.",
+      "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
+      "fat_g": 33.69,
+      "carbs_g": 77.47
+    },
+    {
+      "item_name": "Vege Patty Super Bowl",
+      "calories_kcal": 807.6,
+      "protein_g": 22.4,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Betty's PDF, October 2024 nutrition table.",
+      "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
+      "fat_g": 46.5,
+      "carbs_g": 56.62
+    },
+    {
+      "item_name": "Smashed Avo Fetta Wrap",
+      "calories_kcal": 319.1,
+      "protein_g": 19.5,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Betty's June 2026 PDF; breakfast/select-location item. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
+      "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf"
+    },
+    {
+      "item_name": "Hash Brown",
+      "calories_kcal": 119.7,
+      "protein_g": 1.9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Betty's June 2026 PDF; breakfast side.",
+      "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
+      "fat_g": 5.6,
+      "carbs_g": 17
+    }
+  ],
+  "add_ons": [
+    {
+      "item_name": "Extra Plant-Based Patty",
+      "calories_kcal": 252.4,
+      "protein_g": 19.5,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "high_confidence_estimate",
+      "notes": "Betty's allergen PDF lists Plant Based Patty as an add-on; Retail Zoo says Classic Plant uses Love BUDS; Love BUDS burger patty nutrition is 1056 kJ and 19.5 g protein per 113 g patty. Add-on availability source: https://bucket-bettys-burger-production-stack.s3.amazonaws.com/zG926iG9A78Gwm9l5Bf76i9lS28LziAM3kDTDOOU.pdf",
+      "source_url": "https://welovebuds.com/proteins/",
+      "applies_to_tags": ["bettys-classic-plant"]
+    }
+  ]
+}

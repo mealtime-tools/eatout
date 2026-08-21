@@ -1,0 +1,16 @@
+{
+  "chain": "Taco Bell Australia",
+  "source_url": "https://tacobell.com.au/faq/",
+  "confidence": "high",
+  "notes": [
+    "No importable vegetarian Taco Bell Australia meals are proposed because the official Australian FAQ currently says nutritional data is not available for menu items.",
+    "Official Australian allergen and suitability data exists at https://tacobell.com.au/wp-content/uploads/2024/03/Taco-Bell-Allergens-March-2024.pdf, but it does not include calories or protein grams.",
+    "The March 2024 allergen PDF marks Black Beans, Seasoned Mexican Rice, lettuce, tomato, tortilla chips, and several tortillas as vegetarian and vegan friendly; dairy items such as sour cream, 4 Cheese Blend, Angel Hair Cheddar, and Nacho Cheese Sauce are ovo-lacto vegetarian, not vegan.",
+    "Taco Bell Australia's FAQ says vegetarian-friendly orders can be made by substituting or removing ingredients, and that Mexican seasoned rice and Black Beans are vegetarian and vegan-friendly.",
+    "Trap: the allergen PDF has vegetarian Bean variants for items such as Crunchwrap Supreme Beans, Chipotle Crunch Burrito Beans, Burrito Bowl Beans, and Stacked Tortilla Chips Beans, but without official calories_kcal and protein_g these should not be imported into burgerdiet.",
+    "Trap: non-Australian Taco Bell nutrition calculators or PDFs, including US and NZ sources, should not be mixed into AU app data because formulations, serving sizes, and menu builds may differ.",
+    "Bean, vegetable, and cheese add-ons are intentionally omitted; official Australian suitability exists for some ingredients, but official Australian macro data was not found."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

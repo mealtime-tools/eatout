@@ -1,0 +1,13 @@
+{
+  "chain": "Kura Ichi",
+  "source_url": "https://www.instagram.com/kuraichi.au/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Kura Ichi was checked on 2026-07-07 after it appeared in the nearby Japanese candidate list.",
+    "Public search results show sashimi and rice bowl content, but no official nutrition page, PDF, or public menu API with calories and protein was found.",
+    "The visible menu direction is fish/sashimi-forward rather than vegetarian-forward, and no vegetarian macro source was found.",
+    "Do not import without exact item macros; bowl estimates would be low confidence due to rice, seafood, sauce, egg, and topping variation."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

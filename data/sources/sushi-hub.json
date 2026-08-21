@@ -1,0 +1,128 @@
+{
+  "reviewed_at": "2026-08-20T00:00:00.000Z",
+  "restaurant": "Sushi Hub",
+  "source_url": "https://www.sushihub.com.au/our-products/",
+  "maps_url": "https://maps.google.com/?cid=12163665550151268520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": true,
+  "base_items": [
+    {
+      "item_name": "Meat-Free Chicken Avocado Maki Roll",
+      "calories_kcal": 292.1,
+      "protein_g": 7.7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 1222 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 8.1,
+      "carbs_g": 46.6
+    },
+    {
+      "item_name": "Teriyaki Tofu Maki Roll",
+      "calories_kcal": 275.1,
+      "protein_g": 10.9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 1151 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 1.9,
+      "carbs_g": 52.7
+    },
+    {
+      "item_name": "Vegetarian Box",
+      "calories_kcal": 476.3,
+      "protein_g": 11,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 1993 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 0.3,
+      "carbs_g": 105.6
+    },
+    {
+      "item_name": "Tempura Pumpkin Avocado Maki Roll",
+      "calories_kcal": 299.5,
+      "protein_g": 5,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 1253 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 8.2,
+      "carbs_g": 51
+    },
+    {
+      "item_name": "Tempura Veggie Cucumber Maki Roll",
+      "calories_kcal": 330.1,
+      "protein_g": 4.1,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 1381 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 11.5,
+      "carbs_g": 52.2
+    },
+    {
+      "item_name": "Grilled Tamagoyaki Nigiri",
+      "calories_kcal": 234.9,
+      "protein_g": 6.9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 983 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 14.7,
+      "carbs_g": 19
+    },
+    {
+      "item_name": "Tempura Veggie Nigiri",
+      "calories_kcal": 139.6,
+      "protein_g": 1.5,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 584 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 5.8,
+      "carbs_g": 20.2
+    },
+    {
+      "item_name": "Avocado & Cucumber Maki Roll",
+      "calories_kcal": 218.5,
+      "protein_g": 3.9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 914 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "tags": ["sushi-hub-side"],
+      "fat_g": 2.9,
+      "carbs_g": 43.5
+    }
+  ],
+  "add_ons": [
+    {
+      "item_name": "Edamame",
+      "calories_kcal": 167.8,
+      "protein_g": 9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Official Sushi Hub product page; 702 kJ converted to kcal.",
+      "source_url": "https://www.sushihub.com.au/our-products/",
+      "applies_to_tags": ["sushi-hub-side"],
+      "fat_g": 3.5,
+      "carbs_g": 24.8
+    }
+  ]
+}

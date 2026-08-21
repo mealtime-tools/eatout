@@ -1,0 +1,16 @@
+{
+  "chain": "Oliver's Real Food Australia",
+  "source_url": "https://goprepit.com/information/view/c81e728d9d4c2f636f067f89cc14862c-1616556288",
+  "confidence": "medium-high",
+  "notes": [
+    "Oliver's official Australia site says whole-menu nutrition is available online through Prepit and updated in real time.",
+    "Prepit pages publish per-serving calories, protein, serving size, ingredients, and allergen disclaimers for Oliver's menu items.",
+    "No static Oliver's nutrition PDF was found; use the Prepit links as the official current nutrition source referenced by Oliver's.",
+    "Calories and protein are copied from Prepit's per-serving rows. Do not recalculate from kJ unless a future source omits calories.",
+    "Vegetarian status is based on Oliver's product descriptions where they say vegan friendly, plus Prepit ingredient checks for no meat or fish. The page metadata has traps: some meat items were observed with a Vegetarian tag, so tags alone are not trusted.",
+    "Prepit warns values are average figures based on standard formulations; serving sizes and nutrients may vary by preparation, region, season, supplier changes, and cross-contact.",
+    "Keep variants separate. Gluten-free bun swaps, sauce changes, breakfast-only items, kids meals, bowls, pockets, and sides have different serving sizes and macros.",
+    "Add-ons are included only where official Prepit macro rows exist and the item is a plausible side or extra, not a low-protein condiment."
+  ],
+  "canonical_source": "../sources/olivers.json"
+}

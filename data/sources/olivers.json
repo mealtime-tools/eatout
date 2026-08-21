@@ -1,0 +1,99 @@
+{
+  "reviewed_at": "2026-07-07T00:23:55.409Z",
+  "restaurant": "Oliver's",
+  "source_url": "https://www.olivers.com.au/menu/",
+  "maps_url": "https://maps.google.com/?cid=2223757967325709079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+  "allow_add_ons": true,
+  "base_items": [
+    {
+      "item_name": "Haloumi Nourish Bowl",
+      "calories_kcal": 619,
+      "protein_g": 24.9,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Oliver's menu links to Prepit nutrition; 349 g serve.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "tags": ["olivers-side"]
+    },
+    {
+      "item_name": "Egg and Haloumi Wrap",
+      "calories_kcal": 359,
+      "protein_g": 21,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Oliver's menu links to Prepit nutrition; 206 g serve.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "tags": ["olivers-side"]
+    },
+    {
+      "item_name": "Moroccan Vegetable Bowl",
+      "calories_kcal": 590,
+      "protein_g": 13.6,
+      "vegetarian": true,
+      "vegan": true,
+      "confidence": "exact",
+      "notes": "Oliver's menu links to Prepit nutrition; 506 g vegan-friendly bowl.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "tags": ["olivers-side"]
+    },
+    {
+      "item_name": "Moroccan Vegetable Pocket",
+      "calories_kcal": 413,
+      "protein_g": 11.4,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Oliver's menu links to Prepit nutrition; 279 g serve.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "tags": ["olivers-side"]
+    },
+    {
+      "item_name": "OLI Burger",
+      "calories_kcal": 497,
+      "protein_g": 10.5,
+      "vegetarian": true,
+      "vegan": true,
+      "confidence": "exact",
+      "notes": "Oliver's menu links to Prepit nutrition; 323 g vegan-friendly burger.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "tags": ["olivers-side"]
+    },
+    {
+      "item_name": "Avocado on Sourdough",
+      "calories_kcal": 301,
+      "protein_g": 7,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Oliver's menu links to Prepit nutrition; 160 g serve.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "tags": ["olivers-side"]
+    }
+  ],
+  "add_ons": [
+    {
+      "item_name": "Steamed Edamame",
+      "calories_kcal": 146,
+      "protein_g": 13.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Prepit nutrition row linked from Oliver's; 120 g side.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "applies_to_tags": ["olivers-side"]
+    },
+    {
+      "item_name": "Protein Egg Bites",
+      "calories_kcal": 221,
+      "protein_g": 9.2,
+      "vegetarian": true,
+      "vegan": false,
+      "confidence": "exact",
+      "notes": "Prepit nutrition row linked from Oliver's; 110 g side.",
+      "source_url": "https://www.olivers.com.au/menu/",
+      "applies_to_tags": ["olivers-side"]
+    }
+  ]
+}

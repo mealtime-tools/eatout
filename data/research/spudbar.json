@@ -1,0 +1,15 @@
+{
+  "chain": "SpudBAR Australia",
+  "source_url": "https://www.spudbar.com.au/catering-1",
+  "confidence": "medium-high",
+  "notes": [
+    "Official SpudBAR Australia catering menu provides protein and kJ for vegetarian and vegan bowls; kcal values for those rows are converted using 1 kcal = 4.184 kJ and rounded to one decimal.",
+    "Official SpudBAR Australia standard menu confirms the vegetarian/vegan bowl names, dietary labels, and ingredients at https://www.spudbar.com.au/menu.",
+    "Rows are for SpudBAR's published bowl builds. Several items say 'your choice of base', but SpudBAR publishes one macro line rather than separate macros for white potato, sweet potato, brown rice and quinoa, or corn chips.",
+    "The Chilli Bean Power Bowl is meat-free from the official ingredient list and has direct official calories and protein, but it is listed under power bowls rather than the vegetarian menu section and includes cottage cheese.",
+    "Vegetarian labels use SpudBAR's menu tags where available: VG appears to mean vegetarian and VE appears to mean vegan on the current menu.",
+    "Trap: the live menu and catering page disagree slightly for the Chilli Bean Power Bowl, with the live menu showing 25 g protein and 423 calories while the catering page shows 26 g protein and 426 calories; this proposal uses the richer catering source consistently.",
+    "No add-ons are proposed because official per-extra SpudBAR macro data was not found."
+  ],
+  "canonical_source": "../sources/spudbar.json"
+}

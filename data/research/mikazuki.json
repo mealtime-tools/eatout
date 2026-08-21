@@ -1,0 +1,14 @@
+{
+  "chain": "Mikazuki City",
+  "source_url": "https://mikazuki.com.au/content/space/images/menu/MK_RS_Menu_Aug2025.pdf",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Mikazuki menu PDF and KPOS ordering page were checked on 2026-07-07 for the nearby City/Haymarket location.",
+    "The menu includes vegetarian-looking candidates such as Vegetarian Ramen, Veggie Mazesoba, Veggie Ten Don, Veg Roll, Mushroom Tobanyaki, and assorted vegetable tempura.",
+    "The official menu provides dish names, ingredients, allergen-style notes, and prices, but no serving sizes, calories, kJ, protein, carbohydrate, or fat values.",
+    "Delivery and KPOS pages expose item names, prices, category labels, and some dietary/allergen markers, but no nutrition fields were found.",
+    "Do not import until an exact macro source is found; ramen and tempura estimates would be low confidence because noodle quantity, broth, frying oil, sauce, and tofu/vegetable portions vary by item and store."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

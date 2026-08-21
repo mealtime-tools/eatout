@@ -1,0 +1,40 @@
+{
+  "chain": "Salsas Fresh Mex Australia",
+  "source_url": "https://www.calorieking.com/au/en/foods/b/calories-in-salsas-fresh-mex/KTdP5PBRQ2ejPrAlXwI1JA?catId=4TmHVi3pQjma8PMa5jjDpQ",
+  "confidence": "medium",
+  "notes": [
+    "The official Salsas Australia site at https://www.salsas.com.au/ was checked on 2026-07-05 and returned a maintenance page; /nutrition, /robots.txt, /sitemap.xml, and a WordPress search endpoint did not expose current official nutrition data.",
+    "Macro values below are from CalorieKing Australia pages for Salsa's Fresh Mex items, not from a live official Salsas PDF or nutrition calculator. Treat this as a source-backed fallback proposal, not an official import.",
+    "Vegetarian suitability is supported by item naming and by an old Salsa's Standard Nutritional Values allergen document mirrored on Scribd, version 4 dated 2013-01-29, which marks Mucho Veggie and core plant/dairy ingredients such as black beans, rice, vegetables, guacamole, cheese, and tortillas as vegetarian. The mirrored document is not treated as current macro authority.",
+    "Serving sizes are CalorieKing serving labels: Vegetarian Quesadilla 313 g, Mucho Veggie Bowl 572 g, and Mexicali Veg Salad 433 g.",
+    "Current delivery menus may use different names or recipes, for example Mucho Veggie Burrito/Bowl and Black Bean Quesadilla variants. Recheck against a live official Salsas source before importing into production.",
+    "Add-ons are intentionally omitted: CalorieKing has macro pages for Black Beans and Extra Cheese, but the task asked for add-ons/extras only if official macro data exists."
+  ],
+  "base_items": [
+    {
+      "item_name": "Vegetarian Quesadilla",
+      "calories_kcal": 543,
+      "protein_g": 20,
+      "vegetarian": true,
+      "notes": "CalorieKing Australia lists one quesadilla serving as 313 g with 543 Calories and 20 g protein. Vegetarian but dairy-based; recipe may differ from current 'Classic Quesadilla - Black Beans' naming on delivery menus.",
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-burgers-sandwiches-vegetarian-quesadilla/5EwW-ZuqQ8K1548PWdLorw"
+    },
+    {
+      "item_name": "Mucho Veggie Bowl",
+      "calories_kcal": 581,
+      "protein_g": 13.4,
+      "vegetarian": true,
+      "notes": "CalorieKing Australia lists one meal serving as 572 g with 581 Calories and 13.4 g protein. Older Salsa's allergen document marks Mucho Veggie vegetarian; current menu descriptions commonly include rice, onion and capsicum, zucchini and broccoli, corn salsa, black beans, guacamole, and chipotle salsa.",
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-meals-mucho-veggie-bowl/xqrZBYkYT4KcMvMrFJCzPQ"
+    },
+    {
+      "item_name": "Mexicali Veg Salad",
+      "calories_kcal": 235,
+      "protein_g": 7.8,
+      "vegetarian": true,
+      "notes": "CalorieKing Australia lists one salad serving as 433 g with 235 Calories and 7.8 g protein. Low protein for the app's goals; included only as a clearly vegetarian lower-calorie option from the available source.",
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-salads-mexicali-veg-salad/pF3K3_ZXQpSm5ZvaSsfg_w"
+    }
+  ],
+  "add_ons": []
+}

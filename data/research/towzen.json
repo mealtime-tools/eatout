@@ -1,0 +1,14 @@
+{
+  "chain": "Towzen Sydney",
+  "source_url": "https://towzenramen.com/menu/",
+  "confidence": "high-for-exclusion",
+  "notes": [
+    "Official Towzen menu and Sydney pages were checked on 2026-07-07. The Sydney page describes Towzen Vegan Ramen as 100% plant-based and free from alliums.",
+    "The official menu lists vegan ramen, udon, rice, sides, and salads with ingredients and descriptions, but no serving sizes, calories, kJ, protein, carbohydrate, or fat values.",
+    "The site is built on WordPress, WooCommerce, and Elementor; visible menu HTML and available page metadata did not expose nutrition fields.",
+    "A social search snippet claimed around 520 calories for one ramen bowl, but it did not provide protein or a per-item official nutrition source, so it is not importable.",
+    "Do not import until exact menu-item calories and protein are found; vegan ramen estimates would be low confidence because broth, noodle quantity, oil, sesame, nuts, tofu, and tempeh toppings vary heavily."
+  ],
+  "base_items": [],
+  "add_ons": []
+}

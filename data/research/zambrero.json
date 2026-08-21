@@ -1,0 +1,14 @@
+{
+  "chain": "Zambrero Australia",
+  "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
+  "confidence": "high",
+  "notes": [
+    "Official Australian Zambrero nutritional information PDF; PDF states nutrition data is correct as of 8 April 2026, V7.1 080426. The public allergens page currently says nutrition data is correct as of March 2026, so the PDF date is treated as the more precise source.",
+    "All meal rows below are official per-serve values from tables marked 'without sauce'. Sauce choice is not included and can add calories.",
+    "Zambrero says nutrition is based on analytical and calculated data using standard serving sizes; actual finished product sizes, assembly, formulations, seasonality, and suppliers may vary.",
+    "Vegetarian suitability is based on Zambrero's live Australian menu labels. The menu lists both Pulled Mushroom and Vegetarian choices as GF/VG/V, but says the Vegetarian choice, excluding pulled mushroom, includes guacamole, beans, and rice.",
+    "Menu descriptions include sauce in normal builds, while the nutrition PDF rows are without sauce. This is the main trap if importing these into a meal picker.",
+    "Big formats and rows with obvious PDF text extraction glitches were excluded to keep the proposal small and high-confidence."
+  ],
+  "canonical_source": "../sources/zambrero.json"
+}

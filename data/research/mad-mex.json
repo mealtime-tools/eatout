@@ -1,0 +1,15 @@
+{
+  "chain": "Mad Mex Australia",
+  "source_url": "https://www.madmex.com.au/nutritioncalculator/",
+  "confidence": "high",
+  "notes": [
+    "Official Mad Mex Australia Nutritional Calculator page, with page metadata showing modified 2026-05-27.",
+    "Meal totals are calculated from official per-serving calculator attributes by adding the menu item's default ingredients to the selected vegetarian filling.",
+    "Vegetarian suitability is taken from the calculator's Vegetarian filter data, which includes Mexicali Mince, Veggie Veracruz, black beans, cheese, queso, sour cream, guacamole, and the listed meal formats.",
+    "Default recipes use Mild Salsa (Fire-Roasted Tomato). Salsa swaps, removing cheese or sour cream, adding guacamole, and extra portions will change the totals.",
+    "The calculator publishes per-100 g and per-serving macros but does not expose serving weights in grams in the page markup used here.",
+    "Quesadilla is omitted even though its visible ingredients look meat-free, because the official Vegetarian filter did not include QUESADILLA in its vegetarian product list.",
+    "Add-ons are included only where the official calculator has numeric per-serving macros and the item is a useful vegetarian protein extra; low-protein extras such as guacamole, vegan cheese, and Veggie Veracruz are omitted from add_ons."
+  ],
+  "canonical_source": "../sources/mad-mex.json"
+}
