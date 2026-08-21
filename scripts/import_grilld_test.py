@@ -1,6 +1,9 @@
+import json
+import pathlib
+
 import pytest
 
-from eatout.nutrition import MealDataError
+from eatout.nutrition import MealDataError, normalize_meal, round1
 from scripts.import_grilld import (
     EXTRA_BEYOND_PATTY,
     build_source,
@@ -10,6 +13,15 @@ from scripts.import_grilld import (
     menu_products,
     parse_nutrition,
 )
+
+
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+
+# Beyond Meat's own published figures, from the two pages the add-on cites.
+# Grill'd publishes no add-on panel, so these are the only check there is.
+FOODSERVICE_PROTEIN_G = 13
+RETAIL_4OZ = {"calories_kcal": 230, "fat_g": 14, "carbs_g": 8}
+FOODSERVICE_SCALE = 2.5 / 4
 
 
 def rows(energy, protein, fat=None, carbs=None):
@@ -174,6 +186,44 @@ def test_build_source_assembles_the_reviewed_shape():
     ]
 
 
+def test_build_source_refuses_a_menu_whose_panels_no_longer_parse():
+    """A renamed panel label must fail loudly, not empty the source file."""
+    menu = {
+        "categories": [
+            {"title": "Vegetarian", "items": [{"id": 7, "title": "Garden"}]},
+            {"title": "Vegan", "items": []},
+        ]
+    }
+    renamed = {
+        "title": "Garden",
+        "attributes": ["V"],
+        "multiChoices": [
+            {
+                "items": [
+                    {
+                        "title": "Panini",
+                        "nutrition": {
+                            "tableRows": [
+                                ["Energy (kJ)", "1750kJ"],
+                                ["Protein", "24.5g"],
+                            ]
+                        },
+                    }
+                ]
+            }
+        ],
+        "additions": [],
+    }
+
+    def fake(url):
+        if "nearby" in url:
+            return [{"id": 146, "orderTypes": [106]}]
+        return renamed if "/menu/" in url else menu
+
+    with pytest.raises(LookupError, match="panel labels"):
+        build_source(fake, reviewed_at="x")
+
+
 def test_build_source_omits_the_add_on_when_the_menu_lacks_it():
     menu = {
         "categories": [
@@ -189,3 +239,32 @@ def test_build_source_omits_the_add_on_when_the_menu_lacks_it():
         return detail if "/menu/" in url else menu
 
     assert build_source(fake, reviewed_at="x")["add_ons"] == []
+
+
+def test_the_beyond_patty_carries_its_makers_published_figures():
+    """Protein is published for the foodservice patty; the rest is scaled.
+
+    Beyond states protein and saturated fat for the 2.5 oz patty and nothing
+    else, so energy, fat and carbohydrate come from the 4 oz retail label
+    scaled by weight.
+    """
+    assert EXTRA_BEYOND_PATTY["protein_g"] == FOODSERVICE_PROTEIN_G
+
+    for key, retail in RETAIL_4OZ.items():
+        assert EXTRA_BEYOND_PATTY[key] == round1(retail * FOODSERVICE_SCALE)
+
+
+def test_the_beyond_patty_survives_the_readers_own_validator():
+    """A hand-authored row combines with every base item, so it must hold up."""
+    meal = normalize_meal({**EXTRA_BEYOND_PATTY, "restaurant": "Grill'd"})
+
+    assert meal.confidence == "high_confidence_estimate"
+
+
+def test_the_committed_source_carries_the_same_beyond_patty():
+    """The constant and the reviewed file must not drift apart unnoticed."""
+    committed = json.loads(
+        (ROOT / "data" / "sources" / "grilld.json").read_text(encoding="utf-8")
+    )
+
+    assert committed["add_ons"] == [EXTRA_BEYOND_PATTY]

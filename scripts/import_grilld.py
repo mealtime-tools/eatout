@@ -174,6 +174,17 @@ def build_source(
         for item in menu_products(menu)
     ]
     add_ons = [EXTRA_BEYOND_PATTY] if any(map(_sells_patty, products)) else []
+    base_items = [row for p in products for row in bun_items(p)]
+
+    # A menu whose panels no longer parse looks exactly like a menu with no
+    # meat-free burgers, so refuse instead of writing an empty source: renaming
+    # the Energy or Protein row would otherwise delete the restaurant on a
+    # successful run.
+    if not base_items:
+        raise LookupError(
+            f"no readable nutrition panel in {len(products)} meat-free"
+            " products: the API's panel labels may have changed"
+        )
 
     return {
         "reviewed_at": reviewed_at or _today(),
@@ -181,7 +192,7 @@ def build_source(
         "source_url": SOURCE_URL,
         "maps_url": MAPS_URL,
         "allow_add_ons": True,
-        "base_items": [row for p in products for row in bun_items(p)],
+        "base_items": base_items,
         "add_ons": add_ons,
     }
 
