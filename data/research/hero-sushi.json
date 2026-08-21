@@ -13,5 +13,5 @@
     "Plain Udon is listed with ingredient 'Udon plain' and explicit macros, but it is not visibly VEG-badged in the official pages checked.",
     "Official VEG-badged sides/extras such as Edamame, Seaweed Salad, Seaweed Inari, Plain Inari, Vege Gyoza, Spring Roll, Mix Vege Tempura, and Baby Avocado/Cucumber were omitted because no official product-page protein grams were found for the named product."
   ],
-  "canonical_source": "../sources/hero-sushi.json"
+  "removed": "Removed on 2026-08-21: sushi is out of scope for this dataset."
 }

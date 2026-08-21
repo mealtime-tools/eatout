@@ -11,5 +11,5 @@
     "Sushi Hub has several fish/seafood items with egg, tuna, crab, unagi, salmon, or prawn in the name; these are excluded even when they may look similar to vegetarian rolls.",
     "Some vegetarian sushi is low protein. This proposal favours tofu, meat-free chicken, egg, edamame, and the vegetarian box where official macro values are explicit."
   ],
-  "canonical_source": "../sources/sushi-hub.json"
+  "removed": "Removed on 2026-08-21: sushi is out of scope for this dataset."
 }

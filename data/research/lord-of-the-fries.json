@@ -10,5 +10,5 @@
     "Some official side pages list kilojoules and protein but leave Energy (Cal) blank, such as Nuggets and Fried Chick'n; those items are intentionally omitted.",
     "HSP nutrition rows on the official page appear internally unusual for carbohydrate/sugar/sodium column placement, so only the clearly named per-serving calories and protein are proposed here."
   ],
-  "canonical_source": "../sources/lord-of-the-fries.json"
+  "removed": "Removed on 2026-08-21: the chain has no NSW presence. The official site lists stores in VIC, WA and SA only, and the last NSW outlet (Newtown) closed. The nutrition rows were correct; the location was not."
 }
