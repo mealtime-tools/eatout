@@ -12,6 +12,8 @@ from collections.abc import Mapping
 from dataclasses import dataclass
 from typing import Any
 
+from nutrition import energy
+
 # Ordered worst-last: combining two figures keeps the weaker claim.
 CONFIDENCE_RANKS = {
     "exact": 0,
@@ -188,19 +190,19 @@ def _check_energy(
 ) -> None:
     """Reject a macro set that cannot produce the labelled energy.
 
-    Only checkable when both optional macros are known, which is the point: a
-    partial set is left alone rather than completed with a guess.
+    The arithmetic and the asymmetric tolerance are the shared library's; the
+    field names are eatout's, so this is the one place `protein_g` is spelled
+    `protein`. An unpublished macro is left out rather than sent as a zero,
+    which is what makes the library skip a partial set instead of completing
+    it with a guess.
     """
-    if fat is None or carbs is None:
-        return
+    stated = {"protein": protein, "fat": fat, "carbohydrates": carbs}
 
-    difference = protein * 4 + fat * 9 + carbs * 4 - calories
-
-    # AU labels exclude fibre from carbohydrate yet count some fibre energy, so
-    # a deficit is expected and gets more room than an excess.
-    allowed = max(20.0, calories * (0.15 if difference < 0 else 0.1))
-
-    if abs(difference) > allowed:
+    try:
+        energy.assert_energy_reconciles(
+            calories, {k: v for k, v in stated.items() if v is not None}
+        )
+    except energy.EnergyError as exc:
         raise MealDataError(
             "protein, fat, and carbs are inconsistent with calories_kcal"
-        )
+        ) from exc

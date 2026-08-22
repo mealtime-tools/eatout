@@ -67,6 +67,15 @@ def test_parse_nutrition_omits_macros_the_operator_left_out():
     assert parsed == {"calories_kcal": 241.4, "protein_g": 18.8}
 
 
+def test_parse_nutrition_reads_a_label_that_states_its_unit_in_brackets():
+    """A parenthetical qualifies the row rather than renaming it."""
+    parsed = parse_nutrition(
+        [["Energy (kJ)", "1750"], ["Protein (g)", "24.5"]]
+    )
+
+    assert parsed == {"calories_kcal": 418.3, "protein_g": 24.5}
+
+
 def test_parse_nutrition_refuses_a_row_without_energy_or_protein():
     assert parse_nutrition(rows("", "24.5g")) is None
     assert parse_nutrition([["Protein", "24.5g"]]) is None
@@ -187,7 +196,11 @@ def test_build_source_assembles_the_reviewed_shape():
 
 
 def test_build_source_refuses_a_menu_whose_panels_no_longer_parse():
-    """A renamed panel label must fail loudly, not empty the source file."""
+    """A renamed panel label must fail loudly, not empty the source file.
+
+    Row names are matched whole, so a label that merely contains "Energy" is
+    as unreadable as one that drops the word altogether.
+    """
     menu = {
         "categories": [
             {"title": "Vegetarian", "items": [{"id": 7, "title": "Garden"}]},
@@ -204,7 +217,7 @@ def test_build_source_refuses_a_menu_whose_panels_no_longer_parse():
                         "title": "Panini",
                         "nutrition": {
                             "tableRows": [
-                                ["Energy (kJ)", "1750kJ"],
+                                ["Energy Content Per Serve", "1750kJ"],
                                 ["Protein", "24.5g"],
                             ]
                         },

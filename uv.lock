@@ -51,6 +51,7 @@ source = { editable = "." }
 dependencies = [
     { name = "click" },
     { name = "click-agentcli" },
+    { name = "mealtime-nutrition" },
 ]
 
 [package.dev-dependencies]
@@ -63,6 +64,7 @@ dev = [
 requires-dist = [
     { name = "click", specifier = ">=8.1" },
     { name = "click-agentcli", specifier = ">=0.1.0" },
+    { name = "mealtime-nutrition", editable = "../nutrition" },
 ]
 
 [package.metadata.requires-dev]
@@ -70,6 +72,16 @@ dev = [
     { name = "pytest", specifier = ">=8.0" },
     { name = "ruff", specifier = ">=0.6" },
 ]
+
+[[package]]
+name = "mealtime-nutrition"
+version = "0.1.0"
+source = { editable = "../nutrition" }
+
+[package.metadata]
+
+[package.metadata.requires-dev]
+dev = [{ name = "pytest", specifier = ">=8.0" }]
 
 [[package]]
 name = "packaging"

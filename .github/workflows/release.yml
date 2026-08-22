@@ -16,6 +16,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
+        with:
+          path: eatout
+
+      # mealtime-nutrition is a path dependency until it reaches PyPI, so the
+      # runner needs it beside this checkout. actions/checkout cannot write
+      # outside the workspace, hence both repositories sit inside it.
+      - uses: actions/checkout@v7
+        with:
+          repository: mealtime-tools/nutrition
+          path: nutrition
 
       # Pinned exactly: setup-uv dropped its floating major tags after v7,
       # so v8 and later only exist as exact versions.
@@ -32,6 +42,7 @@ jobs:
       # interpreter here would let a version CI covers ship untested.
       - name: Run test suite
         run: uv run --python ${{ matrix.python-version }} pytest
+        working-directory: eatout
 
   build-and-publish:
     name: Build & Publish to PyPI
