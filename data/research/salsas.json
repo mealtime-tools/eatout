@@ -13,27 +13,27 @@
   "base_items": [
     {
       "item_name": "Vegetarian Quesadilla",
-      "calories_kcal": 543,
-      "protein_g": 20,
       "vegetarian": true,
       "notes": "CalorieKing Australia lists one quesadilla serving as 313 g with 543 Calories and 20 g protein. Vegetarian but dairy-based; recipe may differ from current 'Classic Quesadilla - Black Beans' naming on delivery menus.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-burgers-sandwiches-vegetarian-quesadilla/5EwW-ZuqQ8K1548PWdLorw"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-burgers-sandwiches-vegetarian-quesadilla/5EwW-ZuqQ8K1548PWdLorw",
+      "kcal": 543,
+      "protein": 20
     },
     {
       "item_name": "Mucho Veggie Bowl",
-      "calories_kcal": 581,
-      "protein_g": 13.4,
       "vegetarian": true,
       "notes": "CalorieKing Australia lists one meal serving as 572 g with 581 Calories and 13.4 g protein. Older Salsa's allergen document marks Mucho Veggie vegetarian; current menu descriptions commonly include rice, onion and capsicum, zucchini and broccoli, corn salsa, black beans, guacamole, and chipotle salsa.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-meals-mucho-veggie-bowl/xqrZBYkYT4KcMvMrFJCzPQ"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-meals-mucho-veggie-bowl/xqrZBYkYT4KcMvMrFJCzPQ",
+      "kcal": 581,
+      "protein": 13.4
     },
     {
       "item_name": "Mexicali Veg Salad",
-      "calories_kcal": 235,
-      "protein_g": 7.8,
       "vegetarian": true,
       "notes": "CalorieKing Australia lists one salad serving as 433 g with 235 Calories and 7.8 g protein. Low protein for the app's goals; included only as a clearly vegetarian lower-calorie option from the available source.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-salads-mexicali-veg-salad/pF3K3_ZXQpSm5ZvaSsfg_w"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-salads-mexicali-veg-salad/pF3K3_ZXQpSm5ZvaSsfg_w",
+      "kcal": 235,
+      "protein": 7.8
     }
   ],
   "add_ons": []

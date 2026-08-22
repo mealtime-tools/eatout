@@ -3,9 +3,7 @@
 Pure functions over records: no I/O and no click, so the same code answers a
 CLI, a test literal, and anything later that wants the domain without a shell.
 
-The published record is `agentcli.candidate`, shared with every other candidate
-source, so a caller can merge two tools' JSON and rank the union. Everything
-only a restaurant meal has lives under `detail`.
+Everything only a restaurant meal has lives under `detail`.
 """
 
 import re
@@ -13,8 +11,6 @@ import unicodedata
 from collections.abc import Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
-
-from agentcli import candidate, matches, rank, unverifiable
 
 from eatout.nutrition import (
     Meal,
@@ -65,23 +61,31 @@ def expand_meals(document: Mapping[str, Any]) -> list[Meal]:
 def meal_candidate(meal: Meal) -> dict[str, Any]:
     """One meal as the shared candidate record.
 
-    `per_serving` carries only what the operator published: an unmeasured fat
-    figure has no key, because a 0 there would read as a fat-free dish. The
+    Nutrients are top-level. Missing values are null, because a 0 there would
+    read as a nutrient-free dish. The
     citation and the confidence travel with it, since a caller quoting a number
     has to be able to say where it came from.
     """
-    return candidate(
-        kind="meal",
-        identifier=candidate_id(meal),
-        name=f"{meal.restaurant} - {meal.item_name}",
-        per_serving={
-            "kcal": meal.calories_kcal,
-            "protein": meal.protein_g,
-            "fat": meal.fat_g,
-            "carbs": meal.carbs_g,
-        },
-        detail=_detail(meal),
-    )
+    nutrients = {
+        "kcal": meal.calories_kcal,
+        "protein": meal.protein_g,
+        "fat": meal.fat_g,
+        "carbs": meal.carbs_g,
+        "fiber": None,
+        "sodium": None,
+        "sugar": None,
+    }
+    return {
+        "kind": "meal",
+        "id": candidate_id(meal),
+        "name": f"{meal.restaurant} - {meal.item_name}",
+        **nutrients,
+        "complete": all(
+            nutrients[key] is not None
+            for key in ("kcal", "protein", "fat", "carbs")
+        ),
+        "detail": _detail(meal),
+    }
 
 
 def candidate_id(meal: Meal) -> str:
@@ -120,22 +124,37 @@ def partition(
     Both lists are ranked by the shared metric, so a merged answer from several
     tools is ordered the same way whoever produced it.
     """
-    limits = {
-        "max_kcal": filters.max_kcal,
-        "min_protein": filters.min_protein,
-    }
     matched: list[dict[str, Any]] = []
     unchecked: list[dict[str, Any]] = []
 
     # A filter asked about a macro this candidate lacks: still excluded, but
     # reported, because "could not check" is a different answer from "no".
     for record in candidates:
-        if unverifiable(record, **limits):
+        if (filters.max_kcal is not None and record["kcal"] is None) or (
+            filters.min_protein is not None and record["protein"] is None
+        ):
             unchecked.append(record)
-        elif matches(record, **limits):
+        elif (
+            filters.max_kcal is None or record["kcal"] <= filters.max_kcal
+        ) and (
+            filters.min_protein is None
+            or record["protein"] >= filters.min_protein
+        ):
             matched.append(record)
 
-    return Results(matched=rank(matched), unverifiable=rank(unchecked))
+    return Results(matched=_rank(matched), unverifiable=_rank(unchecked))
+
+
+def _rank(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Protein density first, then protein and name."""
+    return sorted(
+        records,
+        key=lambda record: (
+            -record["detail"]["protein_per_100_kcal"],
+            -record["protein"],
+            record["name"].casefold(),
+        ),
+    )
 
 
 def _detail(meal: Meal) -> dict[str, Any]:
@@ -226,10 +245,10 @@ def _combine(base: Meal, add_on: Meal) -> Meal:
     combined = {
         "restaurant": base.restaurant,
         "item_name": f"{base.item_name} + {add_on.item_name}",
-        "calories_kcal": round1(base.calories_kcal + add_on.calories_kcal),
-        "protein_g": round1(base.protein_g + add_on.protein_g),
-        "fat_g": _combined_macro(base.fat_g, add_on.fat_g),
-        "carbs_g": _combined_macro(base.carbs_g, add_on.carbs_g),
+        "kcal": round1(base.calories_kcal + add_on.calories_kcal),
+        "protein": round1(base.protein_g + add_on.protein_g),
+        "fat": _combined_macro(base.fat_g, add_on.fat_g),
+        "carbs": _combined_macro(base.carbs_g, add_on.carbs_g),
         "vegetarian": base.vegetarian and add_on.vegetarian,
         "vegan": base.vegan and add_on.vegan,
         "confidence": combine_confidence(base.confidence, add_on.confidence),

@@ -7,63 +7,63 @@
   "base_items": [
     {
       "item_name": "The Classic",
-      "calories_kcal": 876.2,
-      "protein_g": 22.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official SpudBAR catering menu; vegetarian bowl.",
-      "source_url": "https://www.spudbar.com.au/catering-1"
+      "source_url": "https://www.spudbar.com.au/catering-1",
+      "kcal": 876.2,
+      "protein": 22.2
     },
     {
       "item_name": "The Chilli Bean Burrito",
-      "calories_kcal": 876.2,
-      "protein_g": 29.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official SpudBAR catering menu; vegetarian bowl.",
-      "source_url": "https://www.spudbar.com.au/catering-1"
+      "source_url": "https://www.spudbar.com.au/catering-1",
+      "kcal": 876.2,
+      "protein": 29.3
     },
     {
       "item_name": "The Hawaiian",
-      "calories_kcal": 700,
-      "protein_g": 23.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official SpudBAR catering menu; vegetarian bowl.",
-      "source_url": "https://www.spudbar.com.au/catering-1"
+      "source_url": "https://www.spudbar.com.au/catering-1",
+      "kcal": 700,
+      "protein": 23.3
     },
     {
       "item_name": "The Nacho",
-      "calories_kcal": 769.4,
-      "protein_g": 30.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official SpudBAR catering menu; vegetarian bowl.",
-      "source_url": "https://www.spudbar.com.au/catering-1"
+      "source_url": "https://www.spudbar.com.au/catering-1",
+      "kcal": 769.4,
+      "protein": 30.6
     },
     {
       "item_name": "The Moroccan",
-      "calories_kcal": 487.1,
-      "protein_g": 18,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official SpudBAR catering menu; vegan bowl.",
-      "source_url": "https://www.spudbar.com.au/catering-1"
+      "source_url": "https://www.spudbar.com.au/catering-1",
+      "kcal": 487.1,
+      "protein": 18
     },
     {
       "item_name": "The Chilli Bean Power Bowl",
-      "calories_kcal": 426,
-      "protein_g": 26,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official SpudBAR catering menu; meat-free power bowl with cottage cheese.",
-      "source_url": "https://www.spudbar.com.au/catering-1"
+      "source_url": "https://www.spudbar.com.au/catering-1",
+      "kcal": 426,
+      "protein": 26
     }
   ],
   "add_ons": []

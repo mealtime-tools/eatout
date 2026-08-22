@@ -7,115 +7,135 @@
   "base_items": [
     {
       "item_name": "Mexicali Mince Naked Burrito",
-      "calories_kcal": 632.46,
-      "protein_g": 28.48,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex nutrition calculator; default regular naked burrito build.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "tags": ["mad-mex-custom-meal"]
+      "tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 632.46,
+      "protein": 28.48
     },
     {
       "item_name": "Mexicali Mince Grande Melt",
-      "calories_kcal": 641.61,
-      "protein_g": 30.54,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex nutrition calculator; default regular grande melt build.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "tags": ["mad-mex-custom-meal"]
+      "tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 641.61,
+      "protein": 30.54
     },
     {
       "item_name": "Mexicali Mince Burrito",
-      "calories_kcal": 915.47,
-      "protein_g": 35.76,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex nutrition calculator; default regular burrito build.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "tags": ["mad-mex-custom-meal"]
+      "tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 915.47,
+      "protein": 35.76
     },
     {
       "item_name": "Mexicali Mince Small Naked Burrito",
-      "calories_kcal": 396.13,
-      "protein_g": 16.72,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex nutrition calculator; default small naked burrito build.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "tags": ["mad-mex-custom-meal"]
+      "tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 396.13,
+      "protein": 16.72
     },
     {
       "item_name": "Veggie Veracruz Naked Burrito",
-      "calories_kcal": 558.86,
-      "protein_g": 17.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex nutrition calculator; default regular naked burrito build.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "tags": ["mad-mex-custom-meal"]
+      "tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 558.86,
+      "protein": 17.2
     },
     {
       "item_name": "Mexicali Mince Nachos",
-      "calories_kcal": 893.86,
-      "protein_g": 31.51,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex nutrition calculator; default regular nachos build.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "tags": ["mad-mex-custom-meal"]
+      "tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 893.86,
+      "protein": 31.51
     }
   ],
   "add_ons": [
     {
       "item_name": "Mexicali Mince",
-      "calories_kcal": 173.6,
-      "protein_g": 12.64,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex regular filling serve.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "applies_to_tags": ["mad-mex-custom-meal"]
+      "applies_to_tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 173.6,
+      "protein": 12.64
     },
     {
       "item_name": "Queso (Cheese)",
-      "calories_kcal": 92.4,
-      "protein_g": 5.76,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex regular extras serve.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "applies_to_tags": ["mad-mex-custom-meal"]
+      "applies_to_tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 92.4,
+      "protein": 5.76
     },
     {
       "item_name": "Black Beans",
-      "calories_kcal": 85.5,
-      "protein_g": 4.96,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex regular extras serve.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "applies_to_tags": ["mad-mex-custom-meal"]
+      "applies_to_tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 85.5,
+      "protein": 4.96
     },
     {
       "item_name": "Cheese Shredded",
-      "calories_kcal": 79,
-      "protein_g": 4.76,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Mad Mex regular extras serve.",
       "source_url": "https://www.madmex.com.au/nutritioncalculator/",
-      "applies_to_tags": ["mad-mex-custom-meal"]
+      "applies_to_tags": [
+        "mad-mex-custom-meal"
+      ],
+      "kcal": 79,
+      "protein": 4.76
     }
   ]
 }

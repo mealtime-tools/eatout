@@ -7,623 +7,623 @@
   "base_items": [
     {
       "item_name": "1889 Margherita - Large",
-      "calories_kcal": 1030,
-      "protein_g": 54,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 37.3,
-      "carbs_g": 115
+      "kcal": 1030,
+      "protein": 54,
+      "fat": 37.3,
+      "carbs": 115
     },
     {
       "item_name": "1889 Margherita - Large (Half)",
-      "calories_kcal": 515,
-      "protein_g": 27,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 18.7,
-      "carbs_g": 57.5
+      "kcal": 515,
+      "protein": 27,
+      "fat": 18.7,
+      "carbs": 57.5
     },
     {
       "item_name": "1889 Margherita - XL",
-      "calories_kcal": 1390,
-      "protein_g": 71.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 48.4,
-      "carbs_g": 163
+      "kcal": 1390,
+      "protein": 71.4,
+      "fat": 48.4,
+      "carbs": 163
     },
     {
       "item_name": "1889 Margherita - XL (Half)",
-      "calories_kcal": 695,
-      "protein_g": 35.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 24.2,
-      "carbs_g": 81.5
+      "kcal": 695,
+      "protein": 35.7,
+      "fat": 24.2,
+      "carbs": 81.5
     },
     {
       "item_name": "1889 Margherita - Cheese Crust",
-      "calories_kcal": 1820,
-      "protein_g": 97.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 79.1,
-      "carbs_g": 169
+      "kcal": 1820,
+      "protein": 97.3,
+      "fat": 79.1,
+      "carbs": 169
     },
     {
       "item_name": "1889 Margherita - Cheese Crust (Half)",
-      "calories_kcal": 910,
-      "protein_g": 48.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 39.6,
-      "carbs_g": 84.5
+      "kcal": 910,
+      "protein": 48.7,
+      "fat": 39.6,
+      "carbs": 84.5
     },
     {
       "item_name": "1889 Margherita - Gluten Free Base",
-      "calories_kcal": 1100,
-      "protein_g": 45.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 45,
-      "carbs_g": 124
+      "kcal": 1100,
+      "protein": 45.4,
+      "fat": 45,
+      "carbs": 124
     },
     {
       "item_name": "1889 Margherita - Gluten Free Base (Half)",
-      "calories_kcal": 550,
-      "protein_g": 22.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 22.5,
-      "carbs_g": 62
+      "kcal": 550,
+      "protein": 22.7,
+      "fat": 22.5,
+      "carbs": 62
     },
     {
       "item_name": "1889 Margherita - High Protein Base",
-      "calories_kcal": 993,
-      "protein_g": 76.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 39.3,
-      "carbs_g": 70.2
+      "kcal": 993,
+      "protein": 76.2,
+      "fat": 39.3,
+      "carbs": 70.2
     },
     {
       "item_name": "1889 Margherita - High Protein Base (Half)",
-      "calories_kcal": 496.5,
-      "protein_g": 38.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 19.7,
-      "carbs_g": 35.1
+      "kcal": 496.5,
+      "protein": 38.1,
+      "fat": 19.7,
+      "carbs": 35.1
     },
     {
       "item_name": "Classic Margherita - Large",
-      "calories_kcal": 1110,
-      "protein_g": 60.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 43.9,
-      "carbs_g": 114
+      "kcal": 1110,
+      "protein": 60.7,
+      "fat": 43.9,
+      "carbs": 114
     },
     {
       "item_name": "Classic Margherita - Large (Half)",
-      "calories_kcal": 555,
-      "protein_g": 30.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 22,
-      "carbs_g": 57
+      "kcal": 555,
+      "protein": 30.4,
+      "fat": 22,
+      "carbs": 57
     },
     {
       "item_name": "Classic Margherita - XL",
-      "calories_kcal": 1570,
-      "protein_g": 80.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 61,
-      "carbs_g": 168
+      "kcal": 1570,
+      "protein": 80.2,
+      "fat": 61,
+      "carbs": 168
     },
     {
       "item_name": "Classic Margherita - XL (Half)",
-      "calories_kcal": 785,
-      "protein_g": 40.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 30.5,
-      "carbs_g": 84
+      "kcal": 785,
+      "protein": 40.1,
+      "fat": 30.5,
+      "carbs": 84
     },
     {
       "item_name": "Classic Margherita - Cheese Crust",
-      "calories_kcal": 1990,
-      "protein_g": 106,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 91.6,
-      "carbs_g": 174
+      "kcal": 1990,
+      "protein": 106,
+      "fat": 91.6,
+      "carbs": 174
     },
     {
       "item_name": "Classic Margherita - Cheese Crust (Half)",
-      "calories_kcal": 995,
-      "protein_g": 53,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 45.8,
-      "carbs_g": 87
+      "kcal": 995,
+      "protein": 53,
+      "fat": 45.8,
+      "carbs": 87
     },
     {
       "item_name": "Classic Margherita - Gluten Free Base",
-      "calories_kcal": 1190,
-      "protein_g": 52.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 51.5,
-      "carbs_g": 123
+      "kcal": 1190,
+      "protein": 52.1,
+      "fat": 51.5,
+      "carbs": 123
     },
     {
       "item_name": "Classic Margherita - Gluten Free Base (Half)",
-      "calories_kcal": 595,
-      "protein_g": 26.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 25.8,
-      "carbs_g": 61.5
+      "kcal": 595,
+      "protein": 26.1,
+      "fat": 25.8,
+      "carbs": 61.5
     },
     {
       "item_name": "Classic Margherita - High Protein Base",
-      "calories_kcal": 1080,
-      "protein_g": 83,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 45.9,
-      "carbs_g": 69.3
+      "kcal": 1080,
+      "protein": 83,
+      "fat": 45.9,
+      "carbs": 69.3
     },
     {
       "item_name": "Classic Margherita - High Protein Base (Half)",
-      "calories_kcal": 540,
-      "protein_g": 41.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 23,
-      "carbs_g": 34.7
+      "kcal": 540,
+      "protein": 41.5,
+      "fat": 23,
+      "carbs": 34.7
     },
     {
       "item_name": "Paneer Masala - Large",
-      "calories_kcal": 1460,
-      "protein_g": 63.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 76.7,
-      "carbs_g": 127
+      "kcal": 1460,
+      "protein": 63.2,
+      "fat": 76.7,
+      "carbs": 127
     },
     {
       "item_name": "Paneer Masala - Large (Half)",
-      "calories_kcal": 730,
-      "protein_g": 31.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 38.4,
-      "carbs_g": 63.5
+      "kcal": 730,
+      "protein": 31.6,
+      "fat": 38.4,
+      "carbs": 63.5
     },
     {
       "item_name": "Paneer Masala - XL",
-      "calories_kcal": 1700,
-      "protein_g": 70.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 79.3,
-      "carbs_g": 172
+      "kcal": 1700,
+      "protein": 70.6,
+      "fat": 79.3,
+      "carbs": 172
     },
     {
       "item_name": "Paneer Masala - XL (Half)",
-      "calories_kcal": 850,
-      "protein_g": 35.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 39.7,
-      "carbs_g": 86
+      "kcal": 850,
+      "protein": 35.3,
+      "fat": 39.7,
+      "carbs": 86
     },
     {
       "item_name": "Paneer Masala - Cheese Crust",
-      "calories_kcal": 2120,
-      "protein_g": 96.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 110,
-      "carbs_g": 179
+      "kcal": 2120,
+      "protein": 96.5,
+      "fat": 110,
+      "carbs": 179
     },
     {
       "item_name": "Paneer Masala - Cheese Crust (Half)",
-      "calories_kcal": 1060,
-      "protein_g": 48.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 55,
-      "carbs_g": 89.5
+      "kcal": 1060,
+      "protein": 48.3,
+      "fat": 55,
+      "carbs": 89.5
     },
     {
       "item_name": "Paneer Masala - Gluten Free Base",
-      "calories_kcal": 1340,
-      "protein_g": 45.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 69.3,
-      "carbs_g": 129
+      "kcal": 1340,
+      "protein": 45.1,
+      "fat": 69.3,
+      "carbs": 129
     },
     {
       "item_name": "Paneer Masala - Gluten Free Base (Half)",
-      "calories_kcal": 670,
-      "protein_g": 22.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 34.7,
-      "carbs_g": 64.5
+      "kcal": 670,
+      "protein": 22.6,
+      "fat": 34.7,
+      "carbs": 64.5
     },
     {
       "item_name": "Paneer Masala - High Protein Base",
-      "calories_kcal": 1230,
-      "protein_g": 76,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 63.6,
-      "carbs_g": 76
+      "kcal": 1230,
+      "protein": 76,
+      "fat": 63.6,
+      "carbs": 76
     },
     {
       "item_name": "Paneer Masala - High Protein Base (Half)",
-      "calories_kcal": 615,
-      "protein_g": 38,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 31.8,
-      "carbs_g": 38
+      "kcal": 615,
+      "protein": 38,
+      "fat": 31.8,
+      "carbs": 38
     },
     {
       "item_name": "Peri Peri (not) Chicken - Large",
-      "calories_kcal": 1280,
-      "protein_g": 69.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1280,
+      "protein": 69.4
     },
     {
       "item_name": "Peri Peri (not) Chicken - Large (Half)",
-      "calories_kcal": 640,
-      "protein_g": 34.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 640,
+      "protein": 34.7
     },
     {
       "item_name": "Peri Peri (not) Chicken - XL",
-      "calories_kcal": 1700,
-      "protein_g": 90.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1700,
+      "protein": 90.3
     },
     {
       "item_name": "Peri Peri (not) Chicken - XL (Half)",
-      "calories_kcal": 850,
-      "protein_g": 45.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 850,
+      "protein": 45.2
     },
     {
       "item_name": "Peri Peri (not) Chicken - Cheese Crust",
-      "calories_kcal": 2130,
-      "protein_g": 116,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 2130,
+      "protein": 116
     },
     {
       "item_name": "Peri Peri (not) Chicken - Cheese Crust (Half)",
-      "calories_kcal": 1065,
-      "protein_g": 58,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1065,
+      "protein": 58
     },
     {
       "item_name": "Peri Peri (not) Chicken - High Protein Base",
-      "calories_kcal": 1250,
-      "protein_g": 91.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1250,
+      "protein": 91.6
     },
     {
       "item_name": "Peri Peri (not) Chicken - High Protein Base (Half)",
-      "calories_kcal": 625,
-      "protein_g": 45.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 625,
+      "protein": 45.8
     },
     {
       "item_name": "Vegan Peri Peri (not) Chicken - Large",
-      "calories_kcal": 1140,
-      "protein_g": 47.6,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1140,
+      "protein": 47.6
     },
     {
       "item_name": "Vegan Peri Peri (not) Chicken - Large (Half)",
-      "calories_kcal": 570,
-      "protein_g": 23.8,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 570,
+      "protein": 23.8
     },
     {
       "item_name": "Vegan Peri Peri (not) Chicken - XL",
-      "calories_kcal": 1530,
-      "protein_g": 62.5,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1530,
+      "protein": 62.5
     },
     {
       "item_name": "Vegan Peri Peri (not) Chicken - XL (Half)",
-      "calories_kcal": 765,
-      "protein_g": 31.3,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 765,
+      "protein": 31.3
     },
     {
       "item_name": "Vegan Peri Peri (not) Chicken - High Protein Base",
-      "calories_kcal": 1100,
-      "protein_g": 69.9,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 1100,
+      "protein": 69.9
     },
     {
       "item_name": "Vegan Peri Peri (not) Chicken - High Protein Base (Half)",
-      "calories_kcal": 550,
-      "protein_g": 35,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
-      "source_url": "https://www.crust.com.au/nutrition"
+      "source_url": "https://www.crust.com.au/nutrition",
+      "kcal": 550,
+      "protein": 35
     },
     {
       "item_name": "Vegetarian Supreme - Large",
-      "calories_kcal": 1110,
-      "protein_g": 44.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 46.7,
-      "carbs_g": 122
+      "kcal": 1110,
+      "protein": 44.7,
+      "fat": 46.7,
+      "carbs": 122
     },
     {
       "item_name": "Vegetarian Supreme - Large (Half)",
-      "calories_kcal": 555,
-      "protein_g": 22.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 23.4,
-      "carbs_g": 61
+      "kcal": 555,
+      "protein": 22.4,
+      "fat": 23.4,
+      "carbs": 61
     },
     {
       "item_name": "Vegetarian Supreme - XL",
-      "calories_kcal": 1490,
-      "protein_g": 59.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 59.1,
-      "carbs_g": 172
+      "kcal": 1490,
+      "protein": 59.8,
+      "fat": 59.1,
+      "carbs": 172
     },
     {
       "item_name": "Vegetarian Supreme - XL (Half)",
-      "calories_kcal": 745,
-      "protein_g": 29.9,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 29.6,
-      "carbs_g": 86
+      "kcal": 745,
+      "protein": 29.9,
+      "fat": 29.6,
+      "carbs": 86
     },
     {
       "item_name": "Vegetarian Supreme - Cheese Crust",
-      "calories_kcal": 1910,
-      "protein_g": 85.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 89.8,
-      "carbs_g": 179
+      "kcal": 1910,
+      "protein": 85.7,
+      "fat": 89.8,
+      "carbs": 179
     },
     {
       "item_name": "Vegetarian Supreme - Cheese Crust (Half)",
-      "calories_kcal": 955,
-      "protein_g": 42.9,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 44.9,
-      "carbs_g": 89.5
+      "kcal": 955,
+      "protein": 42.9,
+      "fat": 44.9,
+      "carbs": 89.5
     },
     {
       "item_name": "Vegetarian Supreme - Gluten Free Base",
-      "calories_kcal": 1180,
-      "protein_g": 36.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 54.3,
-      "carbs_g": 131
+      "kcal": 1180,
+      "protein": 36.1,
+      "fat": 54.3,
+      "carbs": 131
     },
     {
       "item_name": "Vegetarian Supreme - Gluten Free Base (Half)",
-      "calories_kcal": 590,
-      "protein_g": 18.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 27.2,
-      "carbs_g": 65.5
+      "kcal": 590,
+      "protein": 18.1,
+      "fat": 27.2,
+      "carbs": 65.5
     },
     {
       "item_name": "Vegetarian Supreme - High Protein Base",
-      "calories_kcal": 1070,
-      "protein_g": 67,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 48.6,
-      "carbs_g": 77.3
+      "kcal": 1070,
+      "protein": 67,
+      "fat": 48.6,
+      "carbs": 77.3
     },
     {
       "item_name": "Vegetarian Supreme - High Protein Base (Half)",
-      "calories_kcal": 535,
-      "protein_g": 33.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
       "source_url": "https://www.crust.com.au/nutrition",
-      "fat_g": 24.3,
-      "carbs_g": 38.7
+      "kcal": 535,
+      "protein": 33.5,
+      "fat": 24.3,
+      "carbs": 38.7
     }
   ],
   "add_ons": []

@@ -9,392 +9,454 @@
       "base_items": [
         {
           "item_name": "Pure Buddha's Delight Tofu Salad",
-          "calories_kcal": 755,
-          "protein_g": 25.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/pure-buddhas-delight-tofu-salad-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 755,
+          "protein": 25.4
         },
         {
           "item_name": "Black Magic Salad - Tofu",
-          "calories_kcal": 755,
-          "protein_g": 25,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/black-magic-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 755,
+          "protein": 25
         },
         {
           "item_name": "Coconut Salad - Tofu",
-          "calories_kcal": 705,
-          "protein_g": 22.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/coconut-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 705,
+          "protein": 22.8
         },
         {
           "item_name": "Nashi Salad - Tofu",
-          "calories_kcal": 855,
-          "protein_g": 24.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/nashi-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 855,
+          "protein": 24.5
         },
         {
           "item_name": "New York Salad - Tofu",
-          "calories_kcal": 715,
-          "protein_g": 24.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/new-york-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 715,
+          "protein": 24.7
         },
         {
           "item_name": "Satay Bowl - Tofu",
-          "calories_kcal": 805,
-          "protein_g": 31.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/satay-bowl-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 805,
+          "protein": 31.7
         },
         {
           "item_name": "Satay Salad - Tofu",
-          "calories_kcal": 705,
-          "protein_g": 29.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/satay-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 705,
+          "protein": 29.6
         },
         {
           "item_name": "Soho Bowl - Tofu",
-          "calories_kcal": 735,
-          "protein_g": 27.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/soho-bowl-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 735,
+          "protein": 27.7
         },
         {
           "item_name": "The Blossom Bowl - Tofu",
-          "calories_kcal": 755,
-          "protein_g": 26.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/the-blossom-bowl-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 755,
+          "protein": 26.8
         },
         {
           "item_name": "The Blossom Salad - Tofu",
-          "calories_kcal": 630,
-          "protein_g": 26.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/the-blossom-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 630,
+          "protein": 26.3
         },
         {
           "item_name": "Triple Chilli Salad - Tofu",
-          "calories_kcal": 650,
-          "protein_g": 27.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/triple-chilli-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 650,
+          "protein": 27.4
         },
         {
           "item_name": "Tokyo Classic Salad - Tofu",
-          "calories_kcal": 870,
-          "protein_g": 24.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/tokyo-classic-salad-tofu-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 870,
+          "protein": 24.2
         },
         {
           "item_name": "Vegan Chilli Tofu Salad",
-          "calories_kcal": 650,
-          "protein_g": 27.3,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/vegan-chilli-tofu-salad-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 650,
+          "protein": 27.3
         },
         {
           "item_name": "Vegan New York Tofu Salad",
-          "calories_kcal": 625,
-          "protein_g": 25.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/vegan-new-york-tofu-salad-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 625,
+          "protein": 25.8
         },
         {
           "item_name": "Vegan Thai Tofu Salad",
-          "calories_kcal": 625,
-          "protein_g": 29.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
           "source_url": "https://eatsbible.com/product/vegan-thai-tofu-salad-banana-blossom/",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 625,
+          "protein": 29.7
         },
         {
           "item_name": "Pure Buddha's Delight Tofu Salad (Shred It)",
-          "calories_kcal": 565,
-          "protein_g": 25.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 66.6,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 565,
+          "protein": 25.4,
+          "carbs": 66.6
         },
         {
           "item_name": "Black Magic Salad - Tofu (Shred It)",
-          "calories_kcal": 565,
-          "protein_g": 25,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 17.3,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 565,
+          "protein": 25,
+          "carbs": 17.3
         },
         {
           "item_name": "Coconut Salad - Tofu (Shred It)",
-          "calories_kcal": 515,
-          "protein_g": 22.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 46.5,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 515,
+          "protein": 22.8,
+          "carbs": 46.5
         },
         {
           "item_name": "Nashi Salad - Tofu (Shred It)",
-          "calories_kcal": 665,
-          "protein_g": 24.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 16.1,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 665,
+          "protein": 24.5,
+          "carbs": 16.1
         },
         {
           "item_name": "New York Salad - Tofu (Shred It)",
-          "calories_kcal": 460,
-          "protein_g": 24.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 52.3,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 460,
+          "protein": 24.7,
+          "carbs": 52.3
         },
         {
           "item_name": "Satay Bowl - Tofu (Shred It)",
-          "calories_kcal": 630,
-          "protein_g": 31.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 49.6,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 630,
+          "protein": 31.7,
+          "carbs": 49.6
         },
         {
           "item_name": "Satay Salad - Tofu (Shred It)",
-          "calories_kcal": 515,
-          "protein_g": 29.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 28.2,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 515,
+          "protein": 29.6,
+          "carbs": 28.2
         },
         {
           "item_name": "Soho Bowl - Tofu (Shred It)",
-          "calories_kcal": 560,
-          "protein_g": 27.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 52.8,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 560,
+          "protein": 27.7,
+          "carbs": 52.8
         },
         {
           "item_name": "The Blossom Bowl - Tofu (Shred It)",
-          "calories_kcal": 580,
-          "protein_g": 26.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 48.2,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 580,
+          "protein": 26.8,
+          "carbs": 48.2
         },
         {
           "item_name": "The Blossom Salad - Tofu (Shred It)",
-          "calories_kcal": 440,
-          "protein_g": 26.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 24.9,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 440,
+          "protein": 26.3,
+          "carbs": 24.9
         },
         {
           "item_name": "Triple Chilli Salad - Tofu (Shred It)",
-          "calories_kcal": 460,
-          "protein_g": 27.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 13,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 460,
+          "protein": 27.4,
+          "carbs": 13
         },
         {
           "item_name": "Tokyo Classic Salad - Tofu (Shred It)",
-          "calories_kcal": 675,
-          "protein_g": 24.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 16.1,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 675,
+          "protein": 24.2,
+          "carbs": 16.1
         },
         {
           "item_name": "Vegan Chilli Tofu Salad (Shred It)",
-          "calories_kcal": 460,
-          "protein_g": 27.3,
           "vegetarian": true,
           "vegan": true,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 13,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 460,
+          "protein": 27.3,
+          "carbs": 13
         },
         {
           "item_name": "Vegan New York Tofu Salad (Shred It)",
-          "calories_kcal": 435,
-          "protein_g": 25.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 45.3,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 435,
+          "protein": 25.8,
+          "carbs": 45.3
         },
         {
           "item_name": "Vegan Thai Tofu Salad (Shred It)",
-          "calories_kcal": 435,
-          "protein_g": 29.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "high_confidence_estimate",
           "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
           "source_url": "https://bananablossomsalads.com/menu/",
-          "carbs_g": 34.8,
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "tags": ["banana-blossom-tofu"]
+          "tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 435,
+          "protein": 29.7,
+          "carbs": 34.8
         }
       ],
       "add_ons": [
         {
           "item_name": "Extra Tofu",
-          "calories_kcal": 136,
-          "protein_g": 9.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "high_confidence_estimate",
           "notes": "Estimated from FISHBOWL's official roasted tofu protein portion because Banana Blossom publishes tofu bowls but no standalone extra-tofu nutrition row.",
           "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
           "maps_url": "https://maps.google.com/?q=Banana%20Blossom%20Sydney%20Place%20180%20George%20Street%20Sydney",
-          "applies_to_tags": ["banana-blossom-tofu"]
+          "applies_to_tags": [
+            "banana-blossom-tofu"
+          ],
+          "kcal": 136,
+          "protein": 9.8
         }
       ]
     },
@@ -406,94 +468,98 @@
       "base_items": [
         {
           "item_name": "Betty's Classic Plant",
-          "calories_kcal": 556.6,
-          "protein_g": 25.87,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Betty's PDF, October 2024 nutrition table.",
           "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
-          "fat_g": 33.52,
-          "carbs_g": 38.02,
           "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["bettys-classic-plant"]
+          "tags": [
+            "bettys-classic-plant"
+          ],
+          "kcal": 556.6,
+          "protein": 25.87,
+          "fat": 33.52,
+          "carbs": 38.02
         },
         {
           "item_name": "Betty's Classic Vegan",
-          "calories_kcal": 874.5,
-          "protein_g": 9.17,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Betty's PDF, October 2024 nutrition table.",
           "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
-          "fat_g": 54.76,
-          "carbs_g": 86.68,
-          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 874.5,
+          "protein": 9.17,
+          "fat": 54.76,
+          "carbs": 86.68
         },
         {
           "item_name": "Shroom Burger",
-          "calories_kcal": 656.1,
-          "protein_g": 19.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Betty's PDF, October 2024 nutrition table.",
           "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
-          "fat_g": 33.69,
-          "carbs_g": 77.47,
-          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 656.1,
+          "protein": 19.7,
+          "fat": 33.69,
+          "carbs": 77.47
         },
         {
           "item_name": "Vege Patty Super Bowl",
-          "calories_kcal": 807.6,
-          "protein_g": 22.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Betty's PDF, October 2024 nutrition table.",
           "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
-          "fat_g": 46.5,
-          "carbs_g": 56.62,
-          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 807.6,
+          "protein": 22.4,
+          "fat": 46.5,
+          "carbs": 56.62
         },
         {
           "item_name": "Smashed Avo Fetta Wrap",
-          "calories_kcal": 319.1,
-          "protein_g": 19.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Betty's June 2026 PDF; breakfast/select-location item. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
-          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 319.1,
+          "protein": 19.5
         },
         {
           "item_name": "Hash Brown",
-          "calories_kcal": 119.7,
-          "protein_g": 1.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Betty's June 2026 PDF; breakfast side.",
           "source_url": "https://bucket-bettys-burger-production-stack.s3.amazonaws.com/tQPKKOeoLcm9hcLvlVmWIRsNRWVI92NhDg75fMfJ.pdf",
-          "fat_g": 5.6,
-          "carbs_g": 17,
-          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 119.7,
+          "protein": 1.9,
+          "fat": 5.6,
+          "carbs": 17
         }
       ],
       "add_ons": [
         {
           "item_name": "Extra Plant-Based Patty",
-          "calories_kcal": 252.4,
-          "protein_g": 19.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Betty's allergen PDF lists Plant Based Patty as an add-on; Retail Zoo says Classic Plant uses Love BUDS; Love BUDS burger patty nutrition is 1056 kJ and 19.5 g protein per 113 g patty. Add-on availability source: https://bucket-bettys-burger-production-stack.s3.amazonaws.com/zG926iG9A78Gwm9l5Bf76i9lS28LziAM3kDTDOOU.pdf",
           "source_url": "https://welovebuds.com/proteins/",
           "maps_url": "https://maps.google.com/?cid=9178725603324344263&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["bettys-classic-plant"]
+          "applies_to_tags": [
+            "bettys-classic-plant"
+          ],
+          "kcal": 252.4,
+          "protein": 19.5
         }
       ]
     },
@@ -505,69 +571,69 @@
       "base_items": [
         {
           "item_name": "Protein Supreme (Original)",
-          "calories_kcal": 502,
-          "protein_g": 29.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Boost Juice original nutrition row.",
           "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/",
-          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney"
+          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+          "kcal": 502,
+          "protein": 29.1
         },
         {
           "item_name": "Protein Supreme (Medium)",
-          "calories_kcal": 340,
-          "protein_g": 20.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Boost Juice medium nutrition row.",
           "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/",
-          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney"
+          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+          "kcal": 340,
+          "protein": 20.3
         },
         {
           "item_name": "Gym Junkie (Original)",
-          "calories_kcal": 390,
-          "protein_g": 20.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Boost Juice original nutrition row.",
           "source_url": "https://www.boostjuice.com.au/drinks/gym-junkie/",
-          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney"
+          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+          "kcal": 390,
+          "protein": 20.5
         },
         {
           "item_name": "Choc Muscle Hustle (Original)",
-          "calories_kcal": 485,
-          "protein_g": 22.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Boost Juice original nutrition row.",
           "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/",
-          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney"
+          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+          "kcal": 485,
+          "protein": 22.3
         },
         {
           "item_name": "Choc Muscle Hustle (Medium)",
-          "calories_kcal": 390,
-          "protein_g": 17.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Boost Juice medium nutrition row.",
           "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/",
-          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney"
+          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+          "kcal": 390,
+          "protein": 17.7
         },
         {
           "item_name": "Strawbrekkie (Original)",
-          "calories_kcal": 423,
-          "protein_g": 21.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Boost Juice original nutrition row.",
           "source_url": "https://www.boostjuice.com.au/drinks/strawbrekkie/",
-          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney"
+          "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
+          "kcal": 423,
+          "protein": 21.2
         }
       ],
       "add_ons": []
@@ -580,133 +646,133 @@
       "base_items": [
         {
           "item_name": "BBQ Mushroom Bowl (Small)",
-          "calories_kcal": 777,
-          "protein_g": 16.1,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 38,
-          "carbs_g": 89.5,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 777,
+          "protein": 16.1,
+          "fat": 38,
+          "carbs": 89.5
         },
         {
           "item_name": "BBQ Mushroom Bowl (Regular)",
-          "calories_kcal": 958,
-          "protein_g": 20.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 43.9,
-          "carbs_g": 116.2,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 958,
+          "protein": 20.7,
+          "fat": 43.9,
+          "carbs": 116.2
         },
         {
           "item_name": "Macro Bowl (Small)",
-          "calories_kcal": 906,
-          "protein_g": 24.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 44.7,
-          "carbs_g": 103,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 906,
+          "protein": 24.8,
+          "fat": 44.7,
+          "carbs": 103
         },
         {
           "item_name": "Macro Bowl (Regular)",
-          "calories_kcal": 1124,
-          "protein_g": 32.3,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 52.4,
-          "carbs_g": 133.4,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1124,
+          "protein": 32.3,
+          "fat": 52.4,
+          "carbs": 133.4
         },
         {
           "item_name": "Tamari Tofu Sandwich",
-          "calories_kcal": 869,
-          "protein_g": 27,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian sandwich.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 41.9,
-          "carbs_g": 91.2,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 869,
+          "protein": 27,
+          "fat": 41.9,
+          "carbs": 91.2
         },
         {
           "item_name": "The Smash Sandwich",
-          "calories_kcal": 679,
-          "protein_g": 19.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegetarian sandwich.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 28.8,
-          "carbs_g": 82.2,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 679,
+          "protein": 19.8,
+          "fat": 28.8,
+          "carbs": 82.2
         },
         {
           "item_name": "Spicy Avo Topper",
-          "calories_kcal": 548,
-          "protein_g": 19.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegetarian topper.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 30.2,
-          "carbs_g": 51,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 548,
+          "protein": 19.2,
+          "fat": 30.2,
+          "carbs": 51
         },
         {
           "item_name": "The Shredder Smoothie (Regular)",
-          "calories_kcal": 356,
-          "protein_g": 31.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian smoothie.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 14.4,
-          "carbs_g": 23.2,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 356,
+          "protein": 31.8,
+          "fat": 14.4,
+          "carbs": 23.2
         },
         {
           "item_name": "Power Greens Smoothie (Regular)",
-          "calories_kcal": 429,
-          "protein_g": 27.9,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian smoothie.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 15.2,
-          "carbs_g": 45.1,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 429,
+          "protein": 27.9,
+          "fat": 15.2,
+          "carbs": 45.1
         },
         {
           "item_name": "Muscle Beach Smoothie (Regular)",
-          "calories_kcal": 507,
-          "protein_g": 31.6,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian smoothie.",
           "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-          "fat_g": 11.8,
-          "carbs_g": 73.1,
-          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17671539084019972614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 507,
+          "protein": 31.6,
+          "fat": 11.8,
+          "carbs": 73.1
         }
       ],
       "add_ons": []
@@ -719,677 +785,677 @@
       "base_items": [
         {
           "item_name": "1889 Margherita - Large",
-          "calories_kcal": 1030,
-          "protein_g": 54,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 37.3,
-          "carbs_g": 115,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1030,
+          "protein": 54,
+          "fat": 37.3,
+          "carbs": 115
         },
         {
           "item_name": "1889 Margherita - Large (Half)",
-          "calories_kcal": 515,
-          "protein_g": 27,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 18.7,
-          "carbs_g": 57.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 515,
+          "protein": 27,
+          "fat": 18.7,
+          "carbs": 57.5
         },
         {
           "item_name": "1889 Margherita - XL",
-          "calories_kcal": 1390,
-          "protein_g": 71.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 48.4,
-          "carbs_g": 163,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1390,
+          "protein": 71.4,
+          "fat": 48.4,
+          "carbs": 163
         },
         {
           "item_name": "1889 Margherita - XL (Half)",
-          "calories_kcal": 695,
-          "protein_g": 35.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 24.2,
-          "carbs_g": 81.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 695,
+          "protein": 35.7,
+          "fat": 24.2,
+          "carbs": 81.5
         },
         {
           "item_name": "1889 Margherita - Cheese Crust",
-          "calories_kcal": 1820,
-          "protein_g": 97.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 79.1,
-          "carbs_g": 169,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1820,
+          "protein": 97.3,
+          "fat": 79.1,
+          "carbs": 169
         },
         {
           "item_name": "1889 Margherita - Cheese Crust (Half)",
-          "calories_kcal": 910,
-          "protein_g": 48.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 39.6,
-          "carbs_g": 84.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 910,
+          "protein": 48.7,
+          "fat": 39.6,
+          "carbs": 84.5
         },
         {
           "item_name": "1889 Margherita - Gluten Free Base",
-          "calories_kcal": 1100,
-          "protein_g": 45.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 45,
-          "carbs_g": 124,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1100,
+          "protein": 45.4,
+          "fat": 45,
+          "carbs": 124
         },
         {
           "item_name": "1889 Margherita - Gluten Free Base (Half)",
-          "calories_kcal": 550,
-          "protein_g": 22.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 22.5,
-          "carbs_g": 62,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 550,
+          "protein": 22.7,
+          "fat": 22.5,
+          "carbs": 62
         },
         {
           "item_name": "1889 Margherita - High Protein Base",
-          "calories_kcal": 993,
-          "protein_g": 76.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 39.3,
-          "carbs_g": 70.2,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 993,
+          "protein": 76.2,
+          "fat": 39.3,
+          "carbs": 70.2
         },
         {
           "item_name": "1889 Margherita - High Protein Base (Half)",
-          "calories_kcal": 496.5,
-          "protein_g": 38.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 19.7,
-          "carbs_g": 35.1,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 496.5,
+          "protein": 38.1,
+          "fat": 19.7,
+          "carbs": 35.1
         },
         {
           "item_name": "Classic Margherita - Large",
-          "calories_kcal": 1110,
-          "protein_g": 60.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 43.9,
-          "carbs_g": 114,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1110,
+          "protein": 60.7,
+          "fat": 43.9,
+          "carbs": 114
         },
         {
           "item_name": "Classic Margherita - Large (Half)",
-          "calories_kcal": 555,
-          "protein_g": 30.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 22,
-          "carbs_g": 57,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 555,
+          "protein": 30.4,
+          "fat": 22,
+          "carbs": 57
         },
         {
           "item_name": "Classic Margherita - XL",
-          "calories_kcal": 1570,
-          "protein_g": 80.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 61,
-          "carbs_g": 168,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1570,
+          "protein": 80.2,
+          "fat": 61,
+          "carbs": 168
         },
         {
           "item_name": "Classic Margherita - XL (Half)",
-          "calories_kcal": 785,
-          "protein_g": 40.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 30.5,
-          "carbs_g": 84,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 785,
+          "protein": 40.1,
+          "fat": 30.5,
+          "carbs": 84
         },
         {
           "item_name": "Classic Margherita - Cheese Crust",
-          "calories_kcal": 1990,
-          "protein_g": 106,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 91.6,
-          "carbs_g": 174,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1990,
+          "protein": 106,
+          "fat": 91.6,
+          "carbs": 174
         },
         {
           "item_name": "Classic Margherita - Cheese Crust (Half)",
-          "calories_kcal": 995,
-          "protein_g": 53,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 45.8,
-          "carbs_g": 87,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 995,
+          "protein": 53,
+          "fat": 45.8,
+          "carbs": 87
         },
         {
           "item_name": "Classic Margherita - Gluten Free Base",
-          "calories_kcal": 1190,
-          "protein_g": 52.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 51.5,
-          "carbs_g": 123,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1190,
+          "protein": 52.1,
+          "fat": 51.5,
+          "carbs": 123
         },
         {
           "item_name": "Classic Margherita - Gluten Free Base (Half)",
-          "calories_kcal": 595,
-          "protein_g": 26.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 25.8,
-          "carbs_g": 61.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 595,
+          "protein": 26.1,
+          "fat": 25.8,
+          "carbs": 61.5
         },
         {
           "item_name": "Classic Margherita - High Protein Base",
-          "calories_kcal": 1080,
-          "protein_g": 83,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 45.9,
-          "carbs_g": 69.3,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1080,
+          "protein": 83,
+          "fat": 45.9,
+          "carbs": 69.3
         },
         {
           "item_name": "Classic Margherita - High Protein Base (Half)",
-          "calories_kcal": 540,
-          "protein_g": 41.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 23,
-          "carbs_g": 34.7,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 540,
+          "protein": 41.5,
+          "fat": 23,
+          "carbs": 34.7
         },
         {
           "item_name": "Paneer Masala - Large",
-          "calories_kcal": 1460,
-          "protein_g": 63.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 76.7,
-          "carbs_g": 127,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1460,
+          "protein": 63.2,
+          "fat": 76.7,
+          "carbs": 127
         },
         {
           "item_name": "Paneer Masala - Large (Half)",
-          "calories_kcal": 730,
-          "protein_g": 31.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 38.4,
-          "carbs_g": 63.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 730,
+          "protein": 31.6,
+          "fat": 38.4,
+          "carbs": 63.5
         },
         {
           "item_name": "Paneer Masala - XL",
-          "calories_kcal": 1700,
-          "protein_g": 70.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 79.3,
-          "carbs_g": 172,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1700,
+          "protein": 70.6,
+          "fat": 79.3,
+          "carbs": 172
         },
         {
           "item_name": "Paneer Masala - XL (Half)",
-          "calories_kcal": 850,
-          "protein_g": 35.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 39.7,
-          "carbs_g": 86,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 850,
+          "protein": 35.3,
+          "fat": 39.7,
+          "carbs": 86
         },
         {
           "item_name": "Paneer Masala - Cheese Crust",
-          "calories_kcal": 2120,
-          "protein_g": 96.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 110,
-          "carbs_g": 179,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 2120,
+          "protein": 96.5,
+          "fat": 110,
+          "carbs": 179
         },
         {
           "item_name": "Paneer Masala - Cheese Crust (Half)",
-          "calories_kcal": 1060,
-          "protein_g": 48.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 55,
-          "carbs_g": 89.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1060,
+          "protein": 48.3,
+          "fat": 55,
+          "carbs": 89.5
         },
         {
           "item_name": "Paneer Masala - Gluten Free Base",
-          "calories_kcal": 1340,
-          "protein_g": 45.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 69.3,
-          "carbs_g": 129,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1340,
+          "protein": 45.1,
+          "fat": 69.3,
+          "carbs": 129
         },
         {
           "item_name": "Paneer Masala - Gluten Free Base (Half)",
-          "calories_kcal": 670,
-          "protein_g": 22.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 34.7,
-          "carbs_g": 64.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 670,
+          "protein": 22.6,
+          "fat": 34.7,
+          "carbs": 64.5
         },
         {
           "item_name": "Paneer Masala - High Protein Base",
-          "calories_kcal": 1230,
-          "protein_g": 76,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 63.6,
-          "carbs_g": 76,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1230,
+          "protein": 76,
+          "fat": 63.6,
+          "carbs": 76
         },
         {
           "item_name": "Paneer Masala - High Protein Base (Half)",
-          "calories_kcal": 615,
-          "protein_g": 38,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 31.8,
-          "carbs_g": 38,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 615,
+          "protein": 38,
+          "fat": 31.8,
+          "carbs": 38
         },
         {
           "item_name": "Peri Peri (not) Chicken - Large",
-          "calories_kcal": 1280,
-          "protein_g": 69.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1280,
+          "protein": 69.4
         },
         {
           "item_name": "Peri Peri (not) Chicken - Large (Half)",
-          "calories_kcal": 640,
-          "protein_g": 34.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 640,
+          "protein": 34.7
         },
         {
           "item_name": "Peri Peri (not) Chicken - XL",
-          "calories_kcal": 1700,
-          "protein_g": 90.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1700,
+          "protein": 90.3
         },
         {
           "item_name": "Peri Peri (not) Chicken - XL (Half)",
-          "calories_kcal": 850,
-          "protein_g": 45.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 850,
+          "protein": 45.2
         },
         {
           "item_name": "Peri Peri (not) Chicken - Cheese Crust",
-          "calories_kcal": 2130,
-          "protein_g": 116,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 2130,
+          "protein": 116
         },
         {
           "item_name": "Peri Peri (not) Chicken - Cheese Crust (Half)",
-          "calories_kcal": 1065,
-          "protein_g": 58,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1065,
+          "protein": 58
         },
         {
           "item_name": "Peri Peri (not) Chicken - High Protein Base",
-          "calories_kcal": 1250,
-          "protein_g": 91.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1250,
+          "protein": 91.6
         },
         {
           "item_name": "Peri Peri (not) Chicken - High Protein Base (Half)",
-          "calories_kcal": 625,
-          "protein_g": 45.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 625,
+          "protein": 45.8
         },
         {
           "item_name": "Vegan Peri Peri (not) Chicken - Large",
-          "calories_kcal": 1140,
-          "protein_g": 47.6,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1140,
+          "protein": 47.6
         },
         {
           "item_name": "Vegan Peri Peri (not) Chicken - Large (Half)",
-          "calories_kcal": 570,
-          "protein_g": 23.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 570,
+          "protein": 23.8
         },
         {
           "item_name": "Vegan Peri Peri (not) Chicken - XL",
-          "calories_kcal": 1530,
-          "protein_g": 62.5,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1530,
+          "protein": 62.5
         },
         {
           "item_name": "Vegan Peri Peri (not) Chicken - XL (Half)",
-          "calories_kcal": 765,
-          "protein_g": 31.3,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 765,
+          "protein": 31.3
         },
         {
           "item_name": "Vegan Peri Peri (not) Chicken - High Protein Base",
-          "calories_kcal": 1100,
-          "protein_g": 69.9,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1100,
+          "protein": 69.9
         },
         {
           "item_name": "Vegan Peri Peri (not) Chicken - High Protein Base (Half)",
-          "calories_kcal": 550,
-          "protein_g": 35,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 550,
+          "protein": 35
         },
         {
           "item_name": "Vegetarian Supreme - Large",
-          "calories_kcal": 1110,
-          "protein_g": 44.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 46.7,
-          "carbs_g": 122,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1110,
+          "protein": 44.7,
+          "fat": 46.7,
+          "carbs": 122
         },
         {
           "item_name": "Vegetarian Supreme - Large (Half)",
-          "calories_kcal": 555,
-          "protein_g": 22.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 23.4,
-          "carbs_g": 61,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 555,
+          "protein": 22.4,
+          "fat": 23.4,
+          "carbs": 61
         },
         {
           "item_name": "Vegetarian Supreme - XL",
-          "calories_kcal": 1490,
-          "protein_g": 59.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 59.1,
-          "carbs_g": 172,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1490,
+          "protein": 59.8,
+          "fat": 59.1,
+          "carbs": 172
         },
         {
           "item_name": "Vegetarian Supreme - XL (Half)",
-          "calories_kcal": 745,
-          "protein_g": 29.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 29.6,
-          "carbs_g": 86,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 745,
+          "protein": 29.9,
+          "fat": 29.6,
+          "carbs": 86
         },
         {
           "item_name": "Vegetarian Supreme - Cheese Crust",
-          "calories_kcal": 1910,
-          "protein_g": 85.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 89.8,
-          "carbs_g": 179,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1910,
+          "protein": 85.7,
+          "fat": 89.8,
+          "carbs": 179
         },
         {
           "item_name": "Vegetarian Supreme - Cheese Crust (Half)",
-          "calories_kcal": 955,
-          "protein_g": 42.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 44.9,
-          "carbs_g": 89.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 955,
+          "protein": 42.9,
+          "fat": 44.9,
+          "carbs": 89.5
         },
         {
           "item_name": "Vegetarian Supreme - Gluten Free Base",
-          "calories_kcal": 1180,
-          "protein_g": 36.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 54.3,
-          "carbs_g": 131,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1180,
+          "protein": 36.1,
+          "fat": 54.3,
+          "carbs": 131
         },
         {
           "item_name": "Vegetarian Supreme - Gluten Free Base (Half)",
-          "calories_kcal": 590,
-          "protein_g": 18.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 27.2,
-          "carbs_g": 65.5,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 590,
+          "protein": 18.1,
+          "fat": 27.2,
+          "carbs": 65.5
         },
         {
           "item_name": "Vegetarian Supreme - High Protein Base",
-          "calories_kcal": 1070,
-          "protein_g": 67,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 48.6,
-          "carbs_g": 77.3,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 1070,
+          "protein": 67,
+          "fat": 48.6,
+          "carbs": 77.3
         },
         {
           "item_name": "Vegetarian Supreme - High Protein Base (Half)",
-          "calories_kcal": 535,
-          "protein_g": 33.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Crust/RFG nutrition table; per-serving values for selected size/base variant. Half-pizza option assumes eating or saving half of the pizza.",
           "source_url": "https://www.crust.com.au/nutrition",
-          "fat_g": 24.3,
-          "carbs_g": 38.7,
-          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=9073849873888441059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 535,
+          "protein": 33.5,
+          "fat": 24.3,
+          "carbs": 38.7
         }
       ],
       "add_ons": []
@@ -1402,102 +1468,102 @@
       "base_items": [
         {
           "item_name": "Margherita (Classic Crust Half Pizza)",
-          "calories_kcal": 464,
-          "protein_g": 20,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 464,
+          "protein": 20
         },
         {
           "item_name": "Simply Cheese (Classic Crust Half Pizza)",
-          "calories_kcal": 508,
-          "protein_g": 23.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 508,
+          "protein": 23.2
         },
         {
           "item_name": "Spicy Peppy Paneer (Classic Crust Half Pizza)",
-          "calories_kcal": 612,
-          "protein_g": 23.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 612,
+          "protein": 23.6
         },
         {
           "item_name": "Spicy Veg Supreme (Classic Crust Half Pizza)",
-          "calories_kcal": 500,
-          "protein_g": 20.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 500,
+          "protein": 20.8
         },
         {
           "item_name": "Vegorama (Classic Crust Half Pizza)",
-          "calories_kcal": 480,
-          "protein_g": 20.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 480,
+          "protein": 20.8
         },
         {
           "item_name": "Margherita (The Edge Half Pizza)",
-          "calories_kcal": 708,
-          "protein_g": 30.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 708,
+          "protein": 30.8
         },
         {
           "item_name": "Simply Cheese (The Edge Half Pizza)",
-          "calories_kcal": 748,
-          "protein_g": 34.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 748,
+          "protein": 34.4
         },
         {
           "item_name": "Spicy Veg Supreme (The Edge Half Pizza)",
-          "calories_kcal": 728,
-          "protein_g": 29.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 728,
+          "protein": 29.2
         },
         {
           "item_name": "Vegorama (The Edge Half Pizza)",
-          "calories_kcal": 712,
-          "protein_g": 29.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
           "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
-          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD"
+          "maps_url": "https://maps.google.com/?q=Domino%27s%20Pizza%20Sydney%20CBD",
+          "kcal": 712,
+          "protein": 29.2
         }
       ],
       "add_ons": []
@@ -1510,74 +1576,84 @@
       "base_items": [
         {
           "item_name": "Roasted Tofu O.G. Regular Bowl",
-          "calories_kcal": 606,
-          "protein_g": 20.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
           "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "fat_g": 32.9,
-          "carbs_g": 52.2,
           "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["fishbowl-custom-bowl"]
+          "tags": [
+            "fishbowl-custom-bowl"
+          ],
+          "kcal": 606,
+          "protein": 20.5,
+          "fat": 32.9,
+          "carbs": 52.2
         },
         {
           "item_name": "Tofu Boys Regular Bowl",
-          "calories_kcal": 643,
-          "protein_g": 22.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
           "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "fat_g": 38.6,
-          "carbs_g": 44.9,
           "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["fishbowl-custom-bowl"]
+          "tags": [
+            "fishbowl-custom-bowl"
+          ],
+          "kcal": 643,
+          "protein": 22.9,
+          "fat": 38.6,
+          "carbs": 44.9
         },
         {
           "item_name": "Miso-Glazed Eggplant + Tofu Box",
-          "calories_kcal": 594,
-          "protein_g": 18.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official FISHBOWL Winter Warmer Box row.",
           "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "fat_g": 26.4,
-          "carbs_g": 63.2,
           "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["fishbowl-custom-bowl"]
+          "tags": [
+            "fishbowl-custom-bowl"
+          ],
+          "kcal": 594,
+          "protein": 18.2,
+          "fat": 26.4,
+          "carbs": 63.2
         }
       ],
       "add_ons": [
         {
           "item_name": "Roasted Tofu",
-          "calories_kcal": 136,
-          "protein_g": 9.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official FISHBOWL protein portion.",
           "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "fat_g": 10,
           "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["fishbowl-custom-bowl"]
+          "applies_to_tags": [
+            "fishbowl-custom-bowl"
+          ],
+          "kcal": 136,
+          "protein": 9.8,
+          "fat": 10
         },
         {
           "item_name": "Miso-Glazed Eggplant",
-          "calories_kcal": 90,
-          "protein_g": 3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official FISHBOWL protein portion.",
           "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "fat_g": 1.2,
-          "carbs_g": 13.4,
           "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["fishbowl-custom-bowl"]
+          "applies_to_tags": [
+            "fishbowl-custom-bowl"
+          ],
+          "kcal": 90,
+          "protein": 3,
+          "fat": 1.2,
+          "carbs": 13.4
         }
       ]
     },
@@ -1589,402 +1665,402 @@
       "base_items": [
         {
           "item_name": "Beyond Mustard & Pickled! (Panini)",
-          "calories_kcal": 418.3,
-          "protein_g": 24.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 17.8,
-          "carbs_g": 36.4,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 418.3,
+          "protein": 24.5,
+          "fat": 17.8,
+          "carbs": 36.4
         },
         {
           "item_name": "Beyond Mustard & Pickled! (Traditional)",
-          "calories_kcal": 408.7,
-          "protein_g": 24.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 17.3,
-          "carbs_g": 35.5,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 408.7,
+          "protein": 24.1,
+          "fat": 17.3,
+          "carbs": 35.5
         },
         {
           "item_name": "Beyond Mustard & Pickled! (SuperBun)",
-          "calories_kcal": 585.6,
-          "protein_g": 34.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table. Fat and carbohydrate are omitted because the API's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 585.6,
+          "protein": 34.5
         },
         {
           "item_name": "Beyond Mustard & Pickled! (Gluten Free)",
-          "calories_kcal": 501.9,
-          "protein_g": 22.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 21.7,
-          "carbs_g": 47.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 501.9,
+          "protein": 22.3,
+          "fat": 21.7,
+          "carbs": 47.8
         },
         {
           "item_name": "Beyond Mustard & Pickled! (No Bun)",
-          "calories_kcal": 241.4,
-          "protein_g": 18.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 12.7,
-          "carbs_g": 12.9,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 241.4,
+          "protein": 18.8,
+          "fat": 12.7,
+          "carbs": 12.9
         },
         {
           "item_name": "Beyond Garden Goodness (Panini)",
-          "calories_kcal": 544.9,
-          "protein_g": 25.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 29.5,
-          "carbs_g": 42.5,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 544.9,
+          "protein": 25.1,
+          "fat": 29.5,
+          "carbs": 42.5
         },
         {
           "item_name": "Beyond Garden Goodness (Traditional)",
-          "calories_kcal": 535.4,
-          "protein_g": 24.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 29.0,
-          "carbs_g": 41.6,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 535.4,
+          "protein": 24.7,
+          "fat": 29.0,
+          "carbs": 41.6
         },
         {
           "item_name": "Beyond Garden Goodness (SuperBun)",
-          "calories_kcal": 712.2,
-          "protein_g": 35.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table. Fat and carbohydrate are omitted because the API's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 712.2,
+          "protein": 35.1
         },
         {
           "item_name": "Beyond Garden Goodness (Gluten Free)",
-          "calories_kcal": 628.6,
-          "protein_g": 22.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 33.4,
-          "carbs_g": 53.9,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 628.6,
+          "protein": 22.9,
+          "fat": 33.4,
+          "carbs": 53.9
         },
         {
           "item_name": "Beyond Garden Goodness (No Bun)",
-          "calories_kcal": 368.1,
-          "protein_g": 19.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 24.4,
-          "carbs_g": 19.0,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 368.1,
+          "protein": 19.4,
+          "fat": 24.4,
+          "carbs": 19.0
         },
         {
           "item_name": "Garden Goodness (Panini)",
-          "calories_kcal": 497.1,
-          "protein_g": 16.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 25.0,
-          "carbs_g": 50.5,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 497.1,
+          "protein": 16.9,
+          "fat": 25.0,
+          "carbs": 50.5
         },
         {
           "item_name": "Garden Goodness (Traditional)",
-          "calories_kcal": 487.6,
-          "protein_g": 16.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 24.5,
-          "carbs_g": 49.6,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 487.6,
+          "protein": 16.5,
+          "fat": 24.5,
+          "carbs": 49.6
         },
         {
           "item_name": "Garden Goodness (SuperBun)",
-          "calories_kcal": 664.4,
-          "protein_g": 26.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table. Fat and carbohydrate are omitted because the API's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 664.4,
+          "protein": 26.9
         },
         {
           "item_name": "Garden Goodness (Gluten Free)",
-          "calories_kcal": 580.8,
-          "protein_g": 14.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 28.9,
-          "carbs_g": 61.9,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 580.8,
+          "protein": 14.7,
+          "fat": 28.9,
+          "carbs": 61.9
         },
         {
           "item_name": "Garden Goodness (No Bun)",
-          "calories_kcal": 320.3,
-          "protein_g": 11.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 19.9,
-          "carbs_g": 27.0,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 320.3,
+          "protein": 11.2,
+          "fat": 19.9,
+          "carbs": 27.0
         },
         {
           "item_name": "Vegan Beyond Mustard & Pickled! (Panini)",
-          "calories_kcal": 461.3,
-          "protein_g": 24.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 18.4,
-          "carbs_g": 47.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 461.3,
+          "protein": 24.7,
+          "fat": 18.4,
+          "carbs": 47.8
         },
         {
           "item_name": "Vegan Beyond Mustard & Pickled! (Traditional)",
-          "calories_kcal": 461.3,
-          "protein_g": 24.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 19.0,
-          "carbs_g": 45.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 461.3,
+          "protein": 24.8,
+          "fat": 19.0,
+          "carbs": 45.8
         },
         {
           "item_name": "Vegan Beyond Mustard & Pickled! (SuperBun)",
-          "calories_kcal": 501.9,
-          "protein_g": 26.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 33.3,
-          "carbs_g": 21.6,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 501.9,
+          "protein": 26.7,
+          "fat": 33.3,
+          "carbs": 21.6
         },
         {
           "item_name": "Vegan Beyond Mustard & Pickled! (Gluten Free)",
-          "calories_kcal": 549.7,
-          "protein_g": 20.0,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 26.6,
-          "carbs_g": 56.1,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 549.7,
+          "protein": 20.0,
+          "fat": 26.6,
+          "carbs": 56.1
         },
         {
           "item_name": "Vegan Beyond Mustard & Pickled! (No Bun)",
-          "calories_kcal": 303.5,
-          "protein_g": 18.6,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 16.9,
-          "carbs_g": 19.2,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 303.5,
+          "protein": 18.6,
+          "fat": 16.9,
+          "carbs": 19.2
         },
         {
           "item_name": "Vegan Beyond Garden Goodness (Panini)",
-          "calories_kcal": 592.7,
-          "protein_g": 25.6,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 30.4,
-          "carbs_g": 54.3,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 592.7,
+          "protein": 25.6,
+          "fat": 30.4,
+          "carbs": 54.3
         },
         {
           "item_name": "Vegan Beyond Garden Goodness (Traditional)",
-          "calories_kcal": 590.3,
-          "protein_g": 25.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 31.0,
-          "carbs_g": 52.2,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 590.3,
+          "protein": 25.7,
+          "fat": 31.0,
+          "carbs": 52.2
         },
         {
           "item_name": "Vegan Beyond Garden Goodness (SuperBun)",
-          "calories_kcal": 631,
-          "protein_g": 27.6,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 45.4,
-          "carbs_g": 27.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 631,
+          "protein": 27.6,
+          "fat": 45.4,
+          "carbs": 27.8
         },
         {
           "item_name": "Vegan Beyond Garden Goodness (Gluten Free)",
-          "calories_kcal": 717,
-          "protein_g": 21.9,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 40.7,
-          "carbs_g": 65.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 717,
+          "protein": 21.9,
+          "fat": 40.7,
+          "carbs": 65.8
         },
         {
           "item_name": "Vegan Beyond Garden Goodness (No Bun)",
-          "calories_kcal": 463.7,
-          "protein_g": 20.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 30.9,
-          "carbs_g": 27.2,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 463.7,
+          "protein": 20.8,
+          "fat": 30.9,
+          "carbs": 27.2
         },
         {
           "item_name": "Vegan Garden Goodness (Panini)",
-          "calories_kcal": 535.4,
-          "protein_g": 12.2,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 28.4,
-          "carbs_g": 53.2,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 535.4,
+          "protein": 12.2,
+          "fat": 28.4,
+          "carbs": 53.2
         },
         {
           "item_name": "Vegan Garden Goodness (Traditional)",
-          "calories_kcal": 528.2,
-          "protein_g": 11.9,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 27.9,
-          "carbs_g": 52.4,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 528.2,
+          "protein": 11.9,
+          "fat": 27.9,
+          "carbs": 52.4
         },
         {
           "item_name": "Vegan Garden Goodness (SuperBun)",
-          "calories_kcal": 642.9,
-          "protein_g": 19.1,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 44.8,
-          "carbs_g": 36.5,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 642.9,
+          "protein": 19.1,
+          "fat": 44.8,
+          "carbs": 36.5
         },
         {
           "item_name": "Vegan Garden Goodness (Gluten Free)",
-          "calories_kcal": 676.4,
-          "protein_g": 8.7,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 33.0,
-          "carbs_g": 81.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 676.4,
+          "protein": 8.7,
+          "fat": 33.0,
+          "carbs": 81.8
         },
         {
           "item_name": "Vegan Garden Goodness (No Bun)",
-          "calories_kcal": 346.6,
-          "protein_g": 6.8,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Direct from Grill'd ordering API nutrition table.",
           "source_url": "https://ordering.digital.grilld.com.au",
-          "fat_g": 20.1,
-          "carbs_g": 32.8,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 346.6,
+          "protein": 6.8,
+          "fat": 20.1,
+          "carbs": 32.8
         }
       ],
       "add_ons": [
         {
           "item_name": "Extra Beyond Patty",
-          "calories_kcal": 143.8,
-          "protein_g": 13,
           "vegetarian": true,
           "vegan": true,
           "confidence": "high_confidence_estimate",
           "notes": "Grill'd publishes no add-on nutrition. Figures are Beyond Meat's 2.5 oz foodservice Beyond Burger IV, the patty Grill'd states it serves, whose published 13 g protein and 1 g saturated fat both match the 4 oz label scaled to 2.5 oz.",
           "source_url": "https://www.beyondmeat.com/en-US/press/beyond-meat-expands-foodservice-portfolio-with-the-fourth-generation-beyond-burger-and-new-beyond-crispy-nuggets",
-          "fat_g": 8.8,
-          "carbs_g": 5,
-          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 143.8,
+          "protein": 13,
+          "fat": 8.8,
+          "carbs": 5
         }
       ]
     },
@@ -1996,156 +2072,172 @@
       "base_items": [
         {
           "item_name": "Mild Sautéed Vegetables with Guacamole Burrito",
-          "calories_kcal": 808,
-          "protein_g": 24,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG burrito row; 550 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 35.2,
-          "carbs_g": 96.7,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["gyg-regular-burrito-bowl-salad"]
+          "tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 808,
+          "protein": 24,
+          "fat": 35.2,
+          "carbs": 96.7
         },
         {
           "item_name": "Mild Sautéed Vegetables with Guacamole Bowl",
-          "calories_kcal": 694,
-          "protein_g": 19.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG bowl row; 525 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 32.2,
-          "carbs_g": 79.8,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["gyg-regular-burrito-bowl-salad"]
+          "tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 694,
+          "protein": 19.5,
+          "fat": 32.2,
+          "carbs": 79.8
         },
         {
           "item_name": "Mild Pulled Shiitake Mushroom Bowl",
-          "calories_kcal": 785,
-          "protein_g": 27.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG bowl row; 455 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 38.2,
-          "carbs_g": 77.9,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["gyg-regular-burrito-bowl-salad"]
+          "tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 785,
+          "protein": 27.8,
+          "fat": 38.2,
+          "carbs": 77.9
         },
         {
           "item_name": "Mild Cheese Quesadilla",
-          "calories_kcal": 386,
-          "protein_g": 16.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG quesadilla row; 110 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 20.6,
-          "carbs_g": 33.3,
-          "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 386,
+          "protein": 16.2,
+          "fat": 20.6,
+          "carbs": 33.3
         },
         {
           "item_name": "Mild Sautéed Vegetables with Guacamole Quesadilla Plus",
-          "calories_kcal": 618,
-          "protein_g": 31.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG quesadilla plus row; 276 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 38.6,
-          "carbs_g": 35.1,
-          "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 618,
+          "protein": 31.7,
+          "fat": 38.6,
+          "carbs": 35.1
         },
         {
           "item_name": "Mild Sautéed Vegetables with Guacamole Soft Flour Taco",
-          "calories_kcal": 243,
-          "protein_g": 9.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG single soft flour taco row; 188 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 14.2,
-          "carbs_g": 17.1,
-          "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 243,
+          "protein": 9.4,
+          "fat": 14.2,
+          "carbs": 17.1
         }
       ],
       "add_ons": [
         {
           "item_name": "Guacamole",
-          "calories_kcal": 126,
-          "protein_g": 1.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG regular burrito, bowl and salad extra; 70 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 13.2,
-          "carbs_g": 0.5,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["gyg-regular-burrito-bowl-salad"]
+          "applies_to_tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 126,
+          "protein": 1.2,
+          "fat": 13.2,
+          "carbs": 0.5
         },
         {
           "item_name": "Mild Pulled Shiitake Mushroom",
-          "calories_kcal": 270,
-          "protein_g": 11.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG regular burrito, bowl and salad extra; 100 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 21.2,
-          "carbs_g": 4.5,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["gyg-regular-burrito-bowl-salad"]
+          "applies_to_tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 270,
+          "protein": 11.2,
+          "fat": 21.2,
+          "carbs": 4.5
         },
         {
           "item_name": "Mild Sautéed Vegetables",
-          "calories_kcal": 53,
-          "protein_g": 1.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG regular burrito, bowl and salad extra; 100 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 2,
-          "carbs_g": 6,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["gyg-regular-burrito-bowl-salad"]
+          "applies_to_tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 53,
+          "protein": 1.7,
+          "fat": 2,
+          "carbs": 6
         },
         {
           "item_name": "Seasoned Corn",
-          "calories_kcal": 72,
-          "protein_g": 1.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG regular burrito, bowl and salad extra; 60 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 1.4,
-          "carbs_g": 11.9,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["gyg-regular-burrito-bowl-salad"]
+          "applies_to_tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 72,
+          "protein": 1.9,
+          "fat": 1.4,
+          "carbs": 11.9
         },
         {
           "item_name": "Queso (Mild)",
-          "calories_kcal": 100,
-          "protein_g": 6.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official GYG regular burrito, bowl and salad extra; 80 g serve.",
           "source_url": "https://www.guzmanygomez.com.au/wp-content/uploads/2026/05/260512_NUTRITION_ALLERGEN_GUIDE_420X297MM-1.pdf",
-          "fat_g": 7.6,
-          "carbs_g": 2,
           "maps_url": "https://maps.google.com/?cid=17514207362501379616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["gyg-regular-burrito-bowl-salad"]
+          "applies_to_tags": [
+            "gyg-regular-burrito-bowl-salad"
+          ],
+          "kcal": 100,
+          "protein": 6.2,
+          "fat": 7.6,
+          "carbs": 2
         }
       ]
     },
@@ -2157,86 +2249,94 @@
       "base_items": [
         {
           "item_name": "Whopper Plant Based",
-          "calories_kcal": 553.8,
-          "protein_g": 24.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
           "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["hungry-jacks-plant-based-whopper"]
+          "tags": [
+            "hungry-jacks-plant-based-whopper"
+          ],
+          "kcal": 553.8,
+          "protein": 24.6
         },
         {
           "item_name": "Whopper Plant Based Natural Cheese",
-          "calories_kcal": 628.6,
-          "protein_g": 29.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
           "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["hungry-jacks-plant-based-whopper"]
+          "tags": [
+            "hungry-jacks-plant-based-whopper"
+          ],
+          "kcal": 628.6,
+          "protein": 29.6
         },
         {
           "item_name": "Whopper Plant Based Angry Natural Cheese",
-          "calories_kcal": 701.5,
-          "protein_g": 30.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
           "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["hungry-jacks-plant-based-whopper"]
+          "tags": [
+            "hungry-jacks-plant-based-whopper"
+          ],
+          "kcal": 701.5,
+          "protein": 30.4
         },
         {
           "item_name": "Angry Veggie Whopper",
-          "calories_kcal": 618.1,
-          "protein_g": 18.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
-          "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 618.1,
+          "protein": 18.5
         },
         {
           "item_name": "Whopper Veggie Cheese",
-          "calories_kcal": 544.2,
-          "protein_g": 17.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
-          "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 544.2,
+          "protein": 17.6
         },
         {
           "item_name": "Whopper Veggie Cheese Double",
-          "calories_kcal": 693.1,
-          "protein_g": 21.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
-          "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 693.1,
+          "protein": 21.5
         }
       ],
       "add_ons": [
         {
           "item_name": "Extra Plant-Based Patty",
-          "calories_kcal": 243.8,
-          "protein_g": 15.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Hungry Jack's ordering API modifier 72692 is 1020 kJ; protein isolated from official Plant Based Natural Cheese with-patty and no-patty PDF rows.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals.pdf",
           "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["hungry-jacks-plant-based-whopper"]
+          "applies_to_tags": [
+            "hungry-jacks-plant-based-whopper"
+          ],
+          "kcal": 243.8,
+          "protein": 15.6
         }
       ]
     },
@@ -2248,125 +2348,145 @@
       "base_items": [
         {
           "item_name": "Mexicali Mince Naked Burrito",
-          "calories_kcal": 632.46,
-          "protein_g": 28.48,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex nutrition calculator; default regular naked burrito build.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["mad-mex-custom-meal"]
+          "tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 632.46,
+          "protein": 28.48
         },
         {
           "item_name": "Mexicali Mince Grande Melt",
-          "calories_kcal": 641.61,
-          "protein_g": 30.54,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex nutrition calculator; default regular grande melt build.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["mad-mex-custom-meal"]
+          "tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 641.61,
+          "protein": 30.54
         },
         {
           "item_name": "Mexicali Mince Burrito",
-          "calories_kcal": 915.47,
-          "protein_g": 35.76,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex nutrition calculator; default regular burrito build.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["mad-mex-custom-meal"]
+          "tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 915.47,
+          "protein": 35.76
         },
         {
           "item_name": "Mexicali Mince Small Naked Burrito",
-          "calories_kcal": 396.13,
-          "protein_g": 16.72,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex nutrition calculator; default small naked burrito build.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["mad-mex-custom-meal"]
+          "tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 396.13,
+          "protein": 16.72
         },
         {
           "item_name": "Veggie Veracruz Naked Burrito",
-          "calories_kcal": 558.86,
-          "protein_g": 17.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex nutrition calculator; default regular naked burrito build.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["mad-mex-custom-meal"]
+          "tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 558.86,
+          "protein": 17.2
         },
         {
           "item_name": "Mexicali Mince Nachos",
-          "calories_kcal": 893.86,
-          "protein_g": 31.51,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex nutrition calculator; default regular nachos build.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["mad-mex-custom-meal"]
+          "tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 893.86,
+          "protein": 31.51
         }
       ],
       "add_ons": [
         {
           "item_name": "Mexicali Mince",
-          "calories_kcal": 173.6,
-          "protein_g": 12.64,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex regular filling serve.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["mad-mex-custom-meal"]
+          "applies_to_tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 173.6,
+          "protein": 12.64
         },
         {
           "item_name": "Queso (Cheese)",
-          "calories_kcal": 92.4,
-          "protein_g": 5.76,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex regular extras serve.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["mad-mex-custom-meal"]
+          "applies_to_tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 92.4,
+          "protein": 5.76
         },
         {
           "item_name": "Black Beans",
-          "calories_kcal": 85.5,
-          "protein_g": 4.96,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex regular extras serve.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["mad-mex-custom-meal"]
+          "applies_to_tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 85.5,
+          "protein": 4.96
         },
         {
           "item_name": "Cheese Shredded",
-          "calories_kcal": 79,
-          "protein_g": 4.76,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Mad Mex regular extras serve.",
           "source_url": "https://www.madmex.com.au/nutritioncalculator/",
           "maps_url": "https://maps.google.com/?cid=13114409267644230441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["mad-mex-custom-meal"]
+          "applies_to_tags": [
+            "mad-mex-custom-meal"
+          ],
+          "kcal": 79,
+          "protein": 4.76
         }
       ]
     },
@@ -2378,124 +2498,134 @@
       "base_items": [
         {
           "item_name": "Avo Parmesan Crunch",
-          "calories_kcal": 259,
-          "protein_g": 10.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Nando's item page nutrition table.",
           "source_url": "https://www.nandos.com.au/menu-item",
-          "fat_g": 20.6,
-          "carbs_g": 7.1,
           "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["nandos-extra-protein"]
+          "tags": [
+            "nandos-extra-protein"
+          ],
+          "kcal": 259,
+          "protein": 10.5,
+          "fat": 20.6,
+          "carbs": 7.1
         },
         {
           "item_name": "Grain Salad",
-          "calories_kcal": 221,
-          "protein_g": 7.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Nando's item page nutrition table. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.nandos.com.au/menu-item",
           "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["nandos-extra-protein"]
+          "tags": [
+            "nandos-extra-protein"
+          ],
+          "kcal": 221,
+          "protein": 7.5
         },
         {
           "item_name": "Mediterranean Salad",
-          "calories_kcal": 415,
-          "protein_g": 8.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Nando's item page nutrition table.",
           "source_url": "https://www.nandos.com.au/menu-item",
-          "fat_g": 30.2,
-          "carbs_g": 14.8,
           "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["nandos-extra-protein"]
+          "tags": [
+            "nandos-extra-protein"
+          ],
+          "kcal": 415,
+          "protein": 8.1,
+          "fat": 30.2,
+          "carbs": 14.8
         },
         {
           "item_name": "PERi-Harvest Bowl",
-          "calories_kcal": 421,
-          "protein_g": 9.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Nando's item page nutrition table. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.nandos.com.au/menu-item",
           "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["nandos-extra-protein"]
+          "tags": [
+            "nandos-extra-protein"
+          ],
+          "kcal": 421,
+          "protein": 9.9
         },
         {
           "item_name": "PERinaise Classic with Great Pretender Protein",
-          "calories_kcal": 655.5,
-          "protein_g": 33.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official PERinaise Classic chicken burger row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
           "source_url": "https://www.nandos.com.au/menu-item/perinaise-classic",
-          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 655.5,
+          "protein": 33.7
         },
         {
           "item_name": "Avo Goodness with Great Pretender Protein",
-          "calories_kcal": 727.5,
-          "protein_g": 31.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Avo Goodness chicken wrap row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
           "source_url": "https://www.nandos.com.au/menu-item/avo-goodness-nutritional-information",
-          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 727.5,
+          "protein": 31.1
         },
         {
           "item_name": "Supremo with Great Pretender Protein",
-          "calories_kcal": 807.5,
-          "protein_g": 34.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Supremo chicken wrap row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
           "source_url": "https://www.nandos.com.au/menu-item/supremo",
-          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 807.5,
+          "protein": 34.6
         },
         {
           "item_name": "The Halloumi with Great Pretender Protein",
-          "calories_kcal": 758.5,
-          "protein_g": 32.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Halloumi chicken pita row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
           "source_url": "https://www.nandos.com.au/menu-item/halloumi",
-          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 758.5,
+          "protein": 32.8
         },
         {
           "item_name": "Paella with Great Pretender Protein",
-          "calories_kcal": 716.5,
-          "protein_g": 23.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "high_confidence_estimate",
           "notes": "Official Paella chicken row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein; Nando's separately lists 718 kcal for the Great Pretender version. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
           "source_url": "https://www.nandos.com.au/menu-item/paella",
-          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 716.5,
+          "protein": 23.7
         }
       ],
       "add_ons": [
         {
           "item_name": "Great Pretender Protein Patty",
-          "calories_kcal": 297,
-          "protein_g": 17.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Nando's says Great Pretender Protein can be added to any burger, wrap, pita, salad or paella. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
           "source_url": "https://www.nandos.com.au/menu-item/the-great-pretender-protein",
           "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["nandos-extra-protein"]
+          "applies_to_tags": [
+            "nandos-extra-protein"
+          ],
+          "kcal": 297,
+          "protein": 17.4
         }
       ]
     },
@@ -2507,96 +2637,100 @@
       "base_items": [
         {
           "item_name": "Tofu Banh Mi",
-          "calories_kcal": 525.1,
-          "protein_g": 21.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Roll'd live product page; 260 g serve.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-          "fat_g": 16.1,
-          "carbs_g": 65.3,
           "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["rolld-tofu-banh-mi"]
+          "tags": [
+            "rolld-tofu-banh-mi"
+          ],
+          "kcal": 525.1,
+          "protein": 21.8,
+          "fat": 16.1,
+          "carbs": 65.3
         },
         {
           "item_name": "Tofu & Vegetable Spring Rolls Noodle Salad (Bun)",
-          "calories_kcal": 584.4,
-          "protein_g": 10.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Roll'd live product page; 472 g serve with Veg Nuoc Mam dressing on the side.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-          "fat_g": 22.2,
-          "carbs_g": 82.1,
-          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 584.4,
+          "protein": 10.9,
+          "fat": 22.2,
+          "carbs": 82.1
         },
         {
           "item_name": "Tofu & Vegetable Spring Rolls Vietnamese Rice (Com)",
-          "calories_kcal": 726.8,
-          "protein_g": 22.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Roll'd live product page; 442 g serve with Veg Nuoc Mam dressing on the side.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-          "fat_g": 28.3,
-          "carbs_g": 91.9,
-          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 726.8,
+          "protein": 22.5,
+          "fat": 28.3,
+          "carbs": 91.9
         },
         {
           "item_name": "Mushroom & Tofu Pho",
-          "calories_kcal": 490.4,
-          "protein_g": 13.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Roll'd live product page; bowl nutrition table value.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-          "fat_g": 14,
-          "carbs_g": 76.8,
-          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 490.4,
+          "protein": 13.3,
+          "fat": 14,
+          "carbs": 76.8
         },
         {
           "item_name": "Tofu Vietnamese Salad (Goi)",
-          "calories_kcal": 227.3,
-          "protein_g": 8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Roll'd live product page; remove crab crackers for strict vegetarian or vegan use.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-          "fat_g": 13.8,
-          "carbs_g": 13.4,
-          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 227.3,
+          "protein": 8,
+          "fat": 13.8,
+          "carbs": 13.4
         },
         {
           "item_name": "Low Carb Tofu Rice Paper Roll",
-          "calories_kcal": 131.7,
-          "protein_g": 5.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Roll'd live product page; one 115 g soldier, better treated as a snack.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-          "fat_g": 5.2,
-          "carbs_g": 14.1,
-          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 131.7,
+          "protein": 5.9,
+          "fat": 5.2,
+          "carbs": 14.1
         }
       ],
       "add_ons": [
         {
           "item_name": "Extra Tofu",
-          "calories_kcal": 131.7,
-          "protein_g": 5.9,
           "vegetarian": true,
           "vegan": true,
           "confidence": "high_confidence_estimate",
           "notes": "Roll'd live Abacus ordering data lists Extra Tofu as a $3 Banh Mi Tofu modifier; standalone modifier macros are unpublished, so this uses Roll'd official Low Carb Tofu Rice Paper Roll nutrition as a conservative tofu-portion proxy.",
           "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
           "maps_url": "https://maps.google.com/?cid=4512692466461970628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["rolld-tofu-banh-mi"]
+          "applies_to_tags": [
+            "rolld-tofu-banh-mi"
+          ],
+          "kcal": 131.7,
+          "protein": 5.9
         }
       ]
     },
@@ -2608,107 +2742,107 @@
       "base_items": [
         {
           "item_name": "Bocconcini Salad (Regular)",
-          "calories_kcal": 320.3,
-          "protein_g": 22.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; regular salad, 270 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 22.1,
-          "carbs_g": 6.9,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 320.3,
+          "protein": 22.6,
+          "fat": 22.1,
+          "carbs": 6.9
         },
         {
           "item_name": "Haloumi Salad (Regular)",
-          "calories_kcal": 525.8,
-          "protein_g": 22,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; regular salad, 315 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 30.9,
-          "carbs_g": 35.6,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 525.8,
+          "protein": 22,
+          "fat": 30.9,
+          "carbs": 35.6
         },
         {
           "item_name": "Pesto Veggie Baguette",
-          "calories_kcal": 590.3,
-          "protein_g": 19.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; 320 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 23.2,
-          "carbs_g": 74.1,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 590.3,
+          "protein": 19.7,
+          "fat": 23.2,
+          "carbs": 74.1
         },
         {
           "item_name": "Haloumi & Veggie Brekkie Wrap",
-          "calories_kcal": 470.8,
-          "protein_g": 20.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; 213 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 27,
-          "carbs_g": 34.2,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 470.8,
+          "protein": 20.3,
+          "fat": 27,
+          "carbs": 34.2
         },
         {
           "item_name": "Falafel Salad (Regular)",
-          "calories_kcal": 616.6,
-          "protein_g": 16.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; regular salad, 390 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 27.9,
-          "carbs_g": 70.6,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 616.6,
+          "protein": 16.3,
+          "fat": 27.9,
+          "carbs": 70.6
         },
         {
           "item_name": "Falafel Wrap",
-          "calories_kcal": 480.4,
-          "protein_g": 15,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; 250 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 18.6,
-          "carbs_g": 61.2,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 480.4,
+          "protein": 15,
+          "fat": 18.6,
+          "carbs": 61.2
         },
         {
           "item_name": "Plant Based Schnitzel Wrap",
-          "calories_kcal": 490,
-          "protein_g": 13.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; 233 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 26.7,
-          "carbs_g": 45.6,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 490,
+          "protein": 13.4,
+          "fat": 26.7,
+          "carbs": 45.6
         },
         {
           "item_name": "Green Goddess Salad (Regular)",
-          "calories_kcal": 193.1,
-          "protein_g": 7.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Soul Origin April 2026 PDF; regular salad, 240 g serve.",
           "source_url": "https://cdn.shopify.com/s/files/1/0656/0507/5176/files/April2026Update-Nutritionals.pdf?v=1777512300",
-          "fat_g": 9.9,
-          "carbs_g": 14.9,
-          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17419640254888131252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 193.1,
+          "protein": 7.3,
+          "fat": 9.9,
+          "carbs": 14.9
         }
       ],
       "add_ons": []
@@ -2721,69 +2855,69 @@
       "base_items": [
         {
           "item_name": "The Classic",
-          "calories_kcal": 876.2,
-          "protein_g": 22.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official SpudBAR catering menu; vegetarian bowl.",
           "source_url": "https://www.spudbar.com.au/catering-1",
-          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 876.2,
+          "protein": 22.2
         },
         {
           "item_name": "The Chilli Bean Burrito",
-          "calories_kcal": 876.2,
-          "protein_g": 29.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official SpudBAR catering menu; vegetarian bowl.",
           "source_url": "https://www.spudbar.com.au/catering-1",
-          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 876.2,
+          "protein": 29.3
         },
         {
           "item_name": "The Hawaiian",
-          "calories_kcal": 700,
-          "protein_g": 23.3,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official SpudBAR catering menu; vegetarian bowl.",
           "source_url": "https://www.spudbar.com.au/catering-1",
-          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 700,
+          "protein": 23.3
         },
         {
           "item_name": "The Nacho",
-          "calories_kcal": 769.4,
-          "protein_g": 30.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official SpudBAR catering menu; vegetarian bowl.",
           "source_url": "https://www.spudbar.com.au/catering-1",
-          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 769.4,
+          "protein": 30.6
         },
         {
           "item_name": "The Moroccan",
-          "calories_kcal": 487.1,
-          "protein_g": 18,
           "vegetarian": true,
           "vegan": true,
           "confidence": "exact",
           "notes": "Official SpudBAR catering menu; vegan bowl.",
           "source_url": "https://www.spudbar.com.au/catering-1",
-          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 487.1,
+          "protein": 18
         },
         {
           "item_name": "The Chilli Bean Power Bowl",
-          "calories_kcal": 426,
-          "protein_g": 26,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official SpudBAR catering menu; meat-free power bowl with cottage cheese.",
           "source_url": "https://www.spudbar.com.au/catering-1",
-          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=11599070836632721537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 426,
+          "protein": 26
         }
       ],
       "add_ons": []
@@ -2796,172 +2930,194 @@
       "base_items": [
         {
           "item_name": "Smashed Falafel Subway 6-Inch Sub",
-          "calories_kcal": 498,
-          "protein_g": 18.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; 256 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 19.3,
-          "carbs_g": 57.6,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["subway-six-inch-wrap-salad"]
+          "tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 498,
+          "protein": 18.7,
+          "fat": 19.3,
+          "carbs": 57.6
         },
         {
           "item_name": "Veggie Patty Subway 6-Inch Sub",
-          "calories_kcal": 573,
-          "protein_g": 19.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; 306 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 23.5,
-          "carbs_g": 67.1,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["subway-six-inch-wrap-salad"]
+          "tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 573,
+          "protein": 19.2,
+          "fat": 23.5,
+          "carbs": 67.1
         },
         {
           "item_name": "Veggie Delite with Avo Subway 6-Inch Sub",
-          "calories_kcal": 377,
-          "protein_g": 16.1,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; 219 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 14.7,
-          "carbs_g": 44.5,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["subway-six-inch-wrap-salad"]
+          "tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 377,
+          "protein": 16.1,
+          "fat": 14.7,
+          "carbs": 44.5
         },
         {
           "item_name": "Smashed Falafel Wrap",
-          "calories_kcal": 531,
-          "protein_g": 17.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; regular flour wrap, 262 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 23,
-          "carbs_g": 59,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["subway-six-inch-wrap-salad"]
+          "tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 531,
+          "protein": 17.5,
+          "fat": 23,
+          "carbs": 59
         },
         {
           "item_name": "Veggie Patty Regular Salad",
-          "calories_kcal": 395,
-          "protein_g": 12.5,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; 326 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 21.8,
-          "carbs_g": 33.9,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["subway-six-inch-wrap-salad"]
+          "tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 395,
+          "protein": 12.5,
+          "fat": 21.8,
+          "carbs": 33.9
         },
         {
           "item_name": "Smashed Falafel Regular Salad",
-          "calories_kcal": 312,
-          "protein_g": 11.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; 290 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 16.5,
-          "carbs_g": 25.2,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": ["subway-six-inch-wrap-salad"]
+          "tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 312,
+          "protein": 11.6,
+          "fat": 16.5,
+          "carbs": 25.2
         },
         {
           "item_name": "Spinach & Egg Wrap",
-          "calories_kcal": 340,
-          "protein_g": 15.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia October 2025 PDF; breakfast wrap, 175 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 12,
-          "carbs_g": 40.2,
-          "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 340,
+          "protein": 15.7,
+          "fat": 12,
+          "carbs": 40.2
         }
       ],
       "add_ons": [
         {
           "item_name": "Veggie Patty",
-          "calories_kcal": 206,
-          "protein_g": 7.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia add-on row; 90 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 11.1,
-          "carbs_g": 16.8,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["subway-six-inch-wrap-salad"]
+          "applies_to_tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 206,
+          "protein": 7.4,
+          "fat": 11.1,
+          "carbs": 16.8
         },
         {
           "item_name": "Smashed Falafel",
-          "calories_kcal": 163,
-          "protein_g": 6.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia add-on row; 75 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 5.9,
-          "carbs_g": 17.6,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["subway-six-inch-wrap-salad"]
+          "applies_to_tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 163,
+          "protein": 6.6,
+          "fat": 5.9,
+          "carbs": 17.6
         },
         {
           "item_name": "Poached Egg",
-          "calories_kcal": 65.6,
-          "protein_g": 5.6,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia add-on row; 44 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 4.4,
-          "carbs_g": 0.8,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["subway-six-inch-wrap-salad"]
+          "applies_to_tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 65.6,
+          "protein": 5.6,
+          "fat": 4.4,
+          "carbs": 0.8
         },
         {
           "item_name": "Natural Cheddar Cheese",
-          "calories_kcal": 56.4,
-          "protein_g": 3.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia cheese add-on row; 14.3 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 4.8,
-          "carbs_g": 0.1,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["subway-six-inch-wrap-salad"]
+          "applies_to_tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 56.4,
+          "protein": 3.4,
+          "fat": 4.8,
+          "carbs": 0.1
         },
         {
           "item_name": "Mozzarella Cheese",
-          "calories_kcal": 45.8,
-          "protein_g": 2.9,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Subway Australia cheese add-on row; 14 g serve.",
           "source_url": "https://www.subway.com/en-au/media/australia/documents/nutritionals/aus-nutritional-summary.pdf",
-          "fat_g": 3.6,
-          "carbs_g": 0.6,
           "maps_url": "https://maps.google.com/?cid=16401562168305498497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": ["subway-six-inch-wrap-salad"]
+          "applies_to_tags": [
+            "subway-six-inch-wrap-salad"
+          ],
+          "kcal": 45.8,
+          "protein": 2.9,
+          "fat": 3.6,
+          "carbs": 0.6
         }
       ]
     },
@@ -2973,81 +3129,81 @@
       "base_items": [
         {
           "item_name": "Pulled Mushroom Classic Bowl",
-          "calories_kcal": 490,
-          "protein_g": 16.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
           "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-          "fat_g": 22.9,
-          "carbs_g": 53.7,
-          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 490,
+          "protein": 16.2,
+          "fat": 22.9,
+          "carbs": 53.7
         },
         {
           "item_name": "Vegetarian Classic Bowl",
-          "calories_kcal": 638,
-          "protein_g": 16.4,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
           "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-          "fat_g": 28.9,
-          "carbs_g": 76.4,
-          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 638,
+          "protein": 16.4,
+          "fat": 28.9,
+          "carbs": 76.4
         },
         {
           "item_name": "Pulled Mushroom Classic Burrito",
-          "calories_kcal": 774,
-          "protein_g": 23.7,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
           "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-          "fat_g": 31.5,
-          "carbs_g": 97.3,
-          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 774,
+          "protein": 23.7,
+          "fat": 31.5,
+          "carbs": 97.3
         },
         {
           "item_name": "Vegetarian Small Signature Bowl",
-          "calories_kcal": 531,
-          "protein_g": 18.2,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
           "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-          "fat_g": 29.1,
-          "carbs_g": 46.8,
-          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 531,
+          "protein": 18.2,
+          "fat": 29.1,
+          "carbs": 46.8
         },
         {
           "item_name": "Pulled Mushroom Signature Bowl",
-          "calories_kcal": 641,
-          "protein_g": 23.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
           "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-          "fat_g": 34.8,
-          "carbs_g": 56.2,
-          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 641,
+          "protein": 23.8,
+          "fat": 34.8,
+          "carbs": 56.2
         },
         {
           "item_name": "Vegetarian Quesadilla",
-          "calories_kcal": 492,
-          "protein_g": 20.8,
           "vegetarian": true,
           "vegan": false,
           "confidence": "exact",
           "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
           "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-          "fat_g": 23.8,
-          "carbs_g": 47.4,
-          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
+          "maps_url": "https://maps.google.com/?cid=17183917234419230974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "kcal": 492,
+          "protein": 20.8,
+          "fat": 23.8,
+          "carbs": 47.4
         }
       ],
       "add_ons": []

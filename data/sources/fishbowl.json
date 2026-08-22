@@ -7,69 +7,79 @@
   "base_items": [
     {
       "item_name": "Roasted Tofu O.G. Regular Bowl",
-      "calories_kcal": 606,
-      "protein_g": 20.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "tags": ["fishbowl-custom-bowl"],
-      "fat_g": 32.9,
-      "carbs_g": 52.2
+      "tags": [
+        "fishbowl-custom-bowl"
+      ],
+      "kcal": 606,
+      "protein": 20.5,
+      "fat": 32.9,
+      "carbs": 52.2
     },
     {
       "item_name": "Tofu Boys Regular Bowl",
-      "calories_kcal": 643,
-      "protein_g": 22.9,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "tags": ["fishbowl-custom-bowl"],
-      "fat_g": 38.6,
-      "carbs_g": 44.9
+      "tags": [
+        "fishbowl-custom-bowl"
+      ],
+      "kcal": 643,
+      "protein": 22.9,
+      "fat": 38.6,
+      "carbs": 44.9
     },
     {
       "item_name": "Miso-Glazed Eggplant + Tofu Box",
-      "calories_kcal": 594,
-      "protein_g": 18.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official FISHBOWL Winter Warmer Box row.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "tags": ["fishbowl-custom-bowl"],
-      "fat_g": 26.4,
-      "carbs_g": 63.2
+      "tags": [
+        "fishbowl-custom-bowl"
+      ],
+      "kcal": 594,
+      "protein": 18.2,
+      "fat": 26.4,
+      "carbs": 63.2
     }
   ],
   "add_ons": [
     {
       "item_name": "Roasted Tofu",
-      "calories_kcal": 136,
-      "protein_g": 9.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official FISHBOWL protein portion.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "applies_to_tags": ["fishbowl-custom-bowl"],
-      "fat_g": 10
+      "applies_to_tags": [
+        "fishbowl-custom-bowl"
+      ],
+      "kcal": 136,
+      "protein": 9.8,
+      "fat": 10
     },
     {
       "item_name": "Miso-Glazed Eggplant",
-      "calories_kcal": 90,
-      "protein_g": 3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official FISHBOWL protein portion.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "applies_to_tags": ["fishbowl-custom-bowl"],
-      "fat_g": 1.2,
-      "carbs_g": 13.4
+      "applies_to_tags": [
+        "fishbowl-custom-bowl"
+      ],
+      "kcal": 90,
+      "protein": 3,
+      "fat": 1.2,
+      "carbs": 13.4
     }
   ]
 }

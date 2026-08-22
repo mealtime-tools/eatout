@@ -7,63 +7,63 @@
   "base_items": [
     {
       "item_name": "Protein Supreme (Original)",
-      "calories_kcal": 502,
-      "protein_g": 29.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Boost Juice original nutrition row.",
-      "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/"
+      "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/",
+      "kcal": 502,
+      "protein": 29.1
     },
     {
       "item_name": "Protein Supreme (Medium)",
-      "calories_kcal": 340,
-      "protein_g": 20.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Boost Juice medium nutrition row.",
-      "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/"
+      "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/",
+      "kcal": 340,
+      "protein": 20.3
     },
     {
       "item_name": "Gym Junkie (Original)",
-      "calories_kcal": 390,
-      "protein_g": 20.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Boost Juice original nutrition row.",
-      "source_url": "https://www.boostjuice.com.au/drinks/gym-junkie/"
+      "source_url": "https://www.boostjuice.com.au/drinks/gym-junkie/",
+      "kcal": 390,
+      "protein": 20.5
     },
     {
       "item_name": "Choc Muscle Hustle (Original)",
-      "calories_kcal": 485,
-      "protein_g": 22.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Boost Juice original nutrition row.",
-      "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/"
+      "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/",
+      "kcal": 485,
+      "protein": 22.3
     },
     {
       "item_name": "Choc Muscle Hustle (Medium)",
-      "calories_kcal": 390,
-      "protein_g": 17.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Boost Juice medium nutrition row.",
-      "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/"
+      "source_url": "https://www.boostjuice.com.au/drinks/choc-muscle-hustle/",
+      "kcal": 390,
+      "protein": 17.7
     },
     {
       "item_name": "Strawbrekkie (Original)",
-      "calories_kcal": 423,
-      "protein_g": 21.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Boost Juice original nutrition row.",
-      "source_url": "https://www.boostjuice.com.au/drinks/strawbrekkie/"
+      "source_url": "https://www.boostjuice.com.au/drinks/strawbrekkie/",
+      "kcal": 423,
+      "protein": 21.2
     }
   ],
   "add_ons": []

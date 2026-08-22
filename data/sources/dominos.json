@@ -7,93 +7,93 @@
   "base_items": [
     {
       "item_name": "Margherita (Classic Crust Half Pizza)",
-      "calories_kcal": 464,
-      "protein_g": 20,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 464,
+      "protein": 20
     },
     {
       "item_name": "Simply Cheese (Classic Crust Half Pizza)",
-      "calories_kcal": 508,
-      "protein_g": 23.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 508,
+      "protein": 23.2
     },
     {
       "item_name": "Spicy Peppy Paneer (Classic Crust Half Pizza)",
-      "calories_kcal": 612,
-      "protein_g": 23.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 612,
+      "protein": 23.6
     },
     {
       "item_name": "Spicy Veg Supreme (Classic Crust Half Pizza)",
-      "calories_kcal": 500,
-      "protein_g": 20.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 500,
+      "protein": 20.8
     },
     {
       "item_name": "Vegorama (Classic Crust Half Pizza)",
-      "calories_kcal": 480,
-      "protein_g": 20.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia Classic Crust row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 480,
+      "protein": 20.8
     },
     {
       "item_name": "Margherita (The Edge Half Pizza)",
-      "calories_kcal": 708,
-      "protein_g": 30.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 708,
+      "protein": 30.8
     },
     {
       "item_name": "Simply Cheese (The Edge Half Pizza)",
-      "calories_kcal": 748,
-      "protein_g": 34.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 748,
+      "protein": 34.4
     },
     {
       "item_name": "Spicy Veg Supreme (The Edge Half Pizza)",
-      "calories_kcal": 728,
-      "protein_g": 29.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 728,
+      "protein": 29.2
     },
     {
       "item_name": "Vegorama (The Edge Half Pizza)",
-      "calories_kcal": 712,
-      "protein_g": 29.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Domino's Australia The Edge row; half pizza calculated as 4 of 8 published slices.",
-      "source_url": "https://www.dominos.com.au/menu/nutritional-information/"
+      "source_url": "https://www.dominos.com.au/menu/nutritional-information/",
+      "kcal": 712,
+      "protein": 29.2
     }
   ],
   "add_ons": []

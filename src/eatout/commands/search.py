@@ -7,7 +7,6 @@ from typing import Any
 import click
 from agentcli import emit, json_option, limit_option, macro_options
 
-from eatout import helptext
 from eatout.data import load_meals
 from eatout.search import Filters, find_candidates
 
@@ -25,7 +24,7 @@ UNITS = {
 
 @click.command("search")
 @macro_options
-@click.option("--query", default="", help=helptext.QUERY)
+@click.option("--query", default="", help="Words in restaurant or item name.")
 @limit_option(DEFAULT_LIMIT)
 @json_option
 @click.pass_obj
@@ -81,7 +80,9 @@ def _human(payload: dict[str, Any]) -> Iterable[str]:
 
 
 def _macros(record: dict[str, Any]) -> str:
-    """Only the published macros, so an absent one is visible as absent."""
+    """Show unknown values as question marks, never zero."""
     return "  ".join(
-        f"{value} {UNITS[key]}" for key, value in record["per_serving"].items()
+        f"{value if value is not None else '?'} {UNITS[key]}"
+        for key, value in record.items()
+        if key in UNITS
     )

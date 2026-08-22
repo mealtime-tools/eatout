@@ -5,19 +5,11 @@ from pathlib import Path
 import click
 from agentcli import JsonAwareGroup
 
-from eatout import __version__, helptext
-from eatout.commands.guide import guide
-from eatout.commands.metadata import metadata
+from eatout import __version__
 from eatout.commands.search import search
 from eatout.commands.skill import skill
 
-EPILOG = """\b
-Run `eatout guide` for the full manual: the candidate record, the ranking, and
-why a missing fat figure is never zero.
-
-\b
-Exit codes: 0 success, 1 usage error or unreadable data, 3 assertion failure,
-4 warnings under --strict."""
+EPILOG = "Exit codes: 0 success, 1 usage error or unreadable data."
 
 
 @click.group(
@@ -29,7 +21,7 @@ Exit codes: 0 success, 1 usage error or unreadable data, 3 assertion failure,
 @click.option(
     "--data",
     type=click.Path(dir_okay=False, path_type=Path),
-    help=helptext.DATA,
+    help="Meal document. Defaults to $EATOUT_DATA or bundled data.",
 )
 @click.pass_context
 def main(ctx: click.Context, data: Path | None) -> None:
@@ -42,5 +34,5 @@ def main(ctx: click.Context, data: Path | None) -> None:
     ctx.obj = data
 
 
-for command in (guide, skill, metadata, search):
+for command in (skill, search):
     main.add_command(command)

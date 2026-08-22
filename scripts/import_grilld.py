@@ -49,8 +49,10 @@ KJ_PER_KCAL = 4.184
 # 113 g retail patty is a different serve and overstates every macro.
 EXTRA_BEYOND_PATTY = {
     "item_name": "Extra Beyond Patty",
-    "calories_kcal": 143.8,
-    "protein_g": 13,
+    "kcal": 143.8,
+    "protein": 13,
+    "fat": 8.8,
+    "carbs": 5,
     "vegetarian": True,
     "vegan": True,
     "confidence": "high_confidence_estimate",
@@ -65,8 +67,6 @@ EXTRA_BEYOND_PATTY = {
         "foodservice-portfolio-with-the-fourth-generation-beyond-burger-"
         "and-new-beyond-crispy-nuggets"
     ),
-    "fat_g": 8.8,
-    "carbs_g": 5,
 }
 
 
@@ -79,11 +79,8 @@ def parse_nutrition(table_rows: Any) -> dict[str, float] | None:
     if kilojoules is None or protein is None:
         return None
 
-    parsed = {
-        "calories_kcal": round1(kilojoules / KJ_PER_KCAL),
-        "protein_g": protein,
-    }
-    for key, label in (("fat_g", "Fat"), ("carbs_g", "Carbohydrate")):
+    parsed = {"kcal": round1(kilojoules / KJ_PER_KCAL), "protein": protein}
+    for key, label in (("fat", "Fat"), ("carbs", "Carbohydrate")):
         macro = _number(values.get(label), "g")
         if macro is not None:
             parsed[key] = macro
@@ -138,18 +135,12 @@ def bun_items(product: dict[str, Any]) -> list[dict[str, Any]]:
             _validated(
                 {
                     "item_name": f"{product['title']} ({choice['title']})",
-                    "calories_kcal": parsed["calories_kcal"],
-                    "protein_g": parsed["protein_g"],
+                    **parsed,
                     "vegetarian": vegetarian,
                     "vegan": vegan,
                     "confidence": "exact",
                     "notes": NOTE,
                     "source_url": SOURCE_URL,
-                    **{
-                        key: parsed[key]
-                        for key in ("fat_g", "carbs_g")
-                        if key in parsed
-                    },
                 }
             )
         )
@@ -211,10 +202,17 @@ def _validated(item: dict[str, Any]) -> dict[str, Any]:
 
         return item
     except MealDataError:
-        if "fat_g" not in item and "carbs_g" not in item:
+        if "fat" not in item and "carbs" not in item:
             raise
 
-    lean = {k: v for k, v in item.items() if k not in ("fat_g", "carbs_g")}
+    lean = {
+        **item,
+        **{
+            key: value
+            for key, value in item.items()
+            if key not in ("fat", "carbs")
+        },
+    }
     lean["notes"] = NOTE_INCONSISTENT
     normalize_meal({**lean, "restaurant": RESTAURANT})
 

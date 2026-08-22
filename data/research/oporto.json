@@ -13,35 +13,35 @@
   "base_items": [
     {
       "item_name": "Veggie Burger",
-      "calories_kcal": 521,
-      "protein_g": 11.2,
       "vegetarian": true,
       "notes": "Official current menu feed for a sampled AU store lists Veggie Burger as fresh lettuce, tomato, cheese, mayo, and lemon and herb sauce at 2180 kJ / 521 kcal. Protein is from FatSecret's Oporto Veggie Burger entry, which reports 520 kcal, 11.2 g protein, and 251 g serving size; calorie value in this proposal uses the current official Oporto feed. Contains dairy/egg ingredients, so vegetarian but not vegan.",
-      "source_url": "https://www.fatsecret.com.au/calories-nutrition/oporto/veggie-burger/1-serving"
+      "source_url": "https://www.fatsecret.com.au/calories-nutrition/oporto/veggie-burger/1-serving",
+      "kcal": 521,
+      "protein": 11.2
     },
     {
       "item_name": "Vegan Burger",
-      "calories_kcal": 646,
-      "protein_g": 15.7,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 burger, 307 g serving, 2702 kJ / 646 kcal and 15.7 g protein. Oporto's current official allergen chart lists Vegan Burger, but the sampled official pickup menu feed did not list it for the tested store, so availability may vary.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-burgers-sandwiches-vegan-burger/DOlh9RdpSyuGZ46m8o5dnQ"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-burgers-sandwiches-vegan-burger/DOlh9RdpSyuGZ46m8o5dnQ",
+      "kcal": 646,
+      "protein": 15.7
     },
     {
       "item_name": "Vegan Rappa",
-      "calories_kcal": 613,
-      "protein_g": 14.7,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 wrap, 333 g serving, 2564 kJ / 613 kcal and 14.7 g protein. Oporto's current official allergen chart lists Vegan Rappa, but the sampled official pickup menu feed did not list it for the tested store, so availability may vary.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-sauces-vegan-rappa/2sg7ON_RS9Cvwq5R5mad4A"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-sauces-vegan-rappa/2sg7ON_RS9Cvwq5R5mad4A",
+      "kcal": 613,
+      "protein": 14.7
     },
     {
       "item_name": "Vegan Bowl",
-      "calories_kcal": 440,
-      "protein_g": 17,
       "vegetarian": true,
       "notes": "Eats Bible reports 1 bowl, 522 g serving, 1860 kJ / 440 kcal and 17 g protein, with vegan patty, mixed lettuce leaves, lettuce, cabbage blend, dry slaw, Portuguese tomato salad, guacamole, and Green Goddess dressing. Oporto's current official allergen chart lists Vegan Bowl, but the sampled official pickup menu feed did not list it for the tested store, and FatSecret marks its similar Vegan Bowl entry as archived.",
-      "source_url": "https://eatsbible.com/product/vegan-salad/"
+      "source_url": "https://eatsbible.com/product/vegan-salad/",
+      "kcal": 440,
+      "protein": 17
     }
   ],
   "add_ons": []

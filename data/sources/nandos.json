@@ -7,114 +7,124 @@
   "base_items": [
     {
       "item_name": "Avo Parmesan Crunch",
-      "calories_kcal": 259,
-      "protein_g": 10.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Nando's item page nutrition table.",
       "source_url": "https://www.nandos.com.au/menu-item",
-      "tags": ["nandos-extra-protein"],
-      "fat_g": 20.6,
-      "carbs_g": 7.1
+      "tags": [
+        "nandos-extra-protein"
+      ],
+      "kcal": 259,
+      "protein": 10.5,
+      "fat": 20.6,
+      "carbs": 7.1
     },
     {
       "item_name": "Grain Salad",
-      "calories_kcal": 221,
-      "protein_g": 7.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Nando's item page nutrition table. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
       "source_url": "https://www.nandos.com.au/menu-item",
-      "tags": ["nandos-extra-protein"]
+      "tags": [
+        "nandos-extra-protein"
+      ],
+      "kcal": 221,
+      "protein": 7.5
     },
     {
       "item_name": "Mediterranean Salad",
-      "calories_kcal": 415,
-      "protein_g": 8.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Nando's item page nutrition table.",
       "source_url": "https://www.nandos.com.au/menu-item",
-      "tags": ["nandos-extra-protein"],
-      "fat_g": 30.2,
-      "carbs_g": 14.8
+      "tags": [
+        "nandos-extra-protein"
+      ],
+      "kcal": 415,
+      "protein": 8.1,
+      "fat": 30.2,
+      "carbs": 14.8
     },
     {
       "item_name": "PERi-Harvest Bowl",
-      "calories_kcal": 421,
-      "protein_g": 9.9,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Nando's item page nutrition table. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
       "source_url": "https://www.nandos.com.au/menu-item",
-      "tags": ["nandos-extra-protein"]
+      "tags": [
+        "nandos-extra-protein"
+      ],
+      "kcal": 421,
+      "protein": 9.9
     },
     {
       "item_name": "PERinaise Classic with Great Pretender Protein",
-      "calories_kcal": 655.5,
-      "protein_g": 33.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official PERinaise Classic chicken burger row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
-      "source_url": "https://www.nandos.com.au/menu-item/perinaise-classic"
+      "source_url": "https://www.nandos.com.au/menu-item/perinaise-classic",
+      "kcal": 655.5,
+      "protein": 33.7
     },
     {
       "item_name": "Avo Goodness with Great Pretender Protein",
-      "calories_kcal": 727.5,
-      "protein_g": 31.1,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Avo Goodness chicken wrap row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
-      "source_url": "https://www.nandos.com.au/menu-item/avo-goodness-nutritional-information"
+      "source_url": "https://www.nandos.com.au/menu-item/avo-goodness-nutritional-information",
+      "kcal": 727.5,
+      "protein": 31.1
     },
     {
       "item_name": "Supremo with Great Pretender Protein",
-      "calories_kcal": 807.5,
-      "protein_g": 34.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Supremo chicken wrap row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
-      "source_url": "https://www.nandos.com.au/menu-item/supremo"
+      "source_url": "https://www.nandos.com.au/menu-item/supremo",
+      "kcal": 807.5,
+      "protein": 34.6
     },
     {
       "item_name": "The Halloumi with Great Pretender Protein",
-      "calories_kcal": 758.5,
-      "protein_g": 32.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Halloumi chicken pita row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
-      "source_url": "https://www.nandos.com.au/menu-item/halloumi"
+      "source_url": "https://www.nandos.com.au/menu-item/halloumi",
+      "kcal": 758.5,
+      "protein": 32.8
     },
     {
       "item_name": "Paella with Great Pretender Protein",
-      "calories_kcal": 716.5,
-      "protein_g": 23.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Paella chicken row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein; Nando's separately lists 718 kcal for the Great Pretender version. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
-      "source_url": "https://www.nandos.com.au/menu-item/paella"
+      "source_url": "https://www.nandos.com.au/menu-item/paella",
+      "kcal": 716.5,
+      "protein": 23.7
     }
   ],
   "add_ons": [
     {
       "item_name": "Great Pretender Protein Patty",
-      "calories_kcal": 297,
-      "protein_g": 17.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Nando's says Great Pretender Protein can be added to any burger, wrap, pita, salad or paella. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
       "source_url": "https://www.nandos.com.au/menu-item/the-great-pretender-protein",
-      "applies_to_tags": ["nandos-extra-protein"]
+      "applies_to_tags": [
+        "nandos-extra-protein"
+      ],
+      "kcal": 297,
+      "protein": 17.4
     }
   ]
 }

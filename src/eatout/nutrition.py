@@ -1,7 +1,7 @@
 """The meal record and everything derived from one.
 
 The one rule this module exists to enforce: an unavailable macro stays
-unavailable. `fat_g` and `carbs_g` are `None` when the operator never published
+unavailable. Fat and carbs are `None` when the operator never published
 them, they are never defaulted to zero, and every consumer here has to opt into
 handling `None`. A zero fat figure and an unknown one mean opposite things to
 someone counting macros.
@@ -51,16 +51,16 @@ class Meal:
 
 def normalize_meal(raw: Mapping[str, Any]) -> Meal:
     """Validate one raw record, refusing anything it cannot read."""
-    calories = _positive_number(raw.get("calories_kcal"), "calories_kcal")
-    protein = _positive_number(raw.get("protein_g"), "protein_g")
+    calories = _positive_number(raw.get("kcal"), "kcal")
+    protein = _positive_number(raw.get("protein"), "protein")
 
     # Protein alone cannot exceed the labelled energy: that is a units mix-up,
     # not a meal, and it would rank first under protein-per-calorie.
     if calories < protein * 4:
-        raise MealDataError("calories_kcal is below protein calories")
+        raise MealDataError("kcal is below protein calories")
 
-    fat = _optional_number(raw.get("fat_g"), "fat_g")
-    carbs = _optional_number(raw.get("carbs_g"), "carbs_g")
+    fat = _optional_number(raw.get("fat"), "fat")
+    carbs = _optional_number(raw.get("carbs"), "carbs")
     _check_energy(calories, protein, fat, carbs)
 
     return Meal(
@@ -202,5 +202,5 @@ def _check_energy(
 
     if abs(difference) > allowed:
         raise MealDataError(
-            "protein, fat, and carbs are inconsistent with calories_kcal"
+            "protein, fat, and carbs are inconsistent with kcal"
         )

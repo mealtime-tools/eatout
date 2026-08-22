@@ -7,123 +7,123 @@
   "base_items": [
     {
       "item_name": "BBQ Mushroom Bowl (Small)",
-      "calories_kcal": 777,
-      "protein_g": 16.1,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 38,
-      "carbs_g": 89.5
+      "kcal": 777,
+      "protein": 16.1,
+      "fat": 38,
+      "carbs": 89.5
     },
     {
       "item_name": "BBQ Mushroom Bowl (Regular)",
-      "calories_kcal": 958,
-      "protein_g": 20.7,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 43.9,
-      "carbs_g": 116.2
+      "kcal": 958,
+      "protein": 20.7,
+      "fat": 43.9,
+      "carbs": 116.2
     },
     {
       "item_name": "Macro Bowl (Small)",
-      "calories_kcal": 906,
-      "protein_g": 24.8,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 44.7,
-      "carbs_g": 103
+      "kcal": 906,
+      "protein": 24.8,
+      "fat": 44.7,
+      "carbs": 103
     },
     {
       "item_name": "Macro Bowl (Regular)",
-      "calories_kcal": 1124,
-      "protein_g": 32.3,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian bowl.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 52.4,
-      "carbs_g": 133.4
+      "kcal": 1124,
+      "protein": 32.3,
+      "fat": 52.4,
+      "carbs": 133.4
     },
     {
       "item_name": "Tamari Tofu Sandwich",
-      "calories_kcal": 869,
-      "protein_g": 27,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian sandwich.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 41.9,
-      "carbs_g": 91.2
+      "kcal": 869,
+      "protein": 27,
+      "fat": 41.9,
+      "carbs": 91.2
     },
     {
       "item_name": "The Smash Sandwich",
-      "calories_kcal": 679,
-      "protein_g": 19.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegetarian sandwich.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 28.8,
-      "carbs_g": 82.2
+      "kcal": 679,
+      "protein": 19.8,
+      "fat": 28.8,
+      "carbs": 82.2
     },
     {
       "item_name": "Spicy Avo Topper",
-      "calories_kcal": 548,
-      "protein_g": 19.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegetarian topper.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 30.2,
-      "carbs_g": 51
+      "kcal": 548,
+      "protein": 19.2,
+      "fat": 30.2,
+      "carbs": 51
     },
     {
       "item_name": "The Shredder Smoothie (Regular)",
-      "calories_kcal": 356,
-      "protein_g": 31.8,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian smoothie.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 14.4,
-      "carbs_g": 23.2
+      "kcal": 356,
+      "protein": 31.8,
+      "fat": 14.4,
+      "carbs": 23.2
     },
     {
       "item_name": "Power Greens Smoothie (Regular)",
-      "calories_kcal": 429,
-      "protein_g": 27.9,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian smoothie.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 15.2,
-      "carbs_g": 45.1
+      "kcal": 429,
+      "protein": 27.9,
+      "fat": 15.2,
+      "carbs": 45.1
     },
     {
       "item_name": "Muscle Beach Smoothie (Regular)",
-      "calories_kcal": 507,
-      "protein_g": 31.6,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Official Cali Press nutrition and allergen guide; vegan/vegetarian smoothie.",
       "source_url": "https://static1.squarespace.com/static/68d5d59a8777bd58f5a7d768/t/68e4a25ef985fa7772215194/1759814238402/CP_Nutrition_Allergen_Guide.pdf",
-      "fat_g": 11.8,
-      "carbs_g": 73.1
+      "kcal": 507,
+      "protein": 31.6,
+      "fat": 11.8,
+      "carbs": 73.1
     }
   ],
   "add_ons": []

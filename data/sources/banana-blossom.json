@@ -7,361 +7,423 @@
   "base_items": [
     {
       "item_name": "Pure Buddha's Delight Tofu Salad",
-      "calories_kcal": 755,
-      "protein_g": 25.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/pure-buddhas-delight-tofu-salad-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 755,
+      "protein": 25.4
     },
     {
       "item_name": "Black Magic Salad - Tofu",
-      "calories_kcal": 755,
-      "protein_g": 25,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/black-magic-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 755,
+      "protein": 25
     },
     {
       "item_name": "Coconut Salad - Tofu",
-      "calories_kcal": 705,
-      "protein_g": 22.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/coconut-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 705,
+      "protein": 22.8
     },
     {
       "item_name": "Nashi Salad - Tofu",
-      "calories_kcal": 855,
-      "protein_g": 24.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/nashi-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 855,
+      "protein": 24.5
     },
     {
       "item_name": "New York Salad - Tofu",
-      "calories_kcal": 715,
-      "protein_g": 24.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/new-york-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 715,
+      "protein": 24.7
     },
     {
       "item_name": "Satay Bowl - Tofu",
-      "calories_kcal": 805,
-      "protein_g": 31.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/satay-bowl-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 805,
+      "protein": 31.7
     },
     {
       "item_name": "Satay Salad - Tofu",
-      "calories_kcal": 705,
-      "protein_g": 29.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/satay-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 705,
+      "protein": 29.6
     },
     {
       "item_name": "Soho Bowl - Tofu",
-      "calories_kcal": 735,
-      "protein_g": 27.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/soho-bowl-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 735,
+      "protein": 27.7
     },
     {
       "item_name": "The Blossom Bowl - Tofu",
-      "calories_kcal": 755,
-      "protein_g": 26.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/the-blossom-bowl-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 755,
+      "protein": 26.8
     },
     {
       "item_name": "The Blossom Salad - Tofu",
-      "calories_kcal": 630,
-      "protein_g": 26.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/the-blossom-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 630,
+      "protein": 26.3
     },
     {
       "item_name": "Triple Chilli Salad - Tofu",
-      "calories_kcal": 650,
-      "protein_g": 27.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/triple-chilli-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 650,
+      "protein": 27.4
     },
     {
       "item_name": "Tokyo Classic Salad - Tofu",
-      "calories_kcal": 870,
-      "protein_g": 24.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/tokyo-classic-salad-tofu-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 870,
+      "protein": 24.2
     },
     {
       "item_name": "Vegan Chilli Tofu Salad",
-      "calories_kcal": 650,
-      "protein_g": 27.3,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/vegan-chilli-tofu-salad-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 650,
+      "protein": 27.3
     },
     {
       "item_name": "Vegan New York Tofu Salad",
-      "calories_kcal": 625,
-      "protein_g": 25.8,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/vegan-new-york-tofu-salad-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 625,
+      "protein": 25.8
     },
     {
       "item_name": "Vegan Thai Tofu Salad",
-      "calories_kcal": 625,
-      "protein_g": 29.7,
       "vegetarian": true,
       "vegan": true,
       "confidence": "exact",
       "notes": "Eats Bible Banana Blossom row; Sydney Place location checked from https://bananablossomsalads.com/locations/.",
       "source_url": "https://eatsbible.com/product/vegan-thai-tofu-salad-banana-blossom/",
-      "tags": ["banana-blossom-tofu"]
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 625,
+      "protein": 29.7
     },
     {
       "item_name": "Pure Buddha's Delight Tofu Salad (Shred It)",
-      "calories_kcal": 565,
-      "protein_g": 25.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 66.6
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 565,
+      "protein": 25.4,
+      "carbs": 66.6
     },
     {
       "item_name": "Black Magic Salad - Tofu (Shred It)",
-      "calories_kcal": 565,
-      "protein_g": 25,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 17.3
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 565,
+      "protein": 25,
+      "carbs": 17.3
     },
     {
       "item_name": "Coconut Salad - Tofu (Shred It)",
-      "calories_kcal": 515,
-      "protein_g": 22.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 46.5
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 515,
+      "protein": 22.8,
+      "carbs": 46.5
     },
     {
       "item_name": "Nashi Salad - Tofu (Shred It)",
-      "calories_kcal": 665,
-      "protein_g": 24.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 16.1
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 665,
+      "protein": 24.5,
+      "carbs": 16.1
     },
     {
       "item_name": "New York Salad - Tofu (Shred It)",
-      "calories_kcal": 460,
-      "protein_g": 24.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 52.3
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 460,
+      "protein": 24.7,
+      "carbs": 52.3
     },
     {
       "item_name": "Satay Bowl - Tofu (Shred It)",
-      "calories_kcal": 630,
-      "protein_g": 31.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 49.6
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 630,
+      "protein": 31.7,
+      "carbs": 49.6
     },
     {
       "item_name": "Satay Salad - Tofu (Shred It)",
-      "calories_kcal": 515,
-      "protein_g": 29.6,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 28.2
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 515,
+      "protein": 29.6,
+      "carbs": 28.2
     },
     {
       "item_name": "Soho Bowl - Tofu (Shred It)",
-      "calories_kcal": 560,
-      "protein_g": 27.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 52.8
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 560,
+      "protein": 27.7,
+      "carbs": 52.8
     },
     {
       "item_name": "The Blossom Bowl - Tofu (Shred It)",
-      "calories_kcal": 580,
-      "protein_g": 26.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 48.2
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 580,
+      "protein": 26.8,
+      "carbs": 48.2
     },
     {
       "item_name": "The Blossom Salad - Tofu (Shred It)",
-      "calories_kcal": 440,
-      "protein_g": 26.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 24.9
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 440,
+      "protein": 26.3,
+      "carbs": 24.9
     },
     {
       "item_name": "Triple Chilli Salad - Tofu (Shred It)",
-      "calories_kcal": 460,
-      "protein_g": 27.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 13
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 460,
+      "protein": 27.4,
+      "carbs": 13
     },
     {
       "item_name": "Tokyo Classic Salad - Tofu (Shred It)",
-      "calories_kcal": 675,
-      "protein_g": 24.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 16.1
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 675,
+      "protein": 24.2,
+      "carbs": 16.1
     },
     {
       "item_name": "Vegan Chilli Tofu Salad (Shred It)",
-      "calories_kcal": 460,
-      "protein_g": 27.3,
       "vegetarian": true,
       "vegan": true,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 13
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 460,
+      "protein": 27.3,
+      "carbs": 13
     },
     {
       "item_name": "Vegan New York Tofu Salad (Shred It)",
-      "calories_kcal": 435,
-      "protein_g": 25.8,
       "vegetarian": true,
       "vegan": true,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 45.3
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 435,
+      "protein": 25.8,
+      "carbs": 45.3
     },
     {
       "item_name": "Vegan Thai Tofu Salad (Shred It)",
-      "calories_kcal": 435,
-      "protein_g": 29.7,
       "vegetarian": true,
       "vegan": true,
       "confidence": "high_confidence_estimate",
       "notes": "Official Banana Blossom Shred It calories; protein estimated from the matching regular tofu row because Banana Blossom publishes Shred It calories and carbs but not protein.",
       "source_url": "https://bananablossomsalads.com/menu/",
-      "tags": ["banana-blossom-tofu"],
-      "carbs_g": 34.8
+      "tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 435,
+      "protein": 29.7,
+      "carbs": 34.8
     }
   ],
   "add_ons": [
     {
       "item_name": "Extra Tofu",
-      "calories_kcal": 136,
-      "protein_g": 9.8,
       "vegetarian": true,
       "vegan": true,
       "confidence": "high_confidence_estimate",
       "notes": "Estimated from FISHBOWL's official roasted tofu protein portion because Banana Blossom publishes tofu bowls but no standalone extra-tofu nutrition row.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "applies_to_tags": ["banana-blossom-tofu"]
+      "applies_to_tags": [
+        "banana-blossom-tofu"
+      ],
+      "kcal": 136,
+      "protein": 9.8
     }
   ]
 }

@@ -13,51 +13,51 @@
   "base_items": [
     {
       "item_name": "Protein Shake 1",
-      "calories_kcal": 255,
-      "protein_g": 18,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 large cup, 600 ml, as 255 kcal / 1068 kJ and 18 g protein. Official Top Juice site lists Protein Shake 1 ingredients as coconut water, blueberry, and whey protein.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-1/2ZX1OZvVTm-gmGP-zamMYg"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-1/2ZX1OZvVTm-gmGP-zamMYg",
+      "kcal": 255,
+      "protein": 18
     },
     {
       "item_name": "Protein Shake 2",
-      "calories_kcal": 457,
-      "protein_g": 36,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 small cup, 400 ml, as 457 kcal / 1912 kJ and 36 g protein. Official Top Juice pages confirm protein shake range, but the public official page checked did not expose this item's ingredients.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-2/i8BOB6E-Rs20rTwp_TfDJw"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-2/i8BOB6E-Rs20rTwp_TfDJw",
+      "kcal": 457,
+      "protein": 36
     },
     {
       "item_name": "Protein Shake 3",
-      "calories_kcal": 406,
-      "protein_g": 31.6,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 small cup, 400 ml, as 406 kcal / 1700 kJ and 31.6 g protein. Official Top Juice pages confirm protein shake range, but the public official page checked did not expose this item's ingredients.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-3/GILAT_mkSrGCwCCMBrGbwg"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-3/GILAT_mkSrGCwCCMBrGbwg",
+      "kcal": 406,
+      "protein": 31.6
     },
     {
       "item_name": "Protein Shake 4",
-      "calories_kcal": 1017,
-      "protein_g": 49,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 medium cup, 500 ml, as 1017 kcal / 4255 kJ and 49 g protein. This is high protein but very calorie dense.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-4/9FmVDtBbRdqVnlEcDd09og"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-4/9FmVDtBbRdqVnlEcDd09og",
+      "kcal": 1017,
+      "protein": 49
     },
     {
       "item_name": "Protein Shake 5",
-      "calories_kcal": 627,
-      "protein_g": 45.6,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 large cup, 600 ml, as 627 kcal / 2622 kJ and 45.6 g protein.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-5/yWc3EH8ETiuow0TxlqkDkQ"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-5/yWc3EH8ETiuow0TxlqkDkQ",
+      "kcal": 627,
+      "protein": 45.6
     },
     {
       "item_name": "Protein Shake 6",
-      "calories_kcal": 667,
-      "protein_g": 25.5,
       "vegetarian": true,
       "notes": "CalorieKing Australia reports 1 medium cup, 500 ml, as 667 kcal / 2790 kJ and 25.5 g protein.",
-      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-6/ltiTlYG3SCSOTRr1rwEaqg"
+      "source_url": "https://www.calorieking.com/au/en/foods/f/calories-in-shakes-protein-shake-6/ltiTlYG3SCSOTRr1rwEaqg",
+      "kcal": 667,
+      "protein": 25.5
     }
   ],
   "add_ons": []

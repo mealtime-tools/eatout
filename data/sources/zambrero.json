@@ -7,75 +7,75 @@
   "base_items": [
     {
       "item_name": "Pulled Mushroom Classic Bowl",
-      "calories_kcal": 490,
-      "protein_g": 16.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
       "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-      "fat_g": 22.9,
-      "carbs_g": 53.7
+      "kcal": 490,
+      "protein": 16.2,
+      "fat": 22.9,
+      "carbs": 53.7
     },
     {
       "item_name": "Vegetarian Classic Bowl",
-      "calories_kcal": 638,
-      "protein_g": 16.4,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
       "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-      "fat_g": 28.9,
-      "carbs_g": 76.4
+      "kcal": 638,
+      "protein": 16.4,
+      "fat": 28.9,
+      "carbs": 76.4
     },
     {
       "item_name": "Pulled Mushroom Classic Burrito",
-      "calories_kcal": 774,
-      "protein_g": 23.7,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
       "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-      "fat_g": 31.5,
-      "carbs_g": 97.3
+      "kcal": 774,
+      "protein": 23.7,
+      "fat": 31.5,
+      "carbs": 97.3
     },
     {
       "item_name": "Vegetarian Small Signature Bowl",
-      "calories_kcal": 531,
-      "protein_g": 18.2,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
       "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-      "fat_g": 29.1,
-      "carbs_g": 46.8
+      "kcal": 531,
+      "protein": 18.2,
+      "fat": 29.1,
+      "carbs": 46.8
     },
     {
       "item_name": "Pulled Mushroom Signature Bowl",
-      "calories_kcal": 641,
-      "protein_g": 23.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
       "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-      "fat_g": 34.8,
-      "carbs_g": 56.2
+      "kcal": 641,
+      "protein": 23.8,
+      "fat": 34.8,
+      "carbs": 56.2
     },
     {
       "item_name": "Vegetarian Quesadilla",
-      "calories_kcal": 492,
-      "protein_g": 20.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Zambrero April 2026 PDF; per serve, without sauce.",
       "source_url": "https://dph95f73vdxmz.cloudfront.net/uploads/ops/resources/Zambrero-Nutritional-AUS-APRIL-2026.pdf",
-      "fat_g": 23.8,
-      "carbs_g": 47.4
+      "kcal": 492,
+      "protein": 20.8,
+      "fat": 23.8,
+      "carbs": 47.4
     }
   ],
   "add_ons": []

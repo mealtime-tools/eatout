@@ -7,89 +7,93 @@
   "base_items": [
     {
       "item_name": "Tofu Banh Mi",
-      "calories_kcal": 525.1,
-      "protein_g": 21.8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Roll'd live product page; 260 g serve.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "tags": ["rolld-tofu-banh-mi"],
-      "fat_g": 16.1,
-      "carbs_g": 65.3
+      "tags": [
+        "rolld-tofu-banh-mi"
+      ],
+      "kcal": 525.1,
+      "protein": 21.8,
+      "fat": 16.1,
+      "carbs": 65.3
     },
     {
       "item_name": "Tofu & Vegetable Spring Rolls Noodle Salad (Bun)",
-      "calories_kcal": 584.4,
-      "protein_g": 10.9,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Roll'd live product page; 472 g serve with Veg Nuoc Mam dressing on the side.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "fat_g": 22.2,
-      "carbs_g": 82.1
+      "kcal": 584.4,
+      "protein": 10.9,
+      "fat": 22.2,
+      "carbs": 82.1
     },
     {
       "item_name": "Tofu & Vegetable Spring Rolls Vietnamese Rice (Com)",
-      "calories_kcal": 726.8,
-      "protein_g": 22.5,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Roll'd live product page; 442 g serve with Veg Nuoc Mam dressing on the side.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "fat_g": 28.3,
-      "carbs_g": 91.9
+      "kcal": 726.8,
+      "protein": 22.5,
+      "fat": 28.3,
+      "carbs": 91.9
     },
     {
       "item_name": "Mushroom & Tofu Pho",
-      "calories_kcal": 490.4,
-      "protein_g": 13.3,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Roll'd live product page; bowl nutrition table value.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "fat_g": 14,
-      "carbs_g": 76.8
+      "kcal": 490.4,
+      "protein": 13.3,
+      "fat": 14,
+      "carbs": 76.8
     },
     {
       "item_name": "Tofu Vietnamese Salad (Goi)",
-      "calories_kcal": 227.3,
-      "protein_g": 8,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Roll'd live product page; remove crab crackers for strict vegetarian or vegan use.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "fat_g": 13.8,
-      "carbs_g": 13.4
+      "kcal": 227.3,
+      "protein": 8,
+      "fat": 13.8,
+      "carbs": 13.4
     },
     {
       "item_name": "Low Carb Tofu Rice Paper Roll",
-      "calories_kcal": 131.7,
-      "protein_g": 5.9,
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
       "notes": "Official Roll'd live product page; one 115 g soldier, better treated as a snack.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "fat_g": 5.2,
-      "carbs_g": 14.1
+      "kcal": 131.7,
+      "protein": 5.9,
+      "fat": 5.2,
+      "carbs": 14.1
     }
   ],
   "add_ons": [
     {
       "item_name": "Extra Tofu",
-      "calories_kcal": 131.7,
-      "protein_g": 5.9,
       "vegetarian": true,
       "vegan": true,
       "confidence": "high_confidence_estimate",
       "notes": "Roll'd live Abacus ordering data lists Extra Tofu as a $3 Banh Mi Tofu modifier; standalone modifier macros are unpublished, so this uses Roll'd official Low Carb Tofu Rice Paper Roll nutrition as a conservative tofu-portion proxy.",
       "source_url": "https://rolld.com.au/pages/nutritional-dietary-allergen-information",
-      "applies_to_tags": ["rolld-tofu-banh-mi"]
+      "applies_to_tags": [
+        "rolld-tofu-banh-mi"
+      ],
+      "kcal": 131.7,
+      "protein": 5.9
     }
   ]
 }
