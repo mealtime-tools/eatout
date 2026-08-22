@@ -24,7 +24,11 @@ classifiers = [
     "Programming Language :: Python :: 3.14",
     "Topic :: Utilities",
 ]
-dependencies = ["click>=8.1", "click-agentcli>=0.1.0"]
+dependencies = [
+    "click>=8.1",
+    "click-agentcli>=0.1.0",
+    "mealtime-nutrition",
+]
 
 [project.urls]
 Homepage = "https://github.com/mealtime-tools/eatout"
@@ -60,3 +64,6 @@ python_files = ["*_test.py"]
 
 [tool.ruff]
 line-length = 79
+
+[tool.uv.sources]
+mealtime-nutrition = { path = "../nutrition", editable = true }

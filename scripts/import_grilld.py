@@ -15,6 +15,7 @@ from datetime import UTC, datetime
 from typing import Any
 
 import click
+from nutrition import figures
 
 from eatout.nutrition import MealDataError, normalize_meal, round1
 
@@ -42,7 +43,13 @@ NOTE_INCONSISTENT = (
     " macro set is inconsistent with its labelled energy."
 )
 
-KJ_PER_KCAL = 4.184
+# The macros the shared library names canonically, under the field names
+# eatout's own records use. The only translation between the two.
+FIELD_BY_CANONICAL = {
+    "protein": "protein_g",
+    "fat": "fat_g",
+    "carbohydrates": "carbs_g",
+}
 
 # Grill'd publishes no nutrition for any add-on, so this one is the patty's
 # own maker's figure for the 2.5 oz foodservice patty Grill'd serves. The
@@ -71,24 +78,26 @@ EXTRA_BEYOND_PATTY = {
 
 
 def parse_nutrition(table_rows: Any) -> dict[str, float] | None:
-    """One bun variant's panel, carrying only the macros it actually states."""
-    values = {row[0]: row[1] for row in table_rows or [] if len(row) > 1}
-    kilojoules = _number(values.get("Energy"), "kJ")
-    protein = _number(values.get("Protein"), "g")
+    """One bun variant's panel, carrying only the macros it actually states.
 
-    if kilojoules is None or protein is None:
+    The API hands over rows it already split into a label and a figure, which
+    is the shape the shared library reads, so naming the rows and converting
+    the kilojoules is its job. Energy and protein are required because a row
+    stating neither is not a panel; everything else is optional and absent
+    means the operator published nothing.
+    """
+    panel = figures.read_rows(
+        [(row[0], row[1]) for row in table_rows or [] if len(row) > 1]
+    )
+
+    if "kcal" not in panel or "protein" not in panel:
         return None
 
-    parsed = {
-        "calories_kcal": round1(kilojoules / KJ_PER_KCAL),
-        "protein_g": protein,
+    return {"calories_kcal": round1(panel["kcal"])} | {
+        field: panel[key]
+        for key, field in FIELD_BY_CANONICAL.items()
+        if key in panel
     }
-    for key, label in (("fat_g", "Fat"), ("carbs_g", "Carbohydrate")):
-        macro = _number(values.get(label), "g")
-        if macro is not None:
-            parsed[key] = macro
-
-    return parsed
 
 
 def is_vegetarian(product: dict[str, Any]) -> bool:
@@ -241,19 +250,6 @@ def _nearest_restaurant(fetch_json: Any) -> dict[str, Any]:
             return store
 
     raise LookupError("no Grill'd pickup restaurant near Sydney CBD")
-
-
-def _number(text: Any, unit: str) -> float | None:
-    """A panel figure like "17.8g", or None where the operator stated none."""
-    cleaned = str(text or "").replace(",", "").strip()
-
-    if not cleaned.lower().endswith(unit.lower()):
-        return None
-
-    try:
-        return float(cleaned[: -len(unit)].strip())
-    except ValueError:
-        return None
 
 
 def _today() -> str:

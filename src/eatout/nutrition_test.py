@@ -45,6 +45,20 @@ def test_unpublished_macro_is_none_and_a_published_zero_survives() -> None:
     assert zero_fat.fat_g == 0
 
 
+def test_the_energy_tolerance_stays_wider_below_the_label_than_above() -> None:
+    """AU labels under-count carbohydrate, so a deficit gets more room.
+
+    Both sets miss the stated 540 kcal by 70. The one that accounts for less
+    is ordinary; the one that accounts for more is a panel read wrong.
+    """
+    under = normalize_meal({**MARGHERITA, "fat_g": 20, "carbs_g": 31})
+
+    assert under.carbs_g == 31
+
+    with pytest.raises(MealDataError):
+        normalize_meal({**MARGHERITA, "fat_g": 24, "carbs_g": 57})
+
+
 @pytest.mark.parametrize(
     "broken",
     [
