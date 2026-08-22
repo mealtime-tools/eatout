@@ -62,9 +62,9 @@ def meal_candidate(meal: Meal) -> dict[str, Any]:
     """One meal as the shared candidate record.
 
     Nutrients are top-level. Missing values are null, because a 0 there would
-    read as a nutrient-free dish. The
-    citation and the confidence travel with it, since a caller quoting a number
-    has to be able to say where it came from.
+    read as a nutrient-free dish. The citation and the confidence travel with
+    it, since a caller quoting a number has to be able to say where it came
+    from.
     """
     nutrients = {
         "kcal": meal.calories_kcal,

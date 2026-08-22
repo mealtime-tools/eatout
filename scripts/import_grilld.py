@@ -206,12 +206,9 @@ def _validated(item: dict[str, Any]) -> dict[str, Any]:
             raise
 
     lean = {
-        **item,
-        **{
-            key: value
-            for key, value in item.items()
-            if key not in ("fat", "carbs")
-        },
+        key: value
+        for key, value in item.items()
+        if key not in ("fat", "carbs")
     }
     lean["notes"] = NOTE_INCONSISTENT
     normalize_meal({**lean, "restaurant": RESTAURANT})
