@@ -1,5 +1,5 @@
 {
-  "reviewed_at": "2026-08-20T00:00:00.000Z",
+  "reviewed_at": "2026-08-23T00:00:00.000Z",
   "restaurant": "Nando's",
   "source_url": "https://www.nandos.com.au/menu-item",
   "maps_url": "https://maps.google.com/?cid=3025434634522062899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
@@ -96,7 +96,7 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "high_confidence_estimate",
-      "notes": "Official Halloumi chicken pita row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g.",
+      "notes": "Official Halloumi chicken pita row, adjusted by subtracting an estimated 100 g PERi-PERi chicken serve and adding Great Pretender Protein. Chicken estimate uses Nando's 4 PERi-PERi Grilled Tenders row scaled from 160 g to 100 g. Corroborated 2026-08-23: an in-store order of this item on toasted pita with one extra Great Pretender Protein was quoted at 4504 kJ (1076.5 kcal), against 1055.5 kcal for this row plus one add-on, a 2% agreement.",
       "source_url": "https://www.nandos.com.au/menu-item/halloumi",
       "kcal": 758.5,
       "protein": 32.8
@@ -118,7 +118,7 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
-      "notes": "Nando's says Great Pretender Protein can be added to any burger, wrap, pita, salad or paella. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy.",
+      "notes": "Nando's says Great Pretender Protein can be added to any burger, wrap, pita, salad or paella. 120 g serve. Fat and carbohydrate are omitted because the published per-serve macro set is inconsistent with its labelled energy: the listed 4.6 g fat and 9.5 g carbohydrate imply 149 kcal against a labelled 297.",
       "source_url": "https://www.nandos.com.au/menu-item/the-great-pretender-protein",
       "applies_to_tags": [
         "nandos-extra-protein"
