@@ -15,6 +15,7 @@ from datetime import UTC, datetime
 from typing import Any
 
 import click
+from mealtime_nutrients import kcal_from_kj
 
 from eatout.nutrition import MealDataError, normalize_meal, round1
 
@@ -41,8 +42,6 @@ NOTE_INCONSISTENT = (
     f"{NOTE} Fat and carbohydrate are omitted because the API's per-serve"
     " macro set is inconsistent with its labelled energy."
 )
-
-KJ_PER_KCAL = 4.184
 
 # Grill'd publishes no nutrition for any add-on, so this one is the patty's
 # own maker's figure for the 2.5 oz foodservice patty Grill'd serves. The
@@ -79,7 +78,7 @@ def parse_nutrition(table_rows: Any) -> dict[str, float] | None:
     if kilojoules is None or protein is None:
         return None
 
-    parsed = {"kcal": round1(kilojoules / KJ_PER_KCAL), "protein": protein}
+    parsed = {"kcal": round1(kcal_from_kj(kilojoules)), "protein": protein}
     for key, label in (("fat", "Fat"), ("carbs", "Carbohydrate")):
         macro = _number(values.get(label), "g")
         if macro is not None:
