@@ -78,7 +78,10 @@ def parse_nutrition(table_rows: Any) -> dict[str, float] | None:
     if kilojoules is None or protein is None:
         return None
 
-    parsed = {"kcal": round1(kcal_from_kj(kilojoules)), "protein": protein}
+    # Exact division first; the float is taken before `round1`, which does
+    # its half-up arithmetic on floats.
+    kcal = round1(float(kcal_from_kj(kilojoules)))
+    parsed = {"kcal": kcal, "protein": protein}
     for key, label in (("fat", "Fat"), ("carbs", "Carbohydrate")):
         macro = _number(values.get(label), "g")
         if macro is not None:
