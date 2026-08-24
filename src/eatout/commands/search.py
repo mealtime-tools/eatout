@@ -10,8 +10,7 @@ from agentcli import emit, json_option, limit_option, macro_options
 from eatout.data import load_meals
 from eatout.search import MEAL_NUTRIENTS, Filters, find_candidates
 
-# The reference CLI's default. Wide enough to compare options, small enough
-# that an agent is not handed the whole dataset.
+# The reference CLI's default: enough to compare, short of the whole dataset.
 DEFAULT_LIMIT = 25
 
 # Labels only: an unlabelled nutrient falls back to its key, never disappears.
@@ -52,8 +51,7 @@ def search(
     )
     results = find_candidates(meals, filters)
 
-    # Only the matches are truncated: an "I could not check these" list is an
-    # answer about the whole dataset, so a partial one would understate it.
+    # Only matches truncate: `unverifiable` answers about the whole dataset.
     candidates = results.matched[:limit]
     payload = {
         "generated_at": document["generated_at"],
