@@ -10,10 +10,10 @@ from pathlib import Path
 from typing import Any
 
 from click.testing import CliRunner
-from mealtime_nutrients import CORE_NUTRIENTS, NUTRIENTS as VOCABULARY
+from mealtime_nutrients import CORE_NUTRIENTS, OPTIONAL_NUTRIENTS
 
 from eatout.cli import main
-from eatout.search import _MEAL_READERS
+from eatout.search import MEAL_NUTRIENTS
 
 # The add-on publishes fat but not carbs, exercising the all-or-nothing merge.
 DOCUMENT = {
@@ -75,8 +75,8 @@ def _nutrient_keys(record: dict[str, Any]) -> list[str]:
     return [key for key in record if key not in RECORD_KEYS]
 
 
-def test_only_the_core_nutrients_have_a_meal_reader() -> None:
-    assert set(_MEAL_READERS) == set(CORE_NUTRIENTS)
+def test_the_meal_readers_are_the_core_nutrients_in_library_order() -> None:
+    assert tuple(MEAL_NUTRIENTS) == CORE_NUTRIENTS
 
 
 def test_the_record_states_the_core_nutrients_and_nothing_else(
@@ -109,10 +109,8 @@ def test_json_reports_a_plain_item_as_published(tmp_path: Path) -> None:
 
 
 def test_json_omits_every_nutrient_no_source_states(tmp_path: Path) -> None:
-    unsourced = [name for name in VOCABULARY if name not in CORE_NUTRIENTS]
-
     for record in _candidates(tmp_path):
-        assert [name for name in unsourced if name in record] == []
+        assert [n for n in OPTIONAL_NUTRIENTS if n in record] == []
 
 
 def test_json_drops_a_macro_only_one_contributor_publishes(

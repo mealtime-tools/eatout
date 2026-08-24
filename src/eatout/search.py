@@ -12,8 +12,6 @@ from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
-from mealtime_nutrients import CORE_NUTRIENTS
-
 from eatout.nutrition import (
     Meal,
     MealDataError,
@@ -29,16 +27,12 @@ from eatout.nutrition import (
 INHERITED = ("restaurant", "source_url", "maps_url")
 
 # What reads each figure off a Meal: no source publishes a trace nutrient.
-_MEAL_READERS: dict[str, Callable[[Meal], float | None]] = {
+# Keyed in CORE_NUTRIENTS order, which a test pins.
+MEAL_NUTRIENTS: dict[str, Callable[[Meal], float | None]] = {
     "kcal": lambda meal: meal.calories_kcal,
     "protein": lambda meal: meal.protein_g,
     "fat": lambda meal: meal.fat_g,
     "carbs": lambda meal: meal.carbs_g,
-}
-
-# Names and order from the library, so a misspelt reader raises at import.
-MEAL_NUTRIENTS: dict[str, Callable[[Meal], float | None]] = {
-    name: _MEAL_READERS[name] for name in CORE_NUTRIENTS
 }
 
 
