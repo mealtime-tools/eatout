@@ -10,8 +10,10 @@ from pathlib import Path
 from typing import Any
 
 from click.testing import CliRunner
+from mealtime_nutrients import CORE_NUTRIENTS, NUTRIENTS as VOCABULARY
 
 from eatout.cli import main
+from eatout.search import MEAL_NUTRIENTS, NUTRIENTS
 
 # The add-on publishes fat but not carbs, exercising the all-or-nothing merge.
 DOCUMENT = {
@@ -50,8 +52,7 @@ DOCUMENT = {
     ],
 }
 
-NUTRIENT_KEYS = ["kcal", "protein", "fat", "carbs", "fiber", "sodium", "sugar"]
-RECORD_KEYS = ["kind", "id", "name", *NUTRIENT_KEYS, "complete", "detail"]
+RECORD_KEYS = ("kind", "id", "name", "complete", "detail")
 
 
 def _run(tmp_path: Path, *args: str) -> str:
@@ -70,9 +71,36 @@ def _candidates(tmp_path: Path) -> list[dict[str, Any]]:
     return payload["candidates"]
 
 
+def _nutrient_keys(record: dict[str, Any]) -> list[str]:
+    return [key for key in record if key not in RECORD_KEYS]
+
+
+def test_the_table_covers_the_published_vocabulary_exactly() -> None:
+    assert set(NUTRIENTS) == set(VOCABULARY)
+
+
+def test_only_the_core_nutrients_have_a_meal_reader() -> None:
+    assert tuple(MEAL_NUTRIENTS) == CORE_NUTRIENTS
+
+
+def test_the_core_nutrients_lead_the_record_in_label_order(
+    tmp_path: Path,
+) -> None:
+    for record in _candidates(tmp_path):
+        keys = _nutrient_keys(record)
+
+        assert tuple(keys[: len(CORE_NUTRIENTS)]) == CORE_NUTRIENTS
+        assert keys[len(CORE_NUTRIENTS) :] == [
+            name for name in VOCABULARY if name not in CORE_NUTRIENTS
+        ]
+
+
 def test_json_records_keep_the_published_key_order(tmp_path: Path) -> None:
     for record in _candidates(tmp_path):
-        assert list(record) == RECORD_KEYS
+        keys = list(record)
+
+        assert keys[:3] == ["kind", "id", "name"]
+        assert keys[-2:] == ["complete", "detail"]
 
 
 def test_json_reports_a_plain_item_as_published(tmp_path: Path) -> None:
@@ -86,10 +114,16 @@ def test_json_reports_a_plain_item_as_published(tmp_path: Path) -> None:
     assert plain["protein"] == 25
     assert plain["fat"] == 20
     assert plain["carbs"] == 50
-    assert plain["fiber"] is None
-    assert plain["sodium"] is None
-    assert plain["sugar"] is None
     assert plain["complete"] is True
+
+
+def test_json_reports_every_unsourced_nutrient_as_unknown(
+    tmp_path: Path,
+) -> None:
+    unsourced = [name for name in VOCABULARY if name not in CORE_NUTRIENTS]
+
+    for record in _candidates(tmp_path):
+        assert [record[name] for name in unsourced] == [None] * len(unsourced)
 
 
 def test_json_drops_a_macro_only_one_contributor_publishes(

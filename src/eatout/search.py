@@ -12,6 +12,8 @@ from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
+from mealtime_nutrients import CORE_NUTRIENTS, NUTRIENTS as VOCABULARY
+
 from eatout.nutrition import (
     Meal,
     MealDataError,
@@ -26,15 +28,23 @@ from eatout.nutrition import (
 # is never silently replaced by the restaurant-wide one.
 INHERITED = ("restaurant", "source_url", "maps_url")
 
-# Published order; a `None` reader means no reviewed source carries it yet.
-NUTRIENTS: dict[str, Callable[[Meal], float | None] | None] = {
+# What reads each figure off a Meal. Eatout-specific, and the only four the
+# reviewed sources publish: no source carries a trace nutrient.
+_MEAL_READERS: dict[str, Callable[[Meal], float | None]] = {
     "kcal": lambda meal: meal.calories_kcal,
     "protein": lambda meal: meal.protein_g,
     "fat": lambda meal: meal.fat_g,
     "carbs": lambda meal: meal.carbs_g,
-    "fiber": None,
-    "sodium": None,
-    "sugar": None,
+}
+
+# The published vocabulary, core first so the four eatout can state read as
+# they do on a label. A `None` reader means no reviewed source carries it.
+NUTRIENTS: dict[str, Callable[[Meal], float | None] | None] = {
+    name: _MEAL_READERS.get(name)
+    for name in (
+        *CORE_NUTRIENTS,
+        *(name for name in VOCABULARY if name not in CORE_NUTRIENTS),
+    )
 }
 
 # The subset a meal can state: judged for `complete`, totalled, and rendered.
@@ -77,10 +87,12 @@ def expand_meals(document: Mapping[str, Any]) -> list[Meal]:
 def meal_candidate(meal: Meal) -> dict[str, Any]:
     """One meal as the shared candidate record.
 
-    Nutrients are top-level. Missing values are null, because a 0 there would
-    read as a nutrient-free dish. The citation and the confidence travel with
-    it, since a caller quoting a number has to be able to say where it came
-    from.
+    Nutrients are top-level, and the whole published vocabulary appears even
+    though only the core four are ever populated. Missing values are null,
+    because a 0 there would read as a nutrient-free dish, and an absent key
+    would read as a schema a consumer does not recognise. The citation and the
+    confidence travel with it, since a caller quoting a number has to be able
+    to say where it came from.
     """
     nutrients = {
         key: read(meal) if read is not None else None
