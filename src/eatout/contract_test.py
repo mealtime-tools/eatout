@@ -36,7 +36,8 @@ def test_restaurant_nutrients_use_the_canonical_shape() -> None:
 
     assert candidate["fat"] is None
     assert candidate["carbs"] is None
-    assert candidate["fiber"] is None
+    # An unstated nutrient is absent, which reads as the null above: unknown.
+    assert "fiber" not in candidate
     assert "nutrients" not in candidate
     assert "per_serving" not in candidate
     assert candidate["complete"] is False

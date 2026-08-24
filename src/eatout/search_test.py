@@ -1,8 +1,8 @@
 """The candidate record's published shape, machine and human.
 
-Both output paths are pinned here because the nutrient vocabulary is what a
-caller reads: a key order change or a silently dropped nutrient is a contract
-break, not an implementation detail.
+Both output paths are pinned here because the nutrients are what a caller
+reads: a key order change or a silently dropped nutrient is a contract break,
+not an implementation detail.
 """
 
 import json
@@ -13,7 +13,7 @@ from click.testing import CliRunner
 from mealtime_nutrients import CORE_NUTRIENTS, NUTRIENTS as VOCABULARY
 
 from eatout.cli import main
-from eatout.search import MEAL_NUTRIENTS, NUTRIENTS
+from eatout.search import _MEAL_READERS
 
 # The add-on publishes fat but not carbs, exercising the all-or-nothing merge.
 DOCUMENT = {
@@ -75,24 +75,15 @@ def _nutrient_keys(record: dict[str, Any]) -> list[str]:
     return [key for key in record if key not in RECORD_KEYS]
 
 
-def test_the_table_covers_the_published_vocabulary_exactly() -> None:
-    assert set(NUTRIENTS) == set(VOCABULARY)
-
-
 def test_only_the_core_nutrients_have_a_meal_reader() -> None:
-    assert tuple(MEAL_NUTRIENTS) == CORE_NUTRIENTS
+    assert set(_MEAL_READERS) == set(CORE_NUTRIENTS)
 
 
-def test_the_core_nutrients_lead_the_record_in_label_order(
+def test_the_record_states_the_core_nutrients_and_nothing_else(
     tmp_path: Path,
 ) -> None:
     for record in _candidates(tmp_path):
-        keys = _nutrient_keys(record)
-
-        assert tuple(keys[: len(CORE_NUTRIENTS)]) == CORE_NUTRIENTS
-        assert keys[len(CORE_NUTRIENTS) :] == [
-            name for name in VOCABULARY if name not in CORE_NUTRIENTS
-        ]
+        assert tuple(_nutrient_keys(record)) == CORE_NUTRIENTS
 
 
 def test_json_records_keep_the_published_key_order(tmp_path: Path) -> None:
@@ -117,13 +108,11 @@ def test_json_reports_a_plain_item_as_published(tmp_path: Path) -> None:
     assert plain["complete"] is True
 
 
-def test_json_reports_every_unsourced_nutrient_as_unknown(
-    tmp_path: Path,
-) -> None:
+def test_json_omits_every_nutrient_no_source_states(tmp_path: Path) -> None:
     unsourced = [name for name in VOCABULARY if name not in CORE_NUTRIENTS]
 
     for record in _candidates(tmp_path):
-        assert [record[name] for name in unsourced] == [None] * len(unsourced)
+        assert [name for name in unsourced if name in record] == []
 
 
 def test_json_drops_a_macro_only_one_contributor_publishes(

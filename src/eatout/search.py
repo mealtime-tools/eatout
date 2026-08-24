@@ -12,7 +12,7 @@ from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
-from mealtime_nutrients import CORE_NUTRIENTS, NUTRIENTS as VOCABULARY
+from mealtime_nutrients import CORE_NUTRIENTS
 
 from eatout.nutrition import (
     Meal,
@@ -28,8 +28,7 @@ from eatout.nutrition import (
 # is never silently replaced by the restaurant-wide one.
 INHERITED = ("restaurant", "source_url", "maps_url")
 
-# What reads each figure off a Meal. Eatout-specific, and the only four the
-# reviewed sources publish: no source carries a trace nutrient.
+# What reads each figure off a Meal: no source publishes a trace nutrient.
 _MEAL_READERS: dict[str, Callable[[Meal], float | None]] = {
     "kcal": lambda meal: meal.calories_kcal,
     "protein": lambda meal: meal.protein_g,
@@ -37,19 +36,9 @@ _MEAL_READERS: dict[str, Callable[[Meal], float | None]] = {
     "carbs": lambda meal: meal.carbs_g,
 }
 
-# The published vocabulary, core first so the four eatout can state read as
-# they do on a label. A `None` reader means no reviewed source carries it.
-NUTRIENTS: dict[str, Callable[[Meal], float | None] | None] = {
-    name: _MEAL_READERS.get(name)
-    for name in (
-        *CORE_NUTRIENTS,
-        *(name for name in VOCABULARY if name not in CORE_NUTRIENTS),
-    )
-}
-
-# The subset a meal can state: judged for `complete`, totalled, and rendered.
-MEAL_NUTRIENTS = {
-    key: read for key, read in NUTRIENTS.items() if read is not None
+# Names and order from the library, so a misspelt reader raises at import.
+MEAL_NUTRIENTS: dict[str, Callable[[Meal], float | None]] = {
+    name: _MEAL_READERS[name] for name in CORE_NUTRIENTS
 }
 
 
@@ -87,23 +76,20 @@ def expand_meals(document: Mapping[str, Any]) -> list[Meal]:
 def meal_candidate(meal: Meal) -> dict[str, Any]:
     """One meal as the shared candidate record.
 
-    Nutrients are top-level, and the whole published vocabulary appears even
-    though only the core four are ever populated. Missing values are null,
-    because a 0 there would read as a nutrient-free dish, and an absent key
-    would read as a schema a consumer does not recognise. The citation and the
-    confidence travel with it, since a caller quoting a number has to be able
-    to say where it came from.
+    Nutrients are top-level, and only the core four appear: a nutrient no
+    reviewed source states is left out, which a reader takes as unknown. A core
+    macro the operator never published stays as an explicit null, because a 0
+    there would read as a nutrient-free dish. The citation and the confidence
+    travel with it, since a caller quoting a number has to be able to say where
+    it came from.
     """
-    nutrients = {
-        key: read(meal) if read is not None else None
-        for key, read in NUTRIENTS.items()
-    }
+    nutrients = {key: read(meal) for key, read in MEAL_NUTRIENTS.items()}
     return {
         "kind": "meal",
         "id": candidate_id(meal),
         "name": f"{meal.restaurant} - {meal.item_name}",
         **nutrients,
-        "complete": all(nutrients[key] is not None for key in MEAL_NUTRIENTS),
+        "complete": all(value is not None for value in nutrients.values()),
         "detail": _detail(meal),
     }
 
