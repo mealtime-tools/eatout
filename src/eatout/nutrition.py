@@ -54,8 +54,7 @@ def normalize_meal(raw: Mapping[str, Any]) -> Meal:
     calories = _positive_number(raw.get("kcal"), "kcal")
     protein = _positive_number(raw.get("protein"), "protein")
 
-    # Protein alone cannot exceed the labelled energy: that is a units mix-up,
-    # not a meal, and it would rank first under protein-per-calorie.
+    # Protein above the labelled energy is a units mix-up, and would rank first.
     if calories < protein * 4:
         raise MealDataError("kcal is below protein calories")
 
@@ -196,8 +195,7 @@ def _check_energy(
 
     difference = protein * 4 + fat * 9 + carbs * 4 - calories
 
-    # AU labels exclude fibre from carbohydrate yet count some fibre energy, so
-    # a deficit is expected and gets more room than an excess.
+    # AU labels exclude fibre from carbohydrate, so a deficit gets more room.
     allowed = max(20.0, calories * (0.15 if difference < 0 else 0.1))
 
     if abs(difference) > allowed:

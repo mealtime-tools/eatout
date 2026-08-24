@@ -1,12 +1,9 @@
 """Rebuild data/sources/grilld.json from Grill'd's public ordering API.
 
-The eatout CLI is read-only by contract, so ingestion lives here rather than
-behind a command. Run this, diff the result, then regenerate the artifact.
-
-Grill'd publishes a per-serve panel for every bun variant of every product, so
-the only judgement in here is which products to take and when to distrust a
-macro set. Both are decided by rule: the operator's own menu categories, and
-the same validator the reader applies.
+The CLI is read-only by contract, so ingestion lives here: run this, diff the
+result, then regenerate the artifact. Which products to take and when to
+distrust a macro set are decided by rule -- the operator's own menu
+categories, and the same validator the reader applies.
 """
 
 import json
@@ -15,6 +12,7 @@ from datetime import UTC, datetime
 from typing import Any
 
 import click
+from mealtime_nutrients import kcal_from_kj
 
 from eatout.nutrition import MealDataError, normalize_meal, round1
 
@@ -30,8 +28,7 @@ MAPS_URL = (
     "cy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA"
 )
 
-# Grill'd shelves its meat-free burgers under these two titles, so following
-# them picks up a new product instead of silently missing it.
+# Grill'd's own meat-free titles, so a new product is followed, not missed.
 MENU_CATEGORIES = ("Vegetarian", "Vegan")
 ATTR_VEGETARIAN = "V"
 ATTR_VEGAN = "VE"
@@ -42,11 +39,7 @@ NOTE_INCONSISTENT = (
     " macro set is inconsistent with its labelled energy."
 )
 
-KJ_PER_KCAL = 4.184
-
-# Grill'd publishes no nutrition for any add-on, so this one is the patty's
-# own maker's figure for the 2.5 oz foodservice patty Grill'd serves. The
-# 113 g retail patty is a different serve and overstates every macro.
+# Grill'd publishes no add-on nutrition, so `notes` carries this one's source.
 EXTRA_BEYOND_PATTY = {
     "item_name": "Extra Beyond Patty",
     "kcal": 143.8,
@@ -79,7 +72,9 @@ def parse_nutrition(table_rows: Any) -> dict[str, float] | None:
     if kilojoules is None or protein is None:
         return None
 
-    parsed = {"kcal": round1(kilojoules / KJ_PER_KCAL), "protein": protein}
+    # Exact division first: `round1` does its half-up arithmetic on floats.
+    kcal = round1(float(kcal_from_kj(kilojoules)))
+    parsed = {"kcal": kcal, "protein": protein}
     for key, label in (("fat", "Fat"), ("carbs", "Carbohydrate")):
         macro = _number(values.get(label), "g")
         if macro is not None:
@@ -167,10 +162,7 @@ def build_source(
     add_ons = [EXTRA_BEYOND_PATTY] if any(map(_sells_patty, products)) else []
     base_items = [row for p in products for row in bun_items(p)]
 
-    # A menu whose panels no longer parse looks exactly like a menu with no
-    # meat-free burgers, so refuse instead of writing an empty source: renaming
-    # the Energy or Protein row would otherwise delete the restaurant on a
-    # successful run.
+    # Unparseable panels look like no meat-free burgers, so never write empty.
     if not base_items:
         raise LookupError(
             f"no readable nutrition panel in {len(products)} meat-free"

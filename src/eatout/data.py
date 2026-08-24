@@ -28,8 +28,7 @@ def _owned_data() -> Path:
     return Path(__file__).resolve().parents[2] / "data"
 
 
-# The reviewed artifact stays read-only at runtime. A command that edited it
-# would be editing a review outcome rather than source data.
+# Read-only at runtime: editing it would edit a review outcome, not a source.
 REFERENCE_PATH = _owned_data() / "meals.json"
 
 
@@ -60,8 +59,7 @@ def load_document(explicit: str | Path | None = None) -> dict[str, Any]:
     if not isinstance(document, dict):
         raise UsageError(f"{path} must contain a JSON object")
 
-    # Every answer is stamped with this, so a document without it would let a
-    # caller present a snapshot of unknown age as current.
+    # Every answer is stamped with this, so a snapshot cannot pass as current.
     if not isinstance(document.get("generated_at"), str):
         raise UsageError(f"{path} is missing generated_at")
 

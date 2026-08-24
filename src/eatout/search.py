@@ -8,7 +8,7 @@ Everything only a restaurant meal has lives under `detail`.
 
 import re
 import unicodedata
-from collections.abc import Mapping, Sequence
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
@@ -21,10 +21,16 @@ from eatout.nutrition import (
     round1,
 )
 
-# Provenance an item may leave to its restaurant. An item that states one of
-# these overrides it; one that states nothing inherits, so a per-item citation
-# is never silently replaced by the restaurant-wide one.
+# Provenance an item inherits only where it states none of its own.
 INHERITED = ("restaurant", "source_url", "maps_url")
+
+# What reads each figure off a Meal, keyed in CORE_NUTRIENTS order.
+MEAL_NUTRIENTS: dict[str, Callable[[Meal], float | None]] = {
+    "kcal": lambda meal: meal.calories_kcal,
+    "protein": lambda meal: meal.protein_g,
+    "fat": lambda meal: meal.fat_g,
+    "carbs": lambda meal: meal.carbs_g,
+}
 
 
 @dataclass(frozen=True)
@@ -61,29 +67,18 @@ def expand_meals(document: Mapping[str, Any]) -> list[Meal]:
 def meal_candidate(meal: Meal) -> dict[str, Any]:
     """One meal as the shared candidate record.
 
-    Nutrients are top-level. Missing values are null, because a 0 there would
-    read as a nutrient-free dish. The citation and the confidence travel with
-    it, since a caller quoting a number has to be able to say where it came
-    from.
+    Only the core four appear, top-level: an unstated nutrient is left out and
+    reads as unknown, while a core macro the operator never published stays an
+    explicit null, because a 0 there would read as a nutrient-free dish. The
+    citation and confidence travel with it so a quoted figure can be sourced.
     """
-    nutrients = {
-        "kcal": meal.calories_kcal,
-        "protein": meal.protein_g,
-        "fat": meal.fat_g,
-        "carbs": meal.carbs_g,
-        "fiber": None,
-        "sodium": None,
-        "sugar": None,
-    }
+    nutrients = {key: read(meal) for key, read in MEAL_NUTRIENTS.items()}
     return {
         "kind": "meal",
         "id": candidate_id(meal),
         "name": f"{meal.restaurant} - {meal.item_name}",
         **nutrients,
-        "complete": all(
-            nutrients[key] is not None
-            for key in ("kcal", "protein", "fat", "carbs")
-        ),
+        "complete": all(value is not None for value in nutrients.values()),
         "detail": _detail(meal),
     }
 
@@ -127,8 +122,7 @@ def partition(
     matched: list[dict[str, Any]] = []
     unchecked: list[dict[str, Any]] = []
 
-    # A filter asked about a macro this candidate lacks: still excluded, but
-    # reported, because "could not check" is a different answer from "no".
+    # "Could not check" is a different answer from "no": excluded, but said.
     for record in candidates:
         if (filters.max_kcal is not None and record["kcal"] is None) or (
             filters.min_protein is not None and record["protein"] is None
@@ -191,8 +185,7 @@ def _normalize_text(value: str) -> str:
 def _expand_source(source: Mapping[str, Any]) -> list[Meal]:
     add_ons = (
         [meal for meal in _source_items(source, "add_ons") if meal.vegetarian]
-        # A source must opt in: combinations are only offered where the
-        # operator publishes add-on figures for those items.
+        # A source must opt in: only where the operator publishes add-ons.
         if source.get("allow_add_ons") is True
         else []
     )
@@ -245,10 +238,10 @@ def _combine(base: Meal, add_on: Meal) -> Meal:
     combined = {
         "restaurant": base.restaurant,
         "item_name": f"{base.item_name} + {add_on.item_name}",
-        "kcal": round1(base.calories_kcal + add_on.calories_kcal),
-        "protein": round1(base.protein_g + add_on.protein_g),
-        "fat": _combined_macro(base.fat_g, add_on.fat_g),
-        "carbs": _combined_macro(base.carbs_g, add_on.carbs_g),
+        **{
+            key: _combined_macro(read(base), read(add_on))
+            for key, read in MEAL_NUTRIENTS.items()
+        },
         "vegetarian": base.vegetarian and add_on.vegetarian,
         "vegan": base.vegan and add_on.vegan,
         "confidence": combine_confidence(base.confidence, add_on.confidence),

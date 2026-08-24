@@ -24,7 +24,11 @@ classifiers = [
     "Programming Language :: Python :: 3.14",
     "Topic :: Utilities",
 ]
-dependencies = ["click>=8.1", "click-agentcli>=0.1.0"]
+dependencies = [
+    "click>=8.1",
+    "click-agentcli>=0.1.0",
+    "mealtime-nutrients>=0.3.0",
+]
 
 [project.urls]
 Homepage = "https://github.com/mealtime-tools/eatout"
