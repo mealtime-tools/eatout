@@ -8,7 +8,7 @@ Everything only a restaurant meal has lives under `detail`.
 
 import re
 import unicodedata
-from collections.abc import Mapping, Sequence
+from collections.abc import Callable, Mapping, Sequence
 from dataclasses import dataclass
 from typing import Any
 
@@ -25,6 +25,22 @@ from eatout.nutrition import (
 # these overrides it; one that states nothing inherits, so a per-item citation
 # is never silently replaced by the restaurant-wide one.
 INHERITED = ("restaurant", "source_url", "maps_url")
+
+# Published order; a `None` reader means no reviewed source carries it yet.
+NUTRIENTS: dict[str, Callable[[Meal], float | None] | None] = {
+    "kcal": lambda meal: meal.calories_kcal,
+    "protein": lambda meal: meal.protein_g,
+    "fat": lambda meal: meal.fat_g,
+    "carbs": lambda meal: meal.carbs_g,
+    "fiber": None,
+    "sodium": None,
+    "sugar": None,
+}
+
+# The subset a meal can state: judged for `complete`, totalled, and rendered.
+MEAL_NUTRIENTS = {
+    key: read for key, read in NUTRIENTS.items() if read is not None
+}
 
 
 @dataclass(frozen=True)
@@ -67,23 +83,15 @@ def meal_candidate(meal: Meal) -> dict[str, Any]:
     from.
     """
     nutrients = {
-        "kcal": meal.calories_kcal,
-        "protein": meal.protein_g,
-        "fat": meal.fat_g,
-        "carbs": meal.carbs_g,
-        "fiber": None,
-        "sodium": None,
-        "sugar": None,
+        key: read(meal) if read is not None else None
+        for key, read in NUTRIENTS.items()
     }
     return {
         "kind": "meal",
         "id": candidate_id(meal),
         "name": f"{meal.restaurant} - {meal.item_name}",
         **nutrients,
-        "complete": all(
-            nutrients[key] is not None
-            for key in ("kcal", "protein", "fat", "carbs")
-        ),
+        "complete": all(nutrients[key] is not None for key in MEAL_NUTRIENTS),
         "detail": _detail(meal),
     }
 
@@ -245,10 +253,10 @@ def _combine(base: Meal, add_on: Meal) -> Meal:
     combined = {
         "restaurant": base.restaurant,
         "item_name": f"{base.item_name} + {add_on.item_name}",
-        "kcal": round1(base.calories_kcal + add_on.calories_kcal),
-        "protein": round1(base.protein_g + add_on.protein_g),
-        "fat": _combined_macro(base.fat_g, add_on.fat_g),
-        "carbs": _combined_macro(base.carbs_g, add_on.carbs_g),
+        **{
+            key: _combined_macro(read(base), read(add_on))
+            for key, read in MEAL_NUTRIENTS.items()
+        },
         "vegetarian": base.vegetarian and add_on.vegetarian,
         "vegan": base.vegan and add_on.vegan,
         "confidence": combine_confidence(base.confidence, add_on.confidence),

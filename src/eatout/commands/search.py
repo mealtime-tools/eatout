@@ -8,12 +8,13 @@ import click
 from agentcli import emit, json_option, limit_option, macro_options
 
 from eatout.data import load_meals
-from eatout.search import Filters, find_candidates
+from eatout.search import MEAL_NUTRIENTS, Filters, find_candidates
 
 # The reference CLI's default. Wide enough to compare options, small enough
 # that an agent is not handed the whole dataset.
 DEFAULT_LIMIT = 25
 
+# Labels only: an unlabelled nutrient falls back to its key, never disappears.
 UNITS = {
     "kcal": "kcal",
     "protein": "g protein",
@@ -82,7 +83,7 @@ def _human(payload: dict[str, Any]) -> Iterable[str]:
 def _macros(record: dict[str, Any]) -> str:
     """Show unknown values as question marks, never zero."""
     return "  ".join(
-        f"{value if value is not None else '?'} {UNITS[key]}"
-        for key, value in record.items()
-        if key in UNITS
+        f"{record[key] if record[key] is not None else '?'} "
+        f"{UNITS.get(key, key)}"
+        for key in MEAL_NUTRIENTS
     )
