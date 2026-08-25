@@ -54,7 +54,7 @@ def normalize_meal(raw: Mapping[str, Any]) -> Meal:
     calories = _positive_number(raw.get("kcal"), "kcal")
     protein = _positive_number(raw.get("protein"), "protein")
 
-    # Protein above the labelled energy is a units mix-up, and would rank first.
+    # Protein above the labelled energy is a units mix-up, and ranks first.
     if calories < protein * 4:
         raise MealDataError("kcal is below protein calories")
 

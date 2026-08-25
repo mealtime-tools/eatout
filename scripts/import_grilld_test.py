@@ -8,7 +8,7 @@ a moved figure silently rewrites a row a reviewer already signed off.
 
 from scripts.import_grilld import parse_nutrition
 
-# (panel kJ, committed kcal), spanning the reviewed range and both bun extremes.
+# (panel kJ, committed kcal), across the range and both bun extremes.
 ENERGY_ROWS = (
     (1010, 241.4),
     (1450, 346.6),

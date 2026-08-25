@@ -222,7 +222,7 @@ def _options(base: Meal, add_ons: Sequence[Meal]) -> list[Meal]:
 
 
 def _applies(base: Meal, add_on: Meal) -> bool:
-    """An untagged add-on goes with anything; a tagged one only with its tags."""
+    """An untagged add-on goes with anything; a tagged one with its tags."""
     if not add_on.applies_to_tags:
         return True
 

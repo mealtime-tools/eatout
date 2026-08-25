@@ -1,7 +1,7 @@
 """Locating and reading the meal document. The only file access in the tool.
 
 The document is a build artifact: `data/sources/*.json` is the reviewed source
-of truth, one restaurant per file with item-local citations, and the artifact is
+of truth, one restaurant per file with item-local citations, and the
 regenerated from it and diffed by a human. Nothing here writes, so a stale
 artifact is a review problem rather than something a command silently fixes.
 """
@@ -33,7 +33,7 @@ REFERENCE_PATH = _owned_data() / "meals.json"
 
 
 def resolve_path(explicit: str | Path | None = None) -> Path:
-    """Where the meal document is: flag, then environment, then the checkout."""
+    """Where the meal document is: flag, environment, then checkout."""
     if explicit:
         return Path(explicit).expanduser()
 
