@@ -15,4 +15,7 @@ values are JSON `null`, never zero. `scripts/regenerate.py` rebuilds `data/meals
 reviewed sources. The CLI itself is read-only and does not fetch or estimate.
 Each candidate's nutrients describe that menu item. Restaurant weights are
 left absent when the source did not publish them. A search returning one
-candidate can be piped to Recipes or Nutrilog with `--input -`.
+candidate is a flat record in the shared
+[item format](https://github.com/mealtime-tools/nutrients/blob/main/FORMAT.md),
+so it can be piped with `--input -` into Recipes, or into whatever tool records
+what you ate.
