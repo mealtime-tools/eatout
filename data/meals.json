@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T00:00:00.000Z",
+  "generated_at": "2026-08-28T00:00:00.000Z",
   "sources": [
     {
       "restaurant": "Banana Blossom",
@@ -573,12 +573,14 @@
           "item_name": "Protein Supreme (Original)",
           "vegetarian": true,
           "vegan": false,
-          "confidence": "exact",
-          "notes": "Official Boost Juice original nutrition row.",
+          "confidence": "high_confidence_estimate",
+          "notes": "Official Boost Juice original nutrition row for kcal and protein. Boost publishes no fat or carbohydrate, so both are estimated from the Carb Manager panel for the same 610 ml drink (12 g fat, 77 g total carbs less 13 g fibre), rescaled to the official 502 kcal.",
           "source_url": "https://www.boostjuice.com.au/drinks/protein-supreme/",
           "maps_url": "https://maps.google.com/?q=Boost%20Juice%20World%20Square%20Sydney",
           "kcal": 502,
-          "protein": 29.1
+          "protein": 29.1,
+          "fat": 12.7,
+          "carbs": 67.8
         },
         {
           "item_name": "Protein Supreme (Medium)",
