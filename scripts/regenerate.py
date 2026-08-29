@@ -2,8 +2,8 @@
 
 The artifact is the sources concatenated in filename order, each item stamped
 with its restaurant's location so a caller never walks back up to the parent.
-Rendering is hand-rolled because the committed file keeps short string arrays
-on one line, and a reformatting diff would bury the review.
+It is rendered exactly like the reviewed sources -- json.dumps at indent 2 --
+so that regenerating after a source edit diffs only the edit.
 """
 
 import json
@@ -13,17 +13,25 @@ from typing import Any
 import click
 
 INHERITED = ("maps_url",)
-TRAILING = ("tags", "applies_to_tags")
+ANCHOR = "source_url"
 
 
 def located(item: dict[str, Any], source: dict[str, Any]) -> dict[str, Any]:
-    """One item carrying its restaurant's location, ahead of its tags."""
-    kept = {k: v for k, v in item.items() if k not in TRAILING}
-    for field in INHERITED:
-        if field in source:
-            kept[field] = source[field]
+    """One item carrying its restaurant's location, beside its own source."""
+    inherited = {f: source[f] for f in INHERITED if f in source}
+    kept: dict[str, Any] = {}
+    for key, value in item.items():
+        kept[key] = value
 
-    return kept | {k: item[k] for k in TRAILING if k in item}
+        # The inherited location reads as a citation, so it follows the cite.
+        if key == ANCHOR:
+            kept.update(inherited)
+
+    # An item with no cite to anchor to still keeps its restaurant's location.
+    if ANCHOR not in item:
+        return kept | inherited
+
+    return kept
 
 
 def build_source(raw: dict[str, Any]) -> dict[str, Any]:
@@ -44,35 +52,9 @@ def build_document(raws: list[dict[str, Any]]) -> dict[str, Any]:
     }
 
 
-def render(value: Any, depth: int = 0) -> str:
-    """JSON at indent 2, except an all-string array, which stays inline."""
-    pad, inner = "  " * depth, "  " * (depth + 1)
-
-    if isinstance(value, dict):
-        if not value:
-            return "{}"
-        body = ",\n".join(
-            f"{inner}{json.dumps(k, ensure_ascii=False)}: "
-            f"{render(v, depth + 1)}"
-            for k, v in value.items()
-        )
-
-        return "{\n" + body + "\n" + pad + "}"
-
-    if isinstance(value, list):
-        if not value:
-            return "[]"
-        if all(isinstance(v, str) for v in value):
-            joined = ", ".join(
-                json.dumps(v, ensure_ascii=False) for v in value
-            )
-
-            return f"[{joined}]"
-        body = ",\n".join(inner + render(v, depth + 1) for v in value)
-
-        return "[\n" + body + "\n" + pad + "]"
-
-    return json.dumps(value, ensure_ascii=False)
+def render(value: Any) -> str:
+    """The artifact's text, matching how the reviewed sources are written."""
+    return json.dumps(value, indent=2, ensure_ascii=False)
 
 
 def read_sources(root: pathlib.Path) -> list[dict[str, Any]]:
