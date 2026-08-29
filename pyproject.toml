@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 # The distribution name is prefixed because `eatout` is taken on PyPI. The
 # import stays `eatout`.
 name = "mealtime-eatout"
-version = "0.3.2"
+version = "0.3.3"
 description = "Cited vegetarian restaurant nutrition as ranked candidate records."
 readme = "README.md"
 requires-python = ">=3.13"
@@ -26,7 +26,7 @@ classifiers = [
 ]
 dependencies = [
     "click>=8.1",
-    "click-agentcli>=0.1.0",
+    "click-agentcli>=0.4.1",
     "mealtime-nutrients>=0.3.0",
 ]
 
