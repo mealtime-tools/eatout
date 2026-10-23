@@ -2267,15 +2267,17 @@
           "item_name": "Whopper Plant Based Natural Cheese",
           "vegetarian": true,
           "vegan": false,
-          "confidence": "exact",
-          "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. Fat and carbohydrate are omitted because the PDF's per-serve macro set is inconsistent with its labelled energy.",
+          "confidence": "low_confidence_estimate",
+          "notes": "Official Hungry Jack's plant based and veggie PDF, printed 28 Jan 2026. kcal and protein are exact; fat and carbohydrate are the PDF's 47 g and 50 g scaled by 0.819 to fit its labelled energy, because its macro set overshoots that energy by ~18%.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals_1.pdf",
           "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
           "tags": [
             "hungry-jacks-plant-based-whopper"
           ],
           "kcal": 628.6,
-          "protein": 29.6
+          "protein": 29.6,
+          "fat": 38.5,
+          "carbs": 40.9
         },
         {
           "item_name": "Whopper Plant Based Angry Natural Cheese",
@@ -2330,15 +2332,17 @@
           "item_name": "Extra Plant-Based Patty",
           "vegetarian": true,
           "vegan": false,
-          "confidence": "high_confidence_estimate",
-          "notes": "Hungry Jack's ordering API modifier 72692 is 1020 kJ; protein isolated from official Plant Based Natural Cheese with-patty and no-patty PDF rows.",
+          "confidence": "low_confidence_estimate",
+          "notes": "Hungry Jack's ordering API modifier 72692 is 1020 kJ; protein isolated from official Plant Based Natural Cheese with-patty and no-patty PDF rows. Fat and carbohydrate are estimates: carbohydrate assumed 5 g from typical soy patty labels, fat is the remaining energy.",
           "source_url": "https://www.hungryjacks.com.au/Upload/HJ/Media/Media/Nutritional-Guide-23-January-2026-Plant-Based-Veggie-Nutritionals.pdf",
           "maps_url": "https://maps.google.com/?cid=1852214063249257591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
           "applies_to_tags": [
             "hungry-jacks-plant-based-whopper"
           ],
           "kcal": 243.8,
-          "protein": 15.6
+          "protein": 15.6,
+          "fat": 17.9,
+          "carbs": 5
         }
       ]
     },

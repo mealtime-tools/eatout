@@ -11,7 +11,7 @@ from eatout.data import load_meals
 from eatout.search import meal_candidate
 
 DATA_DIGEST = (
-    "6ff14c155552107a1c9d324a2c336daf7e917c890047924c2d865758d2885089"
+    "ef528476779bfc43a7601c1a3281ea600edb8d4dd41c8785769a0af603742b90"
 )
 
 
