@@ -2,6 +2,10 @@ version = 1
 revision = 5
 requires-python = ">=3.13"
 
+[options]
+exclude-newer = "0001-01-01T00:00:00Z" # This has no effect and is included for backwards compatibility when using relative exclude-newer values.
+exclude-newer-span = "PT24H"
+
 [[package]]
 name = "click"
 version = "8.4.2"
@@ -46,7 +50,7 @@ wheels = [
 
 [[package]]
 name = "mealtime-eatout"
-version = "0.3.4"
+version = "0.3.5"
 source = { editable = "." }
 dependencies = [
     { name = "click" },
