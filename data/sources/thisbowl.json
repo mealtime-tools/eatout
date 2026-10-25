@@ -1,6 +1,6 @@
 {
-  "reviewed_at": "2026-07-07T00:23:55.409Z",
-  "restaurant": "FISHBOWL",
+  "reviewed_at": "2026-10-25T01:01:57.000Z",
+  "restaurant": "THISBOWL (formerly FISHBOWL)",
   "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
   "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
   "allow_add_ons": true,
@@ -10,10 +10,10 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
-      "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
+      "notes": "Official THISBOWL regular bowl row; Brown Rice & Cabbage base.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
       "tags": [
-        "fishbowl-custom-bowl"
+        "thisbowl-custom-bowl"
       ],
       "kcal": 606,
       "protein": 20.5,
@@ -25,10 +25,10 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
-      "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
+      "notes": "Official THISBOWL regular bowl row; Brown Rice & Cabbage base.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
       "tags": [
-        "fishbowl-custom-bowl"
+        "thisbowl-custom-bowl"
       ],
       "kcal": 643,
       "protein": 22.9,
@@ -40,10 +40,10 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
-      "notes": "Official FISHBOWL Winter Warmer Box row.",
+      "notes": "Official THISBOWL Winter Warmer Box row.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
       "tags": [
-        "fishbowl-custom-bowl"
+        "thisbowl-custom-bowl"
       ],
       "kcal": 594,
       "protein": 18.2,
@@ -57,10 +57,10 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
-      "notes": "Official FISHBOWL protein portion.",
+      "notes": "Official THISBOWL protein portion.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
       "applies_to_tags": [
-        "fishbowl-custom-bowl"
+        "thisbowl-custom-bowl"
       ],
       "kcal": 136,
       "protein": 9.8,
@@ -71,10 +71,10 @@
       "vegetarian": true,
       "vegan": false,
       "confidence": "exact",
-      "notes": "Official FISHBOWL protein portion.",
+      "notes": "Official THISBOWL protein portion.",
       "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
       "applies_to_tags": [
-        "fishbowl-custom-bowl"
+        "thisbowl-custom-bowl"
       ],
       "kcal": 90,
       "protein": 3,

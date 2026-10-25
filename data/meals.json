@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T00:00:00.000Z",
+  "generated_at": "2026-10-25T01:01:57.000Z",
   "sources": [
     {
       "restaurant": "Banana Blossom",
@@ -1571,95 +1571,6 @@
       "add_ons": []
     },
     {
-      "restaurant": "FISHBOWL",
-      "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-      "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-      "allow_add_ons": true,
-      "base_items": [
-        {
-          "item_name": "Roasted Tofu O.G. Regular Bowl",
-          "vegetarian": true,
-          "vegan": false,
-          "confidence": "exact",
-          "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
-          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": [
-            "fishbowl-custom-bowl"
-          ],
-          "kcal": 606,
-          "protein": 20.5,
-          "fat": 32.9,
-          "carbs": 52.2
-        },
-        {
-          "item_name": "Tofu Boys Regular Bowl",
-          "vegetarian": true,
-          "vegan": false,
-          "confidence": "exact",
-          "notes": "Official FISHBOWL regular bowl row; Brown Rice & Cabbage base.",
-          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": [
-            "fishbowl-custom-bowl"
-          ],
-          "kcal": 643,
-          "protein": 22.9,
-          "fat": 38.6,
-          "carbs": 44.9
-        },
-        {
-          "item_name": "Miso-Glazed Eggplant + Tofu Box",
-          "vegetarian": true,
-          "vegan": false,
-          "confidence": "exact",
-          "notes": "Official FISHBOWL Winter Warmer Box row.",
-          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "tags": [
-            "fishbowl-custom-bowl"
-          ],
-          "kcal": 594,
-          "protein": 18.2,
-          "fat": 26.4,
-          "carbs": 63.2
-        }
-      ],
-      "add_ons": [
-        {
-          "item_name": "Roasted Tofu",
-          "vegetarian": true,
-          "vegan": false,
-          "confidence": "exact",
-          "notes": "Official FISHBOWL protein portion.",
-          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": [
-            "fishbowl-custom-bowl"
-          ],
-          "kcal": 136,
-          "protein": 9.8,
-          "fat": 10
-        },
-        {
-          "item_name": "Miso-Glazed Eggplant",
-          "vegetarian": true,
-          "vegan": false,
-          "confidence": "exact",
-          "notes": "Official FISHBOWL protein portion.",
-          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
-          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
-          "applies_to_tags": [
-            "fishbowl-custom-bowl"
-          ],
-          "kcal": 90,
-          "protein": 3,
-          "fat": 1.2,
-          "carbs": 13.4
-        }
-      ]
-    },
-    {
       "restaurant": "Grill'd",
       "source_url": "https://ordering.digital.grilld.com.au",
       "maps_url": "https://maps.google.com/?cid=15235200541032909243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
@@ -3124,6 +3035,95 @@
           "protein": 2.9,
           "fat": 3.6,
           "carbs": 0.6
+        }
+      ]
+    },
+    {
+      "restaurant": "THISBOWL (formerly FISHBOWL)",
+      "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+      "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+      "allow_add_ons": true,
+      "base_items": [
+        {
+          "item_name": "Roasted Tofu O.G. Regular Bowl",
+          "vegetarian": true,
+          "vegan": false,
+          "confidence": "exact",
+          "notes": "Official THISBOWL regular bowl row; Brown Rice & Cabbage base.",
+          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "tags": [
+            "thisbowl-custom-bowl"
+          ],
+          "kcal": 606,
+          "protein": 20.5,
+          "fat": 32.9,
+          "carbs": 52.2
+        },
+        {
+          "item_name": "Tofu Boys Regular Bowl",
+          "vegetarian": true,
+          "vegan": false,
+          "confidence": "exact",
+          "notes": "Official THISBOWL regular bowl row; Brown Rice & Cabbage base.",
+          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "tags": [
+            "thisbowl-custom-bowl"
+          ],
+          "kcal": 643,
+          "protein": 22.9,
+          "fat": 38.6,
+          "carbs": 44.9
+        },
+        {
+          "item_name": "Miso-Glazed Eggplant + Tofu Box",
+          "vegetarian": true,
+          "vegan": false,
+          "confidence": "exact",
+          "notes": "Official THISBOWL Winter Warmer Box row.",
+          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "tags": [
+            "thisbowl-custom-bowl"
+          ],
+          "kcal": 594,
+          "protein": 18.2,
+          "fat": 26.4,
+          "carbs": 63.2
+        }
+      ],
+      "add_ons": [
+        {
+          "item_name": "Roasted Tofu",
+          "vegetarian": true,
+          "vegan": false,
+          "confidence": "exact",
+          "notes": "Official THISBOWL protein portion.",
+          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "applies_to_tags": [
+            "thisbowl-custom-bowl"
+          ],
+          "kcal": 136,
+          "protein": 9.8,
+          "fat": 10
+        },
+        {
+          "item_name": "Miso-Glazed Eggplant",
+          "vegetarian": true,
+          "vegan": false,
+          "confidence": "exact",
+          "notes": "Official THISBOWL protein portion.",
+          "source_url": "https://cdn.shopify.com/s/files/1/0758/2469/3413/files/JUNE_26_Nutritional_Overview.pdf?v=1781594365",
+          "maps_url": "https://maps.google.com/?cid=5210661613391737453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgBIAA",
+          "applies_to_tags": [
+            "thisbowl-custom-bowl"
+          ],
+          "kcal": 90,
+          "protein": 3,
+          "fat": 1.2,
+          "carbs": 13.4
         }
       ]
     },
